@@ -1,0 +1,2792 @@
+[
+  {
+    "CO_MICRORREGIAO": 11001,
+    "NO_MICRORREGIAO": "Porto Velho",
+    "CO_MESORREGIAO": 1101
+  },
+  {
+    "CO_MICRORREGIAO": 11002,
+    "NO_MICRORREGIAO": "Guajará-Mirim",
+    "CO_MESORREGIAO": 1101
+  },
+  {
+    "CO_MICRORREGIAO": 11003,
+    "NO_MICRORREGIAO": "Ariquemes",
+    "CO_MESORREGIAO": 1102
+  },
+  {
+    "CO_MICRORREGIAO": 11004,
+    "NO_MICRORREGIAO": "Ji-Paraná",
+    "CO_MESORREGIAO": 1102
+  },
+  {
+    "CO_MICRORREGIAO": 11005,
+    "NO_MICRORREGIAO": "Alvorada D'Oeste",
+    "CO_MESORREGIAO": 1102
+  },
+  {
+    "CO_MICRORREGIAO": 11006,
+    "NO_MICRORREGIAO": "Cacoal",
+    "CO_MESORREGIAO": 1102
+  },
+  {
+    "CO_MICRORREGIAO": 11007,
+    "NO_MICRORREGIAO": "Vilhena",
+    "CO_MESORREGIAO": 1102
+  },
+  {
+    "CO_MICRORREGIAO": 11008,
+    "NO_MICRORREGIAO": "Colorado do Oeste",
+    "CO_MESORREGIAO": 1102
+  },
+  {
+    "CO_MICRORREGIAO": 12001,
+    "NO_MICRORREGIAO": "Cruzeiro do Sul",
+    "CO_MESORREGIAO": 1201
+  },
+  {
+    "CO_MICRORREGIAO": 12002,
+    "NO_MICRORREGIAO": "Tarauacá",
+    "CO_MESORREGIAO": 1201
+  },
+  {
+    "CO_MICRORREGIAO": 12003,
+    "NO_MICRORREGIAO": "Sena Madureira",
+    "CO_MESORREGIAO": 1202
+  },
+  {
+    "CO_MICRORREGIAO": 12004,
+    "NO_MICRORREGIAO": "Rio Branco",
+    "CO_MESORREGIAO": 1202
+  },
+  {
+    "CO_MICRORREGIAO": 12005,
+    "NO_MICRORREGIAO": "Brasiléia",
+    "CO_MESORREGIAO": 1202
+  },
+  {
+    "CO_MICRORREGIAO": 13001,
+    "NO_MICRORREGIAO": "Rio Negro",
+    "CO_MESORREGIAO": 1301
+  },
+  {
+    "CO_MICRORREGIAO": 13002,
+    "NO_MICRORREGIAO": "Japurá",
+    "CO_MESORREGIAO": 1301
+  },
+  {
+    "CO_MICRORREGIAO": 13003,
+    "NO_MICRORREGIAO": "Alto Solimões",
+    "CO_MESORREGIAO": 1302
+  },
+  {
+    "CO_MICRORREGIAO": 13004,
+    "NO_MICRORREGIAO": "Juruá",
+    "CO_MESORREGIAO": 1302
+  },
+  {
+    "CO_MICRORREGIAO": 13005,
+    "NO_MICRORREGIAO": "Tefé",
+    "CO_MESORREGIAO": 1303
+  },
+  {
+    "CO_MICRORREGIAO": 13006,
+    "NO_MICRORREGIAO": "Coari",
+    "CO_MESORREGIAO": 1303
+  },
+  {
+    "CO_MICRORREGIAO": 13007,
+    "NO_MICRORREGIAO": "Manaus",
+    "CO_MESORREGIAO": 1303
+  },
+  {
+    "CO_MICRORREGIAO": 13008,
+    "NO_MICRORREGIAO": "Rio Preto da Eva",
+    "CO_MESORREGIAO": 1303
+  },
+  {
+    "CO_MICRORREGIAO": 13009,
+    "NO_MICRORREGIAO": "Itacoatiara",
+    "CO_MESORREGIAO": 1303
+  },
+  {
+    "CO_MICRORREGIAO": 13010,
+    "NO_MICRORREGIAO": "Parintins",
+    "CO_MESORREGIAO": 1303
+  },
+  {
+    "CO_MICRORREGIAO": 13011,
+    "NO_MICRORREGIAO": "Boca do Acre",
+    "CO_MESORREGIAO": 1304
+  },
+  {
+    "CO_MICRORREGIAO": 13012,
+    "NO_MICRORREGIAO": "Purus",
+    "CO_MESORREGIAO": 1304
+  },
+  {
+    "CO_MICRORREGIAO": 13013,
+    "NO_MICRORREGIAO": "Madeira",
+    "CO_MESORREGIAO": 1304
+  },
+  {
+    "CO_MICRORREGIAO": 14001,
+    "NO_MICRORREGIAO": "Boa Vista",
+    "CO_MESORREGIAO": 1401
+  },
+  {
+    "CO_MICRORREGIAO": 14002,
+    "NO_MICRORREGIAO": "Nordeste de Roraima",
+    "CO_MESORREGIAO": 1401
+  },
+  {
+    "CO_MICRORREGIAO": 14003,
+    "NO_MICRORREGIAO": "Caracaraí",
+    "CO_MESORREGIAO": 1402
+  },
+  {
+    "CO_MICRORREGIAO": 14004,
+    "NO_MICRORREGIAO": "Sudeste de Roraima",
+    "CO_MESORREGIAO": 1402
+  },
+  {
+    "CO_MICRORREGIAO": 15001,
+    "NO_MICRORREGIAO": "Óbidos",
+    "CO_MESORREGIAO": 1501
+  },
+  {
+    "CO_MICRORREGIAO": 15002,
+    "NO_MICRORREGIAO": "Santarém",
+    "CO_MESORREGIAO": 1501
+  },
+  {
+    "CO_MICRORREGIAO": 15003,
+    "NO_MICRORREGIAO": "Almeirim",
+    "CO_MESORREGIAO": 1501
+  },
+  {
+    "CO_MICRORREGIAO": 15004,
+    "NO_MICRORREGIAO": "Portel",
+    "CO_MESORREGIAO": 1502
+  },
+  {
+    "CO_MICRORREGIAO": 15005,
+    "NO_MICRORREGIAO": "Furos de Breves",
+    "CO_MESORREGIAO": 1502
+  },
+  {
+    "CO_MICRORREGIAO": 15006,
+    "NO_MICRORREGIAO": "Arari",
+    "CO_MESORREGIAO": 1502
+  },
+  {
+    "CO_MICRORREGIAO": 15007,
+    "NO_MICRORREGIAO": "Belém",
+    "CO_MESORREGIAO": 1503
+  },
+  {
+    "CO_MICRORREGIAO": 15008,
+    "NO_MICRORREGIAO": "Castanhal",
+    "CO_MESORREGIAO": 1503
+  },
+  {
+    "CO_MICRORREGIAO": 15009,
+    "NO_MICRORREGIAO": "Salgado",
+    "CO_MESORREGIAO": 1504
+  },
+  {
+    "CO_MICRORREGIAO": 15010,
+    "NO_MICRORREGIAO": "Bragantina",
+    "CO_MESORREGIAO": 1504
+  },
+  {
+    "CO_MICRORREGIAO": 15011,
+    "NO_MICRORREGIAO": "Cametá",
+    "CO_MESORREGIAO": 1504
+  },
+  {
+    "CO_MICRORREGIAO": 15012,
+    "NO_MICRORREGIAO": "Tomé-Açu",
+    "CO_MESORREGIAO": 1504
+  },
+  {
+    "CO_MICRORREGIAO": 15013,
+    "NO_MICRORREGIAO": "Guamá",
+    "CO_MESORREGIAO": 1504
+  },
+  {
+    "CO_MICRORREGIAO": 15014,
+    "NO_MICRORREGIAO": "Itaituba",
+    "CO_MESORREGIAO": 1505
+  },
+  {
+    "CO_MICRORREGIAO": 15015,
+    "NO_MICRORREGIAO": "Altamira",
+    "CO_MESORREGIAO": 1505
+  },
+  {
+    "CO_MICRORREGIAO": 15016,
+    "NO_MICRORREGIAO": "Tucuruí",
+    "CO_MESORREGIAO": 1506
+  },
+  {
+    "CO_MICRORREGIAO": 15017,
+    "NO_MICRORREGIAO": "Paragominas",
+    "CO_MESORREGIAO": 1506
+  },
+  {
+    "CO_MICRORREGIAO": 15018,
+    "NO_MICRORREGIAO": "São Félix do Xingu",
+    "CO_MESORREGIAO": 1506
+  },
+  {
+    "CO_MICRORREGIAO": 15019,
+    "NO_MICRORREGIAO": "Parauapebas",
+    "CO_MESORREGIAO": 1506
+  },
+  {
+    "CO_MICRORREGIAO": 15020,
+    "NO_MICRORREGIAO": "Marabá",
+    "CO_MESORREGIAO": 1506
+  },
+  {
+    "CO_MICRORREGIAO": 15021,
+    "NO_MICRORREGIAO": "Redenção",
+    "CO_MESORREGIAO": 1506
+  },
+  {
+    "CO_MICRORREGIAO": 15022,
+    "NO_MICRORREGIAO": "Conceição do Araguaia",
+    "CO_MESORREGIAO": 1506
+  },
+  {
+    "CO_MICRORREGIAO": 16001,
+    "NO_MICRORREGIAO": "Oiapoque",
+    "CO_MESORREGIAO": 1601
+  },
+  {
+    "CO_MICRORREGIAO": 16002,
+    "NO_MICRORREGIAO": "Amapá",
+    "CO_MESORREGIAO": 1601
+  },
+  {
+    "CO_MICRORREGIAO": 16003,
+    "NO_MICRORREGIAO": "Macapá",
+    "CO_MESORREGIAO": 1602
+  },
+  {
+    "CO_MICRORREGIAO": 16004,
+    "NO_MICRORREGIAO": "Mazagão",
+    "CO_MESORREGIAO": 1602
+  },
+  {
+    "CO_MICRORREGIAO": 17001,
+    "NO_MICRORREGIAO": "Bico do Papagaio",
+    "CO_MESORREGIAO": 1701
+  },
+  {
+    "CO_MICRORREGIAO": 17002,
+    "NO_MICRORREGIAO": "Araguaína",
+    "CO_MESORREGIAO": 1701
+  },
+  {
+    "CO_MICRORREGIAO": 17003,
+    "NO_MICRORREGIAO": "Miracema do Tocantins",
+    "CO_MESORREGIAO": 1701
+  },
+  {
+    "CO_MICRORREGIAO": 17004,
+    "NO_MICRORREGIAO": "Rio Formoso",
+    "CO_MESORREGIAO": 1701
+  },
+  {
+    "CO_MICRORREGIAO": 17005,
+    "NO_MICRORREGIAO": "Gurupi",
+    "CO_MESORREGIAO": 1701
+  },
+  {
+    "CO_MICRORREGIAO": 17006,
+    "NO_MICRORREGIAO": "Porto Nacional",
+    "CO_MESORREGIAO": 1702
+  },
+  {
+    "CO_MICRORREGIAO": 17007,
+    "NO_MICRORREGIAO": "Jalapão",
+    "CO_MESORREGIAO": 1702
+  },
+  {
+    "CO_MICRORREGIAO": 17008,
+    "NO_MICRORREGIAO": "Dianópolis",
+    "CO_MESORREGIAO": 1702
+  },
+  {
+    "CO_MICRORREGIAO": 21001,
+    "NO_MICRORREGIAO": "Litoral Ocidental Maranhense",
+    "CO_MESORREGIAO": 2101
+  },
+  {
+    "CO_MICRORREGIAO": 21002,
+    "NO_MICRORREGIAO": "Aglomeração Urbana de São Luís",
+    "CO_MESORREGIAO": 2101
+  },
+  {
+    "CO_MICRORREGIAO": 21003,
+    "NO_MICRORREGIAO": "Rosário",
+    "CO_MESORREGIAO": 2101
+  },
+  {
+    "CO_MICRORREGIAO": 21004,
+    "NO_MICRORREGIAO": "Lençóis Maranhenses",
+    "CO_MESORREGIAO": 2101
+  },
+  {
+    "CO_MICRORREGIAO": 21005,
+    "NO_MICRORREGIAO": "Baixada Maranhense",
+    "CO_MESORREGIAO": 2101
+  },
+  {
+    "CO_MICRORREGIAO": 21006,
+    "NO_MICRORREGIAO": "Itapecuru Mirim",
+    "CO_MESORREGIAO": 2101
+  },
+  {
+    "CO_MICRORREGIAO": 21007,
+    "NO_MICRORREGIAO": "Gurupi",
+    "CO_MESORREGIAO": 2102
+  },
+  {
+    "CO_MICRORREGIAO": 21008,
+    "NO_MICRORREGIAO": "Pindaré",
+    "CO_MESORREGIAO": 2102
+  },
+  {
+    "CO_MICRORREGIAO": 21009,
+    "NO_MICRORREGIAO": "Imperatriz",
+    "CO_MESORREGIAO": 2102
+  },
+  {
+    "CO_MICRORREGIAO": 21010,
+    "NO_MICRORREGIAO": "Médio Mearim",
+    "CO_MESORREGIAO": 2103
+  },
+  {
+    "CO_MICRORREGIAO": 21011,
+    "NO_MICRORREGIAO": "Alto Mearim e Grajaú",
+    "CO_MESORREGIAO": 2103
+  },
+  {
+    "CO_MICRORREGIAO": 21012,
+    "NO_MICRORREGIAO": "Presidente Dutra",
+    "CO_MESORREGIAO": 2103
+  },
+  {
+    "CO_MICRORREGIAO": 21013,
+    "NO_MICRORREGIAO": "Baixo Parnaíba Maranhense",
+    "CO_MESORREGIAO": 2104
+  },
+  {
+    "CO_MICRORREGIAO": 21014,
+    "NO_MICRORREGIAO": "Chapadinha",
+    "CO_MESORREGIAO": 2104
+  },
+  {
+    "CO_MICRORREGIAO": 21015,
+    "NO_MICRORREGIAO": "Codó",
+    "CO_MESORREGIAO": 2104
+  },
+  {
+    "CO_MICRORREGIAO": 21016,
+    "NO_MICRORREGIAO": "Coelho Neto",
+    "CO_MESORREGIAO": 2104
+  },
+  {
+    "CO_MICRORREGIAO": 21017,
+    "NO_MICRORREGIAO": "Caxias",
+    "CO_MESORREGIAO": 2104
+  },
+  {
+    "CO_MICRORREGIAO": 21018,
+    "NO_MICRORREGIAO": "Chapadas do Alto Itapecuru",
+    "CO_MESORREGIAO": 2104
+  },
+  {
+    "CO_MICRORREGIAO": 21019,
+    "NO_MICRORREGIAO": "Porto Franco",
+    "CO_MESORREGIAO": 2105
+  },
+  {
+    "CO_MICRORREGIAO": 21020,
+    "NO_MICRORREGIAO": "Gerais de Balsas",
+    "CO_MESORREGIAO": 2105
+  },
+  {
+    "CO_MICRORREGIAO": 21021,
+    "NO_MICRORREGIAO": "Chapadas das Mangabeiras",
+    "CO_MESORREGIAO": 2105
+  },
+  {
+    "CO_MICRORREGIAO": 22001,
+    "NO_MICRORREGIAO": "Baixo Parnaíba Piauiense",
+    "CO_MESORREGIAO": 2201
+  },
+  {
+    "CO_MICRORREGIAO": 22002,
+    "NO_MICRORREGIAO": "Litoral Piauiense",
+    "CO_MESORREGIAO": 2201
+  },
+  {
+    "CO_MICRORREGIAO": 22003,
+    "NO_MICRORREGIAO": "Teresina",
+    "CO_MESORREGIAO": 2202
+  },
+  {
+    "CO_MICRORREGIAO": 22004,
+    "NO_MICRORREGIAO": "Campo Maior",
+    "CO_MESORREGIAO": 2202
+  },
+  {
+    "CO_MICRORREGIAO": 22005,
+    "NO_MICRORREGIAO": "Médio Parnaíba Piauiense",
+    "CO_MESORREGIAO": 2202
+  },
+  {
+    "CO_MICRORREGIAO": 22006,
+    "NO_MICRORREGIAO": "Valença do Piauí",
+    "CO_MESORREGIAO": 2202
+  },
+  {
+    "CO_MICRORREGIAO": 22007,
+    "NO_MICRORREGIAO": "Alto Parnaíba Piauiense",
+    "CO_MESORREGIAO": 2203
+  },
+  {
+    "CO_MICRORREGIAO": 22008,
+    "NO_MICRORREGIAO": "Bertolínia",
+    "CO_MESORREGIAO": 2203
+  },
+  {
+    "CO_MICRORREGIAO": 22009,
+    "NO_MICRORREGIAO": "Floriano",
+    "CO_MESORREGIAO": 2203
+  },
+  {
+    "CO_MICRORREGIAO": 22010,
+    "NO_MICRORREGIAO": "Alto Médio Gurguéia",
+    "CO_MESORREGIAO": 2203
+  },
+  {
+    "CO_MICRORREGIAO": 22011,
+    "NO_MICRORREGIAO": "São Raimundo Nonato",
+    "CO_MESORREGIAO": 2203
+  },
+  {
+    "CO_MICRORREGIAO": 22012,
+    "NO_MICRORREGIAO": "Chapadas do Extremo Sul Piauiense",
+    "CO_MESORREGIAO": 2203
+  },
+  {
+    "CO_MICRORREGIAO": 22013,
+    "NO_MICRORREGIAO": "Picos",
+    "CO_MESORREGIAO": 2204
+  },
+  {
+    "CO_MICRORREGIAO": 22014,
+    "NO_MICRORREGIAO": "Pio IX",
+    "CO_MESORREGIAO": 2204
+  },
+  {
+    "CO_MICRORREGIAO": 22015,
+    "NO_MICRORREGIAO": "Alto Médio Canindé",
+    "CO_MESORREGIAO": 2204
+  },
+  {
+    "CO_MICRORREGIAO": 23001,
+    "NO_MICRORREGIAO": "Litoral de Camocim e Acaraú",
+    "CO_MESORREGIAO": 2301
+  },
+  {
+    "CO_MICRORREGIAO": 23002,
+    "NO_MICRORREGIAO": "Ibiapaba",
+    "CO_MESORREGIAO": 2301
+  },
+  {
+    "CO_MICRORREGIAO": 23003,
+    "NO_MICRORREGIAO": "Coreaú",
+    "CO_MESORREGIAO": 2301
+  },
+  {
+    "CO_MICRORREGIAO": 23004,
+    "NO_MICRORREGIAO": "Meruoca",
+    "CO_MESORREGIAO": 2301
+  },
+  {
+    "CO_MICRORREGIAO": 23005,
+    "NO_MICRORREGIAO": "Sobral",
+    "CO_MESORREGIAO": 2301
+  },
+  {
+    "CO_MICRORREGIAO": 23006,
+    "NO_MICRORREGIAO": "Ipu",
+    "CO_MESORREGIAO": 2301
+  },
+  {
+    "CO_MICRORREGIAO": 23007,
+    "NO_MICRORREGIAO": "Santa Quitéria",
+    "CO_MESORREGIAO": 2301
+  },
+  {
+    "CO_MICRORREGIAO": 23008,
+    "NO_MICRORREGIAO": "Itapipoca",
+    "CO_MESORREGIAO": 2302
+  },
+  {
+    "CO_MICRORREGIAO": 23009,
+    "NO_MICRORREGIAO": "Baixo Curu",
+    "CO_MESORREGIAO": 2302
+  },
+  {
+    "CO_MICRORREGIAO": 23010,
+    "NO_MICRORREGIAO": "Uruburetama",
+    "CO_MESORREGIAO": 2302
+  },
+  {
+    "CO_MICRORREGIAO": 23011,
+    "NO_MICRORREGIAO": "Médio Curu",
+    "CO_MESORREGIAO": 2302
+  },
+  {
+    "CO_MICRORREGIAO": 23012,
+    "NO_MICRORREGIAO": "Canindé",
+    "CO_MESORREGIAO": 2302
+  },
+  {
+    "CO_MICRORREGIAO": 23013,
+    "NO_MICRORREGIAO": "Baturité",
+    "CO_MESORREGIAO": 2302
+  },
+  {
+    "CO_MICRORREGIAO": 23014,
+    "NO_MICRORREGIAO": "Chorozinho",
+    "CO_MESORREGIAO": 2302
+  },
+  {
+    "CO_MICRORREGIAO": 23015,
+    "NO_MICRORREGIAO": "Cascavel",
+    "CO_MESORREGIAO": 2302
+  },
+  {
+    "CO_MICRORREGIAO": 23016,
+    "NO_MICRORREGIAO": "Fortaleza",
+    "CO_MESORREGIAO": 2303
+  },
+  {
+    "CO_MICRORREGIAO": 23017,
+    "NO_MICRORREGIAO": "Pacajus",
+    "CO_MESORREGIAO": 2303
+  },
+  {
+    "CO_MICRORREGIAO": 23018,
+    "NO_MICRORREGIAO": "Sertão de Cratéus",
+    "CO_MESORREGIAO": 2304
+  },
+  {
+    "CO_MICRORREGIAO": 23019,
+    "NO_MICRORREGIAO": "Sertão de Quixeramobim",
+    "CO_MESORREGIAO": 2304
+  },
+  {
+    "CO_MICRORREGIAO": 23020,
+    "NO_MICRORREGIAO": "Sertão de Inhamuns",
+    "CO_MESORREGIAO": 2304
+  },
+  {
+    "CO_MICRORREGIAO": 23021,
+    "NO_MICRORREGIAO": "Sertão de Senador Pompeu",
+    "CO_MESORREGIAO": 2304
+  },
+  {
+    "CO_MICRORREGIAO": 23022,
+    "NO_MICRORREGIAO": "Litoral de Aracati",
+    "CO_MESORREGIAO": 2305
+  },
+  {
+    "CO_MICRORREGIAO": 23023,
+    "NO_MICRORREGIAO": "Baixo Jaguaribe",
+    "CO_MESORREGIAO": 2305
+  },
+  {
+    "CO_MICRORREGIAO": 23024,
+    "NO_MICRORREGIAO": "Médio Jaguaribe",
+    "CO_MESORREGIAO": 2305
+  },
+  {
+    "CO_MICRORREGIAO": 23025,
+    "NO_MICRORREGIAO": "Serra do Pereiro",
+    "CO_MESORREGIAO": 2305
+  },
+  {
+    "CO_MICRORREGIAO": 23026,
+    "NO_MICRORREGIAO": "Iguatu",
+    "CO_MESORREGIAO": 2306
+  },
+  {
+    "CO_MICRORREGIAO": 23027,
+    "NO_MICRORREGIAO": "Várzea Alegre",
+    "CO_MESORREGIAO": 2306
+  },
+  {
+    "CO_MICRORREGIAO": 23028,
+    "NO_MICRORREGIAO": "Lavras da Mangabeira",
+    "CO_MESORREGIAO": 2306
+  },
+  {
+    "CO_MICRORREGIAO": 23029,
+    "NO_MICRORREGIAO": "Chapada do Araripe",
+    "CO_MESORREGIAO": 2307
+  },
+  {
+    "CO_MICRORREGIAO": 23030,
+    "NO_MICRORREGIAO": "Caririaçu",
+    "CO_MESORREGIAO": 2307
+  },
+  {
+    "CO_MICRORREGIAO": 23031,
+    "NO_MICRORREGIAO": "Barro",
+    "CO_MESORREGIAO": 2307
+  },
+  {
+    "CO_MICRORREGIAO": 23032,
+    "NO_MICRORREGIAO": "Cariri",
+    "CO_MESORREGIAO": 2307
+  },
+  {
+    "CO_MICRORREGIAO": 23033,
+    "NO_MICRORREGIAO": "Brejo Santo",
+    "CO_MESORREGIAO": 2307
+  },
+  {
+    "CO_MICRORREGIAO": 24001,
+    "NO_MICRORREGIAO": "Mossoró",
+    "CO_MESORREGIAO": 2401
+  },
+  {
+    "CO_MICRORREGIAO": 24002,
+    "NO_MICRORREGIAO": "Chapada do Apodi",
+    "CO_MESORREGIAO": 2401
+  },
+  {
+    "CO_MICRORREGIAO": 24003,
+    "NO_MICRORREGIAO": "Médio Oeste",
+    "CO_MESORREGIAO": 2401
+  },
+  {
+    "CO_MICRORREGIAO": 24004,
+    "NO_MICRORREGIAO": "Vale do Açu",
+    "CO_MESORREGIAO": 2401
+  },
+  {
+    "CO_MICRORREGIAO": 24005,
+    "NO_MICRORREGIAO": "Serra de São Miguel",
+    "CO_MESORREGIAO": 2401
+  },
+  {
+    "CO_MICRORREGIAO": 24006,
+    "NO_MICRORREGIAO": "Pau dos Ferros",
+    "CO_MESORREGIAO": 2401
+  },
+  {
+    "CO_MICRORREGIAO": 24007,
+    "NO_MICRORREGIAO": "Umarizal",
+    "CO_MESORREGIAO": 2401
+  },
+  {
+    "CO_MICRORREGIAO": 24008,
+    "NO_MICRORREGIAO": "Macau",
+    "CO_MESORREGIAO": 2402
+  },
+  {
+    "CO_MICRORREGIAO": 24009,
+    "NO_MICRORREGIAO": "Angicos",
+    "CO_MESORREGIAO": 2402
+  },
+  {
+    "CO_MICRORREGIAO": 24010,
+    "NO_MICRORREGIAO": "Serra de Santana",
+    "CO_MESORREGIAO": 2402
+  },
+  {
+    "CO_MICRORREGIAO": 24011,
+    "NO_MICRORREGIAO": "Seridó Ocidental",
+    "CO_MESORREGIAO": 2402
+  },
+  {
+    "CO_MICRORREGIAO": 24012,
+    "NO_MICRORREGIAO": "Seridó Oriental",
+    "CO_MESORREGIAO": 2402
+  },
+  {
+    "CO_MICRORREGIAO": 24013,
+    "NO_MICRORREGIAO": "Baixa Verde",
+    "CO_MESORREGIAO": 2403
+  },
+  {
+    "CO_MICRORREGIAO": 24014,
+    "NO_MICRORREGIAO": "Borborema Potiguar",
+    "CO_MESORREGIAO": 2403
+  },
+  {
+    "CO_MICRORREGIAO": 24015,
+    "NO_MICRORREGIAO": "Agreste Potiguar",
+    "CO_MESORREGIAO": 2403
+  },
+  {
+    "CO_MICRORREGIAO": 24016,
+    "NO_MICRORREGIAO": "Litoral Nordeste",
+    "CO_MESORREGIAO": 2404
+  },
+  {
+    "CO_MICRORREGIAO": 24017,
+    "NO_MICRORREGIAO": "Macaíba",
+    "CO_MESORREGIAO": 2404
+  },
+  {
+    "CO_MICRORREGIAO": 24018,
+    "NO_MICRORREGIAO": "Natal",
+    "CO_MESORREGIAO": 2404
+  },
+  {
+    "CO_MICRORREGIAO": 24019,
+    "NO_MICRORREGIAO": "Litoral Sul",
+    "CO_MESORREGIAO": 2404
+  },
+  {
+    "CO_MICRORREGIAO": 25001,
+    "NO_MICRORREGIAO": "Catolé do Rocha",
+    "CO_MESORREGIAO": 2501
+  },
+  {
+    "CO_MICRORREGIAO": 25002,
+    "NO_MICRORREGIAO": "Cajazeiras",
+    "CO_MESORREGIAO": 2501
+  },
+  {
+    "CO_MICRORREGIAO": 25003,
+    "NO_MICRORREGIAO": "Sousa",
+    "CO_MESORREGIAO": 2501
+  },
+  {
+    "CO_MICRORREGIAO": 25004,
+    "NO_MICRORREGIAO": "Patos",
+    "CO_MESORREGIAO": 2501
+  },
+  {
+    "CO_MICRORREGIAO": 25005,
+    "NO_MICRORREGIAO": "Piancó",
+    "CO_MESORREGIAO": 2501
+  },
+  {
+    "CO_MICRORREGIAO": 25006,
+    "NO_MICRORREGIAO": "Itaporanga",
+    "CO_MESORREGIAO": 2501
+  },
+  {
+    "CO_MICRORREGIAO": 25007,
+    "NO_MICRORREGIAO": "Serra do Teixeira",
+    "CO_MESORREGIAO": 2501
+  },
+  {
+    "CO_MICRORREGIAO": 25008,
+    "NO_MICRORREGIAO": "Seridó Ocidental Paraibano",
+    "CO_MESORREGIAO": 2502
+  },
+  {
+    "CO_MICRORREGIAO": 25009,
+    "NO_MICRORREGIAO": "Seridó Oriental Paraibano",
+    "CO_MESORREGIAO": 2502
+  },
+  {
+    "CO_MICRORREGIAO": 25010,
+    "NO_MICRORREGIAO": "Cariri Ocidental",
+    "CO_MESORREGIAO": 2502
+  },
+  {
+    "CO_MICRORREGIAO": 25011,
+    "NO_MICRORREGIAO": "Cariri Oriental",
+    "CO_MESORREGIAO": 2502
+  },
+  {
+    "CO_MICRORREGIAO": 25012,
+    "NO_MICRORREGIAO": "Curimataú Ocidental",
+    "CO_MESORREGIAO": 2503
+  },
+  {
+    "CO_MICRORREGIAO": 25013,
+    "NO_MICRORREGIAO": "Curimataú Oriental",
+    "CO_MESORREGIAO": 2503
+  },
+  {
+    "CO_MICRORREGIAO": 25014,
+    "NO_MICRORREGIAO": "Esperança",
+    "CO_MESORREGIAO": 2503
+  },
+  {
+    "CO_MICRORREGIAO": 25015,
+    "NO_MICRORREGIAO": "Brejo Paraibano",
+    "CO_MESORREGIAO": 2503
+  },
+  {
+    "CO_MICRORREGIAO": 25016,
+    "NO_MICRORREGIAO": "Guarabira",
+    "CO_MESORREGIAO": 2503
+  },
+  {
+    "CO_MICRORREGIAO": 25017,
+    "NO_MICRORREGIAO": "Campina Grande",
+    "CO_MESORREGIAO": 2503
+  },
+  {
+    "CO_MICRORREGIAO": 25018,
+    "NO_MICRORREGIAO": "Itabaiana",
+    "CO_MESORREGIAO": 2503
+  },
+  {
+    "CO_MICRORREGIAO": 25019,
+    "NO_MICRORREGIAO": "Umbuzeiro",
+    "CO_MESORREGIAO": 2503
+  },
+  {
+    "CO_MICRORREGIAO": 25020,
+    "NO_MICRORREGIAO": "Litoral Norte",
+    "CO_MESORREGIAO": 2504
+  },
+  {
+    "CO_MICRORREGIAO": 25021,
+    "NO_MICRORREGIAO": "Sapé",
+    "CO_MESORREGIAO": 2504
+  },
+  {
+    "CO_MICRORREGIAO": 25022,
+    "NO_MICRORREGIAO": "João Pessoa",
+    "CO_MESORREGIAO": 2504
+  },
+  {
+    "CO_MICRORREGIAO": 25023,
+    "NO_MICRORREGIAO": "Litoral Sul",
+    "CO_MESORREGIAO": 2504
+  },
+  {
+    "CO_MICRORREGIAO": 26001,
+    "NO_MICRORREGIAO": "Araripina",
+    "CO_MESORREGIAO": 2601
+  },
+  {
+    "CO_MICRORREGIAO": 26002,
+    "NO_MICRORREGIAO": "Salgueiro",
+    "CO_MESORREGIAO": 2601
+  },
+  {
+    "CO_MICRORREGIAO": 26003,
+    "NO_MICRORREGIAO": "Pajeú",
+    "CO_MESORREGIAO": 2601
+  },
+  {
+    "CO_MICRORREGIAO": 26004,
+    "NO_MICRORREGIAO": "Sertão do Moxotó",
+    "CO_MESORREGIAO": 2601
+  },
+  {
+    "CO_MICRORREGIAO": 26005,
+    "NO_MICRORREGIAO": "Petrolina",
+    "CO_MESORREGIAO": 2602
+  },
+  {
+    "CO_MICRORREGIAO": 26006,
+    "NO_MICRORREGIAO": "Itaparica",
+    "CO_MESORREGIAO": 2602
+  },
+  {
+    "CO_MICRORREGIAO": 26007,
+    "NO_MICRORREGIAO": "Vale do Ipanema",
+    "CO_MESORREGIAO": 2603
+  },
+  {
+    "CO_MICRORREGIAO": 26008,
+    "NO_MICRORREGIAO": "Vale do Ipojuca",
+    "CO_MESORREGIAO": 2603
+  },
+  {
+    "CO_MICRORREGIAO": 26009,
+    "NO_MICRORREGIAO": "Alto Capibaribe",
+    "CO_MESORREGIAO": 2603
+  },
+  {
+    "CO_MICRORREGIAO": 26010,
+    "NO_MICRORREGIAO": "Médio Capibaribe",
+    "CO_MESORREGIAO": 2603
+  },
+  {
+    "CO_MICRORREGIAO": 26011,
+    "NO_MICRORREGIAO": "Garanhuns",
+    "CO_MESORREGIAO": 2603
+  },
+  {
+    "CO_MICRORREGIAO": 26012,
+    "NO_MICRORREGIAO": "Brejo Pernambucano",
+    "CO_MESORREGIAO": 2603
+  },
+  {
+    "CO_MICRORREGIAO": 26013,
+    "NO_MICRORREGIAO": "Mata Setentrional Pernambucana",
+    "CO_MESORREGIAO": 2604
+  },
+  {
+    "CO_MICRORREGIAO": 26014,
+    "NO_MICRORREGIAO": "Vitória de Santo Antão",
+    "CO_MESORREGIAO": 2604
+  },
+  {
+    "CO_MICRORREGIAO": 26015,
+    "NO_MICRORREGIAO": "Mata Meridional Pernambucana",
+    "CO_MESORREGIAO": 2604
+  },
+  {
+    "CO_MICRORREGIAO": 26016,
+    "NO_MICRORREGIAO": "Itamaracá",
+    "CO_MESORREGIAO": 2605
+  },
+  {
+    "CO_MICRORREGIAO": 26017,
+    "NO_MICRORREGIAO": "Recife",
+    "CO_MESORREGIAO": 2605
+  },
+  {
+    "CO_MICRORREGIAO": 26018,
+    "NO_MICRORREGIAO": "Suape",
+    "CO_MESORREGIAO": 2605
+  },
+  {
+    "CO_MICRORREGIAO": 26019,
+    "NO_MICRORREGIAO": "Fernando de Noronha",
+    "CO_MESORREGIAO": 2605
+  },
+  {
+    "CO_MICRORREGIAO": 27001,
+    "NO_MICRORREGIAO": "Serrana do Sertão Alagoano",
+    "CO_MESORREGIAO": 2701
+  },
+  {
+    "CO_MICRORREGIAO": 27002,
+    "NO_MICRORREGIAO": "Alagoana do Sertão do São Francisco",
+    "CO_MESORREGIAO": 2701
+  },
+  {
+    "CO_MICRORREGIAO": 27003,
+    "NO_MICRORREGIAO": "Santana do Ipanema",
+    "CO_MESORREGIAO": 2701
+  },
+  {
+    "CO_MICRORREGIAO": 27004,
+    "NO_MICRORREGIAO": "Batalha",
+    "CO_MESORREGIAO": 2701
+  },
+  {
+    "CO_MICRORREGIAO": 27005,
+    "NO_MICRORREGIAO": "Palmeira dos Índios",
+    "CO_MESORREGIAO": 2702
+  },
+  {
+    "CO_MICRORREGIAO": 27006,
+    "NO_MICRORREGIAO": "Arapiraca",
+    "CO_MESORREGIAO": 2702
+  },
+  {
+    "CO_MICRORREGIAO": 27007,
+    "NO_MICRORREGIAO": "Traipu",
+    "CO_MESORREGIAO": 2702
+  },
+  {
+    "CO_MICRORREGIAO": 27008,
+    "NO_MICRORREGIAO": "Serrana dos Quilombos",
+    "CO_MESORREGIAO": 2703
+  },
+  {
+    "CO_MICRORREGIAO": 27009,
+    "NO_MICRORREGIAO": "Mata Alagoana",
+    "CO_MESORREGIAO": 2703
+  },
+  {
+    "CO_MICRORREGIAO": 27010,
+    "NO_MICRORREGIAO": "Litoral Norte Alagoano",
+    "CO_MESORREGIAO": 2703
+  },
+  {
+    "CO_MICRORREGIAO": 27011,
+    "NO_MICRORREGIAO": "Maceió",
+    "CO_MESORREGIAO": 2703
+  },
+  {
+    "CO_MICRORREGIAO": 27012,
+    "NO_MICRORREGIAO": "São Miguel dos Campos",
+    "CO_MESORREGIAO": 2703
+  },
+  {
+    "CO_MICRORREGIAO": 27013,
+    "NO_MICRORREGIAO": "Penedo",
+    "CO_MESORREGIAO": 2703
+  },
+  {
+    "CO_MICRORREGIAO": 28001,
+    "NO_MICRORREGIAO": "Sergipana do Sertão do São Francisco",
+    "CO_MESORREGIAO": 2801
+  },
+  {
+    "CO_MICRORREGIAO": 28002,
+    "NO_MICRORREGIAO": "Carira",
+    "CO_MESORREGIAO": 2801
+  },
+  {
+    "CO_MICRORREGIAO": 28003,
+    "NO_MICRORREGIAO": "Nossa Senhora das Dores",
+    "CO_MESORREGIAO": 2802
+  },
+  {
+    "CO_MICRORREGIAO": 28004,
+    "NO_MICRORREGIAO": "Agreste de Itabaiana",
+    "CO_MESORREGIAO": 2802
+  },
+  {
+    "CO_MICRORREGIAO": 28005,
+    "NO_MICRORREGIAO": "Tobias Barreto",
+    "CO_MESORREGIAO": 2802
+  },
+  {
+    "CO_MICRORREGIAO": 28006,
+    "NO_MICRORREGIAO": "Agreste de Lagarto",
+    "CO_MESORREGIAO": 2802
+  },
+  {
+    "CO_MICRORREGIAO": 28007,
+    "NO_MICRORREGIAO": "Propriá",
+    "CO_MESORREGIAO": 2803
+  },
+  {
+    "CO_MICRORREGIAO": 28008,
+    "NO_MICRORREGIAO": "Cotinguiba",
+    "CO_MESORREGIAO": 2803
+  },
+  {
+    "CO_MICRORREGIAO": 28009,
+    "NO_MICRORREGIAO": "Japaratuba",
+    "CO_MESORREGIAO": 2803
+  },
+  {
+    "CO_MICRORREGIAO": 28010,
+    "NO_MICRORREGIAO": "Baixo Cotinguiba",
+    "CO_MESORREGIAO": 2803
+  },
+  {
+    "CO_MICRORREGIAO": 28011,
+    "NO_MICRORREGIAO": "Aracaju",
+    "CO_MESORREGIAO": 2803
+  },
+  {
+    "CO_MICRORREGIAO": 28012,
+    "NO_MICRORREGIAO": "Boquim",
+    "CO_MESORREGIAO": 2803
+  },
+  {
+    "CO_MICRORREGIAO": 28013,
+    "NO_MICRORREGIAO": "Estância",
+    "CO_MESORREGIAO": 2803
+  },
+  {
+    "CO_MICRORREGIAO": 29001,
+    "NO_MICRORREGIAO": "Barreiras",
+    "CO_MESORREGIAO": 2901
+  },
+  {
+    "CO_MICRORREGIAO": 29002,
+    "NO_MICRORREGIAO": "Cotegipe",
+    "CO_MESORREGIAO": 2901
+  },
+  {
+    "CO_MICRORREGIAO": 29003,
+    "NO_MICRORREGIAO": "Santa Maria da Vitória",
+    "CO_MESORREGIAO": 2901
+  },
+  {
+    "CO_MICRORREGIAO": 29004,
+    "NO_MICRORREGIAO": "Juazeiro",
+    "CO_MESORREGIAO": 2902
+  },
+  {
+    "CO_MICRORREGIAO": 29005,
+    "NO_MICRORREGIAO": "Paulo Afonso",
+    "CO_MESORREGIAO": 2902
+  },
+  {
+    "CO_MICRORREGIAO": 29006,
+    "NO_MICRORREGIAO": "Barra",
+    "CO_MESORREGIAO": 2902
+  },
+  {
+    "CO_MICRORREGIAO": 29007,
+    "NO_MICRORREGIAO": "Bom Jesus da Lapa",
+    "CO_MESORREGIAO": 2902
+  },
+  {
+    "CO_MICRORREGIAO": 29008,
+    "NO_MICRORREGIAO": "Senhor do Bonfim",
+    "CO_MESORREGIAO": 2903
+  },
+  {
+    "CO_MICRORREGIAO": 29009,
+    "NO_MICRORREGIAO": "Irecê",
+    "CO_MESORREGIAO": 2903
+  },
+  {
+    "CO_MICRORREGIAO": 29010,
+    "NO_MICRORREGIAO": "Jacobina",
+    "CO_MESORREGIAO": 2903
+  },
+  {
+    "CO_MICRORREGIAO": 29011,
+    "NO_MICRORREGIAO": "Itaberaba",
+    "CO_MESORREGIAO": 2903
+  },
+  {
+    "CO_MICRORREGIAO": 29012,
+    "NO_MICRORREGIAO": "Feira de Santana",
+    "CO_MESORREGIAO": 2903
+  },
+  {
+    "CO_MICRORREGIAO": 29013,
+    "NO_MICRORREGIAO": "Jeremoabo",
+    "CO_MESORREGIAO": 2904
+  },
+  {
+    "CO_MICRORREGIAO": 29014,
+    "NO_MICRORREGIAO": "Euclides da Cunha",
+    "CO_MESORREGIAO": 2904
+  },
+  {
+    "CO_MICRORREGIAO": 29015,
+    "NO_MICRORREGIAO": "Ribeira do Pombal",
+    "CO_MESORREGIAO": 2904
+  },
+  {
+    "CO_MICRORREGIAO": 29016,
+    "NO_MICRORREGIAO": "Serrinha",
+    "CO_MESORREGIAO": 2904
+  },
+  {
+    "CO_MICRORREGIAO": 29017,
+    "NO_MICRORREGIAO": "Alagoinhas",
+    "CO_MESORREGIAO": 2904
+  },
+  {
+    "CO_MICRORREGIAO": 29018,
+    "NO_MICRORREGIAO": "Entre Rios",
+    "CO_MESORREGIAO": 2904
+  },
+  {
+    "CO_MICRORREGIAO": 29019,
+    "NO_MICRORREGIAO": "Catu",
+    "CO_MESORREGIAO": 2905
+  },
+  {
+    "CO_MICRORREGIAO": 29020,
+    "NO_MICRORREGIAO": "Santo Antônio de Jesus",
+    "CO_MESORREGIAO": 2905
+  },
+  {
+    "CO_MICRORREGIAO": 29021,
+    "NO_MICRORREGIAO": "Salvador",
+    "CO_MESORREGIAO": 2905
+  },
+  {
+    "CO_MICRORREGIAO": 29022,
+    "NO_MICRORREGIAO": "Boquira",
+    "CO_MESORREGIAO": 2906
+  },
+  {
+    "CO_MICRORREGIAO": 29023,
+    "NO_MICRORREGIAO": "Seabra",
+    "CO_MESORREGIAO": 2906
+  },
+  {
+    "CO_MICRORREGIAO": 29024,
+    "NO_MICRORREGIAO": "Jequié",
+    "CO_MESORREGIAO": 2906
+  },
+  {
+    "CO_MICRORREGIAO": 29025,
+    "NO_MICRORREGIAO": "Livramento do Brumado",
+    "CO_MESORREGIAO": 2906
+  },
+  {
+    "CO_MICRORREGIAO": 29026,
+    "NO_MICRORREGIAO": "Guanambi",
+    "CO_MESORREGIAO": 2906
+  },
+  {
+    "CO_MICRORREGIAO": 29027,
+    "NO_MICRORREGIAO": "Brumado",
+    "CO_MESORREGIAO": 2906
+  },
+  {
+    "CO_MICRORREGIAO": 29028,
+    "NO_MICRORREGIAO": "Vitória da Conquista",
+    "CO_MESORREGIAO": 2906
+  },
+  {
+    "CO_MICRORREGIAO": 29029,
+    "NO_MICRORREGIAO": "Itapetinga",
+    "CO_MESORREGIAO": 2906
+  },
+  {
+    "CO_MICRORREGIAO": 29030,
+    "NO_MICRORREGIAO": "Valença",
+    "CO_MESORREGIAO": 2907
+  },
+  {
+    "CO_MICRORREGIAO": 29031,
+    "NO_MICRORREGIAO": "Ilhéus-Itabuna",
+    "CO_MESORREGIAO": 2907
+  },
+  {
+    "CO_MICRORREGIAO": 29032,
+    "NO_MICRORREGIAO": "Porto Seguro",
+    "CO_MESORREGIAO": 2907
+  },
+  {
+    "CO_MICRORREGIAO": 31001,
+    "NO_MICRORREGIAO": "Unaí",
+    "CO_MESORREGIAO": 3101
+  },
+  {
+    "CO_MICRORREGIAO": 31002,
+    "NO_MICRORREGIAO": "Paracatu",
+    "CO_MESORREGIAO": 3101
+  },
+  {
+    "CO_MICRORREGIAO": 31003,
+    "NO_MICRORREGIAO": "Januária",
+    "CO_MESORREGIAO": 3102
+  },
+  {
+    "CO_MICRORREGIAO": 31004,
+    "NO_MICRORREGIAO": "Janaúba",
+    "CO_MESORREGIAO": 3102
+  },
+  {
+    "CO_MICRORREGIAO": 31005,
+    "NO_MICRORREGIAO": "Salinas",
+    "CO_MESORREGIAO": 3102
+  },
+  {
+    "CO_MICRORREGIAO": 31006,
+    "NO_MICRORREGIAO": "Pirapora",
+    "CO_MESORREGIAO": 3102
+  },
+  {
+    "CO_MICRORREGIAO": 31007,
+    "NO_MICRORREGIAO": "Montes Claros",
+    "CO_MESORREGIAO": 3102
+  },
+  {
+    "CO_MICRORREGIAO": 31008,
+    "NO_MICRORREGIAO": "Grão Mogol",
+    "CO_MESORREGIAO": 3102
+  },
+  {
+    "CO_MICRORREGIAO": 31009,
+    "NO_MICRORREGIAO": "Bocaiúva",
+    "CO_MESORREGIAO": 3102
+  },
+  {
+    "CO_MICRORREGIAO": 31010,
+    "NO_MICRORREGIAO": "Diamantina",
+    "CO_MESORREGIAO": 3103
+  },
+  {
+    "CO_MICRORREGIAO": 31011,
+    "NO_MICRORREGIAO": "Capelinha",
+    "CO_MESORREGIAO": 3103
+  },
+  {
+    "CO_MICRORREGIAO": 31012,
+    "NO_MICRORREGIAO": "Araçuaí",
+    "CO_MESORREGIAO": 3103
+  },
+  {
+    "CO_MICRORREGIAO": 31013,
+    "NO_MICRORREGIAO": "Pedra Azul",
+    "CO_MESORREGIAO": 3103
+  },
+  {
+    "CO_MICRORREGIAO": 31014,
+    "NO_MICRORREGIAO": "Almenara",
+    "CO_MESORREGIAO": 3103
+  },
+  {
+    "CO_MICRORREGIAO": 31015,
+    "NO_MICRORREGIAO": "Teófilo Otoni",
+    "CO_MESORREGIAO": 3104
+  },
+  {
+    "CO_MICRORREGIAO": 31016,
+    "NO_MICRORREGIAO": "Nanuque",
+    "CO_MESORREGIAO": 3104
+  },
+  {
+    "CO_MICRORREGIAO": 31017,
+    "NO_MICRORREGIAO": "Ituiutaba",
+    "CO_MESORREGIAO": 3105
+  },
+  {
+    "CO_MICRORREGIAO": 31018,
+    "NO_MICRORREGIAO": "Uberlândia",
+    "CO_MESORREGIAO": 3105
+  },
+  {
+    "CO_MICRORREGIAO": 31019,
+    "NO_MICRORREGIAO": "Patrocínio",
+    "CO_MESORREGIAO": 3105
+  },
+  {
+    "CO_MICRORREGIAO": 31020,
+    "NO_MICRORREGIAO": "Patos de Minas",
+    "CO_MESORREGIAO": 3105
+  },
+  {
+    "CO_MICRORREGIAO": 31021,
+    "NO_MICRORREGIAO": "Frutal",
+    "CO_MESORREGIAO": 3105
+  },
+  {
+    "CO_MICRORREGIAO": 31022,
+    "NO_MICRORREGIAO": "Uberaba",
+    "CO_MESORREGIAO": 3105
+  },
+  {
+    "CO_MICRORREGIAO": 31023,
+    "NO_MICRORREGIAO": "Araxá",
+    "CO_MESORREGIAO": 3105
+  },
+  {
+    "CO_MICRORREGIAO": 31024,
+    "NO_MICRORREGIAO": "Três Marias",
+    "CO_MESORREGIAO": 3106
+  },
+  {
+    "CO_MICRORREGIAO": 31025,
+    "NO_MICRORREGIAO": "Curvelo",
+    "CO_MESORREGIAO": 3106
+  },
+  {
+    "CO_MICRORREGIAO": 31026,
+    "NO_MICRORREGIAO": "Bom Despacho",
+    "CO_MESORREGIAO": 3106
+  },
+  {
+    "CO_MICRORREGIAO": 31027,
+    "NO_MICRORREGIAO": "Sete Lagoas",
+    "CO_MESORREGIAO": 3107
+  },
+  {
+    "CO_MICRORREGIAO": 31028,
+    "NO_MICRORREGIAO": "Conceição do Mato Dentro",
+    "CO_MESORREGIAO": 3107
+  },
+  {
+    "CO_MICRORREGIAO": 31029,
+    "NO_MICRORREGIAO": "Pará de Minas",
+    "CO_MESORREGIAO": 3107
+  },
+  {
+    "CO_MICRORREGIAO": 31030,
+    "NO_MICRORREGIAO": "Belo Horizonte",
+    "CO_MESORREGIAO": 3107
+  },
+  {
+    "CO_MICRORREGIAO": 31031,
+    "NO_MICRORREGIAO": "Itabira",
+    "CO_MESORREGIAO": 3107
+  },
+  {
+    "CO_MICRORREGIAO": 31032,
+    "NO_MICRORREGIAO": "Itaguara",
+    "CO_MESORREGIAO": 3107
+  },
+  {
+    "CO_MICRORREGIAO": 31033,
+    "NO_MICRORREGIAO": "Ouro Preto",
+    "CO_MESORREGIAO": 3107
+  },
+  {
+    "CO_MICRORREGIAO": 31034,
+    "NO_MICRORREGIAO": "Conselheiro Lafaiete",
+    "CO_MESORREGIAO": 3107
+  },
+  {
+    "CO_MICRORREGIAO": 31035,
+    "NO_MICRORREGIAO": "Guanhães",
+    "CO_MESORREGIAO": 3108
+  },
+  {
+    "CO_MICRORREGIAO": 31036,
+    "NO_MICRORREGIAO": "Peçanha",
+    "CO_MESORREGIAO": 3108
+  },
+  {
+    "CO_MICRORREGIAO": 31037,
+    "NO_MICRORREGIAO": "Governador Valadares",
+    "CO_MESORREGIAO": 3108
+  },
+  {
+    "CO_MICRORREGIAO": 31038,
+    "NO_MICRORREGIAO": "Mantena",
+    "CO_MESORREGIAO": 3108
+  },
+  {
+    "CO_MICRORREGIAO": 31039,
+    "NO_MICRORREGIAO": "Ipatinga",
+    "CO_MESORREGIAO": 3108
+  },
+  {
+    "CO_MICRORREGIAO": 31040,
+    "NO_MICRORREGIAO": "Caratinga",
+    "CO_MESORREGIAO": 3108
+  },
+  {
+    "CO_MICRORREGIAO": 31041,
+    "NO_MICRORREGIAO": "Aimorés",
+    "CO_MESORREGIAO": 3108
+  },
+  {
+    "CO_MICRORREGIAO": 31042,
+    "NO_MICRORREGIAO": "Piuí",
+    "CO_MESORREGIAO": 3109
+  },
+  {
+    "CO_MICRORREGIAO": 31043,
+    "NO_MICRORREGIAO": "Divinópolis",
+    "CO_MESORREGIAO": 3109
+  },
+  {
+    "CO_MICRORREGIAO": 31044,
+    "NO_MICRORREGIAO": "Formiga",
+    "CO_MESORREGIAO": 3109
+  },
+  {
+    "CO_MICRORREGIAO": 31045,
+    "NO_MICRORREGIAO": "Campo Belo",
+    "CO_MESORREGIAO": 3109
+  },
+  {
+    "CO_MICRORREGIAO": 31046,
+    "NO_MICRORREGIAO": "Oliveira",
+    "CO_MESORREGIAO": 3109
+  },
+  {
+    "CO_MICRORREGIAO": 31047,
+    "NO_MICRORREGIAO": "Passos",
+    "CO_MESORREGIAO": 3110
+  },
+  {
+    "CO_MICRORREGIAO": 31048,
+    "NO_MICRORREGIAO": "São Sebastião do Paraíso",
+    "CO_MESORREGIAO": 3110
+  },
+  {
+    "CO_MICRORREGIAO": 31049,
+    "NO_MICRORREGIAO": "Alfenas",
+    "CO_MESORREGIAO": 3110
+  },
+  {
+    "CO_MICRORREGIAO": 31050,
+    "NO_MICRORREGIAO": "Varginha",
+    "CO_MESORREGIAO": 3110
+  },
+  {
+    "CO_MICRORREGIAO": 31051,
+    "NO_MICRORREGIAO": "Poços de Caldas",
+    "CO_MESORREGIAO": 3110
+  },
+  {
+    "CO_MICRORREGIAO": 31052,
+    "NO_MICRORREGIAO": "Pouso Alegre",
+    "CO_MESORREGIAO": 3110
+  },
+  {
+    "CO_MICRORREGIAO": 31053,
+    "NO_MICRORREGIAO": "Santa Rita do Sapucaí",
+    "CO_MESORREGIAO": 3110
+  },
+  {
+    "CO_MICRORREGIAO": 31054,
+    "NO_MICRORREGIAO": "São Lourenço",
+    "CO_MESORREGIAO": 3110
+  },
+  {
+    "CO_MICRORREGIAO": 31055,
+    "NO_MICRORREGIAO": "Andrelândia",
+    "CO_MESORREGIAO": 3110
+  },
+  {
+    "CO_MICRORREGIAO": 31056,
+    "NO_MICRORREGIAO": "Itajubá",
+    "CO_MESORREGIAO": 3110
+  },
+  {
+    "CO_MICRORREGIAO": 31057,
+    "NO_MICRORREGIAO": "Lavras",
+    "CO_MESORREGIAO": 3111
+  },
+  {
+    "CO_MICRORREGIAO": 31058,
+    "NO_MICRORREGIAO": "São João Del Rei",
+    "CO_MESORREGIAO": 3111
+  },
+  {
+    "CO_MICRORREGIAO": 31059,
+    "NO_MICRORREGIAO": "Barbacena",
+    "CO_MESORREGIAO": 3111
+  },
+  {
+    "CO_MICRORREGIAO": 31060,
+    "NO_MICRORREGIAO": "Ponte Nova",
+    "CO_MESORREGIAO": 3112
+  },
+  {
+    "CO_MICRORREGIAO": 31061,
+    "NO_MICRORREGIAO": "Manhuaçu",
+    "CO_MESORREGIAO": 3112
+  },
+  {
+    "CO_MICRORREGIAO": 31062,
+    "NO_MICRORREGIAO": "Viçosa",
+    "CO_MESORREGIAO": 3112
+  },
+  {
+    "CO_MICRORREGIAO": 31063,
+    "NO_MICRORREGIAO": "Muriaé",
+    "CO_MESORREGIAO": 3112
+  },
+  {
+    "CO_MICRORREGIAO": 31064,
+    "NO_MICRORREGIAO": "Ubá",
+    "CO_MESORREGIAO": 3112
+  },
+  {
+    "CO_MICRORREGIAO": 31065,
+    "NO_MICRORREGIAO": "Juiz de Fora",
+    "CO_MESORREGIAO": 3112
+  },
+  {
+    "CO_MICRORREGIAO": 31066,
+    "NO_MICRORREGIAO": "Cataguases",
+    "CO_MESORREGIAO": 3112
+  },
+  {
+    "CO_MICRORREGIAO": 32001,
+    "NO_MICRORREGIAO": "Barra de São Francisco",
+    "CO_MESORREGIAO": 3201
+  },
+  {
+    "CO_MICRORREGIAO": 32002,
+    "NO_MICRORREGIAO": "Nova Venécia",
+    "CO_MESORREGIAO": 3201
+  },
+  {
+    "CO_MICRORREGIAO": 32003,
+    "NO_MICRORREGIAO": "Colatina",
+    "CO_MESORREGIAO": 3201
+  },
+  {
+    "CO_MICRORREGIAO": 32004,
+    "NO_MICRORREGIAO": "Montanha",
+    "CO_MESORREGIAO": 3202
+  },
+  {
+    "CO_MICRORREGIAO": 32005,
+    "NO_MICRORREGIAO": "São Mateus",
+    "CO_MESORREGIAO": 3202
+  },
+  {
+    "CO_MICRORREGIAO": 32006,
+    "NO_MICRORREGIAO": "Linhares",
+    "CO_MESORREGIAO": 3202
+  },
+  {
+    "CO_MICRORREGIAO": 32007,
+    "NO_MICRORREGIAO": "Afonso Cláudio",
+    "CO_MESORREGIAO": 3203
+  },
+  {
+    "CO_MICRORREGIAO": 32008,
+    "NO_MICRORREGIAO": "Santa Teresa",
+    "CO_MESORREGIAO": 3203
+  },
+  {
+    "CO_MICRORREGIAO": 32009,
+    "NO_MICRORREGIAO": "Vitória",
+    "CO_MESORREGIAO": 3203
+  },
+  {
+    "CO_MICRORREGIAO": 32010,
+    "NO_MICRORREGIAO": "Guarapari",
+    "CO_MESORREGIAO": 3203
+  },
+  {
+    "CO_MICRORREGIAO": 32011,
+    "NO_MICRORREGIAO": "Alegre",
+    "CO_MESORREGIAO": 3204
+  },
+  {
+    "CO_MICRORREGIAO": 32012,
+    "NO_MICRORREGIAO": "Cachoeiro de Itapemirim",
+    "CO_MESORREGIAO": 3204
+  },
+  {
+    "CO_MICRORREGIAO": 32013,
+    "NO_MICRORREGIAO": "Itapemirim",
+    "CO_MESORREGIAO": 3204
+  },
+  {
+    "CO_MICRORREGIAO": 33001,
+    "NO_MICRORREGIAO": "Itaperuna",
+    "CO_MESORREGIAO": 3301
+  },
+  {
+    "CO_MICRORREGIAO": 33002,
+    "NO_MICRORREGIAO": "Santo Antônio de Pádua",
+    "CO_MESORREGIAO": 3301
+  },
+  {
+    "CO_MICRORREGIAO": 33003,
+    "NO_MICRORREGIAO": "Campos dos Goytacazes",
+    "CO_MESORREGIAO": 3302
+  },
+  {
+    "CO_MICRORREGIAO": 33004,
+    "NO_MICRORREGIAO": "Macaé",
+    "CO_MESORREGIAO": 3302
+  },
+  {
+    "CO_MICRORREGIAO": 33005,
+    "NO_MICRORREGIAO": "Três Rios",
+    "CO_MESORREGIAO": 3303
+  },
+  {
+    "CO_MICRORREGIAO": 33006,
+    "NO_MICRORREGIAO": "Cantagalo-Cordeiro",
+    "CO_MESORREGIAO": 3303
+  },
+  {
+    "CO_MICRORREGIAO": 33007,
+    "NO_MICRORREGIAO": "Nova Friburgo",
+    "CO_MESORREGIAO": 3303
+  },
+  {
+    "CO_MICRORREGIAO": 33008,
+    "NO_MICRORREGIAO": "Santa Maria Madalena",
+    "CO_MESORREGIAO": 3303
+  },
+  {
+    "CO_MICRORREGIAO": 33009,
+    "NO_MICRORREGIAO": "Bacia de São João",
+    "CO_MESORREGIAO": 3304
+  },
+  {
+    "CO_MICRORREGIAO": 33010,
+    "NO_MICRORREGIAO": "Lagos",
+    "CO_MESORREGIAO": 3304
+  },
+  {
+    "CO_MICRORREGIAO": 33011,
+    "NO_MICRORREGIAO": "Vale do Paraíba Fluminense",
+    "CO_MESORREGIAO": 3305
+  },
+  {
+    "CO_MICRORREGIAO": 33012,
+    "NO_MICRORREGIAO": "Barra do Piraí",
+    "CO_MESORREGIAO": 3305
+  },
+  {
+    "CO_MICRORREGIAO": 33013,
+    "NO_MICRORREGIAO": "Baía da Ilha Grande",
+    "CO_MESORREGIAO": 3305
+  },
+  {
+    "CO_MICRORREGIAO": 33014,
+    "NO_MICRORREGIAO": "Vassouras",
+    "CO_MESORREGIAO": 3306
+  },
+  {
+    "CO_MICRORREGIAO": 33015,
+    "NO_MICRORREGIAO": "Serrana",
+    "CO_MESORREGIAO": 3306
+  },
+  {
+    "CO_MICRORREGIAO": 33016,
+    "NO_MICRORREGIAO": "Macacu-Caceribu",
+    "CO_MESORREGIAO": 3306
+  },
+  {
+    "CO_MICRORREGIAO": 33017,
+    "NO_MICRORREGIAO": "Itaguaí",
+    "CO_MESORREGIAO": 3306
+  },
+  {
+    "CO_MICRORREGIAO": 33018,
+    "NO_MICRORREGIAO": "Rio de Janeiro",
+    "CO_MESORREGIAO": 3306
+  },
+  {
+    "CO_MICRORREGIAO": 35001,
+    "NO_MICRORREGIAO": "Jales",
+    "CO_MESORREGIAO": 3501
+  },
+  {
+    "CO_MICRORREGIAO": 35002,
+    "NO_MICRORREGIAO": "Fernandópolis",
+    "CO_MESORREGIAO": 3501
+  },
+  {
+    "CO_MICRORREGIAO": 35003,
+    "NO_MICRORREGIAO": "Votuporanga",
+    "CO_MESORREGIAO": 3501
+  },
+  {
+    "CO_MICRORREGIAO": 35004,
+    "NO_MICRORREGIAO": "São José do Rio Preto",
+    "CO_MESORREGIAO": 3501
+  },
+  {
+    "CO_MICRORREGIAO": 35005,
+    "NO_MICRORREGIAO": "Catanduva",
+    "CO_MESORREGIAO": 3501
+  },
+  {
+    "CO_MICRORREGIAO": 35006,
+    "NO_MICRORREGIAO": "Auriflama",
+    "CO_MESORREGIAO": 3501
+  },
+  {
+    "CO_MICRORREGIAO": 35007,
+    "NO_MICRORREGIAO": "Nhandeara",
+    "CO_MESORREGIAO": 3501
+  },
+  {
+    "CO_MICRORREGIAO": 35008,
+    "NO_MICRORREGIAO": "Novo Horizonte",
+    "CO_MESORREGIAO": 3501
+  },
+  {
+    "CO_MICRORREGIAO": 35009,
+    "NO_MICRORREGIAO": "Barretos",
+    "CO_MESORREGIAO": 3502
+  },
+  {
+    "CO_MICRORREGIAO": 35010,
+    "NO_MICRORREGIAO": "São Joaquim da Barra",
+    "CO_MESORREGIAO": 3502
+  },
+  {
+    "CO_MICRORREGIAO": 35011,
+    "NO_MICRORREGIAO": "Ituverava",
+    "CO_MESORREGIAO": 3502
+  },
+  {
+    "CO_MICRORREGIAO": 35012,
+    "NO_MICRORREGIAO": "Franca",
+    "CO_MESORREGIAO": 3502
+  },
+  {
+    "CO_MICRORREGIAO": 35013,
+    "NO_MICRORREGIAO": "Jaboticabal",
+    "CO_MESORREGIAO": 3502
+  },
+  {
+    "CO_MICRORREGIAO": 35014,
+    "NO_MICRORREGIAO": "Ribeirão Preto",
+    "CO_MESORREGIAO": 3502
+  },
+  {
+    "CO_MICRORREGIAO": 35015,
+    "NO_MICRORREGIAO": "Batatais",
+    "CO_MESORREGIAO": 3502
+  },
+  {
+    "CO_MICRORREGIAO": 35016,
+    "NO_MICRORREGIAO": "Andradina",
+    "CO_MESORREGIAO": 3503
+  },
+  {
+    "CO_MICRORREGIAO": 35017,
+    "NO_MICRORREGIAO": "Araçatuba",
+    "CO_MESORREGIAO": 3503
+  },
+  {
+    "CO_MICRORREGIAO": 35018,
+    "NO_MICRORREGIAO": "Birigui",
+    "CO_MESORREGIAO": 3503
+  },
+  {
+    "CO_MICRORREGIAO": 35019,
+    "NO_MICRORREGIAO": "Lins",
+    "CO_MESORREGIAO": 3504
+  },
+  {
+    "CO_MICRORREGIAO": 35020,
+    "NO_MICRORREGIAO": "Bauru",
+    "CO_MESORREGIAO": 3504
+  },
+  {
+    "CO_MICRORREGIAO": 35021,
+    "NO_MICRORREGIAO": "Jaú",
+    "CO_MESORREGIAO": 3504
+  },
+  {
+    "CO_MICRORREGIAO": 35022,
+    "NO_MICRORREGIAO": "Avaré",
+    "CO_MESORREGIAO": 3504
+  },
+  {
+    "CO_MICRORREGIAO": 35023,
+    "NO_MICRORREGIAO": "Botucatu",
+    "CO_MESORREGIAO": 3504
+  },
+  {
+    "CO_MICRORREGIAO": 35024,
+    "NO_MICRORREGIAO": "Araraquara",
+    "CO_MESORREGIAO": 3505
+  },
+  {
+    "CO_MICRORREGIAO": 35025,
+    "NO_MICRORREGIAO": "São Carlos",
+    "CO_MESORREGIAO": 3505
+  },
+  {
+    "CO_MICRORREGIAO": 35026,
+    "NO_MICRORREGIAO": "Rio Claro",
+    "CO_MESORREGIAO": 3506
+  },
+  {
+    "CO_MICRORREGIAO": 35027,
+    "NO_MICRORREGIAO": "Limeira",
+    "CO_MESORREGIAO": 3506
+  },
+  {
+    "CO_MICRORREGIAO": 35028,
+    "NO_MICRORREGIAO": "Piracicaba",
+    "CO_MESORREGIAO": 3506
+  },
+  {
+    "CO_MICRORREGIAO": 35029,
+    "NO_MICRORREGIAO": "Pirassununga",
+    "CO_MESORREGIAO": 3507
+  },
+  {
+    "CO_MICRORREGIAO": 35030,
+    "NO_MICRORREGIAO": "São João da Boa Vista",
+    "CO_MESORREGIAO": 3507
+  },
+  {
+    "CO_MICRORREGIAO": 35031,
+    "NO_MICRORREGIAO": "Mogi Mirim",
+    "CO_MESORREGIAO": 3507
+  },
+  {
+    "CO_MICRORREGIAO": 35032,
+    "NO_MICRORREGIAO": "Campinas",
+    "CO_MESORREGIAO": 3507
+  },
+  {
+    "CO_MICRORREGIAO": 35033,
+    "NO_MICRORREGIAO": "Amparo",
+    "CO_MESORREGIAO": 3507
+  },
+  {
+    "CO_MICRORREGIAO": 35034,
+    "NO_MICRORREGIAO": "Dracena",
+    "CO_MESORREGIAO": 3508
+  },
+  {
+    "CO_MICRORREGIAO": 35035,
+    "NO_MICRORREGIAO": "Adamantina",
+    "CO_MESORREGIAO": 3508
+  },
+  {
+    "CO_MICRORREGIAO": 35036,
+    "NO_MICRORREGIAO": "Presidente Prudente",
+    "CO_MESORREGIAO": 3508
+  },
+  {
+    "CO_MICRORREGIAO": 35037,
+    "NO_MICRORREGIAO": "Tupã",
+    "CO_MESORREGIAO": 3509
+  },
+  {
+    "CO_MICRORREGIAO": 35038,
+    "NO_MICRORREGIAO": "Marília",
+    "CO_MESORREGIAO": 3509
+  },
+  {
+    "CO_MICRORREGIAO": 35039,
+    "NO_MICRORREGIAO": "Assis",
+    "CO_MESORREGIAO": 3510
+  },
+  {
+    "CO_MICRORREGIAO": 35040,
+    "NO_MICRORREGIAO": "Ourinhos",
+    "CO_MESORREGIAO": 3510
+  },
+  {
+    "CO_MICRORREGIAO": 35041,
+    "NO_MICRORREGIAO": "Itapeva",
+    "CO_MESORREGIAO": 3511
+  },
+  {
+    "CO_MICRORREGIAO": 35042,
+    "NO_MICRORREGIAO": "Itapetininga",
+    "CO_MESORREGIAO": 3511
+  },
+  {
+    "CO_MICRORREGIAO": 35043,
+    "NO_MICRORREGIAO": "Tatuí",
+    "CO_MESORREGIAO": 3511
+  },
+  {
+    "CO_MICRORREGIAO": 35044,
+    "NO_MICRORREGIAO": "Capão Bonito",
+    "CO_MESORREGIAO": 3511
+  },
+  {
+    "CO_MICRORREGIAO": 35045,
+    "NO_MICRORREGIAO": "Piedade",
+    "CO_MESORREGIAO": 3512
+  },
+  {
+    "CO_MICRORREGIAO": 35046,
+    "NO_MICRORREGIAO": "Sorocaba",
+    "CO_MESORREGIAO": 3512
+  },
+  {
+    "CO_MICRORREGIAO": 35047,
+    "NO_MICRORREGIAO": "Jundiaí",
+    "CO_MESORREGIAO": 3512
+  },
+  {
+    "CO_MICRORREGIAO": 35048,
+    "NO_MICRORREGIAO": "Bragança Paulista",
+    "CO_MESORREGIAO": 3512
+  },
+  {
+    "CO_MICRORREGIAO": 35049,
+    "NO_MICRORREGIAO": "Campos do Jordão",
+    "CO_MESORREGIAO": 3513
+  },
+  {
+    "CO_MICRORREGIAO": 35050,
+    "NO_MICRORREGIAO": "São José dos Campos",
+    "CO_MESORREGIAO": 3513
+  },
+  {
+    "CO_MICRORREGIAO": 35051,
+    "NO_MICRORREGIAO": "Guaratinguetá",
+    "CO_MESORREGIAO": 3513
+  },
+  {
+    "CO_MICRORREGIAO": 35052,
+    "NO_MICRORREGIAO": "Bananal",
+    "CO_MESORREGIAO": 3513
+  },
+  {
+    "CO_MICRORREGIAO": 35053,
+    "NO_MICRORREGIAO": "Paraibuna/Paraitinga",
+    "CO_MESORREGIAO": 3513
+  },
+  {
+    "CO_MICRORREGIAO": 35054,
+    "NO_MICRORREGIAO": "Caraguatatuba",
+    "CO_MESORREGIAO": 3513
+  },
+  {
+    "CO_MICRORREGIAO": 35055,
+    "NO_MICRORREGIAO": "Registro",
+    "CO_MESORREGIAO": 3514
+  },
+  {
+    "CO_MICRORREGIAO": 35056,
+    "NO_MICRORREGIAO": "Itanhaém",
+    "CO_MESORREGIAO": 3514
+  },
+  {
+    "CO_MICRORREGIAO": 35057,
+    "NO_MICRORREGIAO": "Osasco",
+    "CO_MESORREGIAO": 3515
+  },
+  {
+    "CO_MICRORREGIAO": 35058,
+    "NO_MICRORREGIAO": "Franco da Rocha",
+    "CO_MESORREGIAO": 3515
+  },
+  {
+    "CO_MICRORREGIAO": 35059,
+    "NO_MICRORREGIAO": "Guarulhos",
+    "CO_MESORREGIAO": 3515
+  },
+  {
+    "CO_MICRORREGIAO": 35060,
+    "NO_MICRORREGIAO": "Itapecerica da Serra",
+    "CO_MESORREGIAO": 3515
+  },
+  {
+    "CO_MICRORREGIAO": 35061,
+    "NO_MICRORREGIAO": "São Paulo",
+    "CO_MESORREGIAO": 3515
+  },
+  {
+    "CO_MICRORREGIAO": 35062,
+    "NO_MICRORREGIAO": "Mogi das Cruzes",
+    "CO_MESORREGIAO": 3515
+  },
+  {
+    "CO_MICRORREGIAO": 35063,
+    "NO_MICRORREGIAO": "Santos",
+    "CO_MESORREGIAO": 3515
+  },
+  {
+    "CO_MICRORREGIAO": 41001,
+    "NO_MICRORREGIAO": "Paranavaí",
+    "CO_MESORREGIAO": 4101
+  },
+  {
+    "CO_MICRORREGIAO": 41002,
+    "NO_MICRORREGIAO": "Umuarama",
+    "CO_MESORREGIAO": 4101
+  },
+  {
+    "CO_MICRORREGIAO": 41003,
+    "NO_MICRORREGIAO": "Cianorte",
+    "CO_MESORREGIAO": 4101
+  },
+  {
+    "CO_MICRORREGIAO": 41004,
+    "NO_MICRORREGIAO": "Goioerê",
+    "CO_MESORREGIAO": 4102
+  },
+  {
+    "CO_MICRORREGIAO": 41005,
+    "NO_MICRORREGIAO": "Campo Mourão",
+    "CO_MESORREGIAO": 4102
+  },
+  {
+    "CO_MICRORREGIAO": 41006,
+    "NO_MICRORREGIAO": "Astorga",
+    "CO_MESORREGIAO": 4103
+  },
+  {
+    "CO_MICRORREGIAO": 41007,
+    "NO_MICRORREGIAO": "Porecatu",
+    "CO_MESORREGIAO": 4103
+  },
+  {
+    "CO_MICRORREGIAO": 41008,
+    "NO_MICRORREGIAO": "Floraí",
+    "CO_MESORREGIAO": 4103
+  },
+  {
+    "CO_MICRORREGIAO": 41009,
+    "NO_MICRORREGIAO": "Maringá",
+    "CO_MESORREGIAO": 4103
+  },
+  {
+    "CO_MICRORREGIAO": 41010,
+    "NO_MICRORREGIAO": "Apucarana",
+    "CO_MESORREGIAO": 4103
+  },
+  {
+    "CO_MICRORREGIAO": 41011,
+    "NO_MICRORREGIAO": "Londrina",
+    "CO_MESORREGIAO": 4103
+  },
+  {
+    "CO_MICRORREGIAO": 41012,
+    "NO_MICRORREGIAO": "Faxinal",
+    "CO_MESORREGIAO": 4103
+  },
+  {
+    "CO_MICRORREGIAO": 41013,
+    "NO_MICRORREGIAO": "Ivaiporã",
+    "CO_MESORREGIAO": 4103
+  },
+  {
+    "CO_MICRORREGIAO": 41014,
+    "NO_MICRORREGIAO": "Assaí",
+    "CO_MESORREGIAO": 4104
+  },
+  {
+    "CO_MICRORREGIAO": 41015,
+    "NO_MICRORREGIAO": "Cornélio Procópio",
+    "CO_MESORREGIAO": 4104
+  },
+  {
+    "CO_MICRORREGIAO": 41016,
+    "NO_MICRORREGIAO": "Jacarezinho",
+    "CO_MESORREGIAO": 4104
+  },
+  {
+    "CO_MICRORREGIAO": 41017,
+    "NO_MICRORREGIAO": "Ibaiti",
+    "CO_MESORREGIAO": 4104
+  },
+  {
+    "CO_MICRORREGIAO": 41018,
+    "NO_MICRORREGIAO": "Wenceslau Braz",
+    "CO_MESORREGIAO": 4104
+  },
+  {
+    "CO_MICRORREGIAO": 41019,
+    "NO_MICRORREGIAO": "Telêmaco Borba",
+    "CO_MESORREGIAO": 4105
+  },
+  {
+    "CO_MICRORREGIAO": 41020,
+    "NO_MICRORREGIAO": "Jaguariaíva",
+    "CO_MESORREGIAO": 4105
+  },
+  {
+    "CO_MICRORREGIAO": 41021,
+    "NO_MICRORREGIAO": "Ponta Grossa",
+    "CO_MESORREGIAO": 4105
+  },
+  {
+    "CO_MICRORREGIAO": 41022,
+    "NO_MICRORREGIAO": "Toledo",
+    "CO_MESORREGIAO": 4106
+  },
+  {
+    "CO_MICRORREGIAO": 41023,
+    "NO_MICRORREGIAO": "Cascavel",
+    "CO_MESORREGIAO": 4106
+  },
+  {
+    "CO_MICRORREGIAO": 41024,
+    "NO_MICRORREGIAO": "Foz do Iguaçu",
+    "CO_MESORREGIAO": 4106
+  },
+  {
+    "CO_MICRORREGIAO": 41025,
+    "NO_MICRORREGIAO": "Capanema",
+    "CO_MESORREGIAO": 4107
+  },
+  {
+    "CO_MICRORREGIAO": 41026,
+    "NO_MICRORREGIAO": "Francisco Beltrão",
+    "CO_MESORREGIAO": 4107
+  },
+  {
+    "CO_MICRORREGIAO": 41027,
+    "NO_MICRORREGIAO": "Pato Branco",
+    "CO_MESORREGIAO": 4107
+  },
+  {
+    "CO_MICRORREGIAO": 41028,
+    "NO_MICRORREGIAO": "Pitanga",
+    "CO_MESORREGIAO": 4108
+  },
+  {
+    "CO_MICRORREGIAO": 41029,
+    "NO_MICRORREGIAO": "Guarapuava",
+    "CO_MESORREGIAO": 4108
+  },
+  {
+    "CO_MICRORREGIAO": 41030,
+    "NO_MICRORREGIAO": "Palmas",
+    "CO_MESORREGIAO": 4108
+  },
+  {
+    "CO_MICRORREGIAO": 41031,
+    "NO_MICRORREGIAO": "Prudentópolis",
+    "CO_MESORREGIAO": 4109
+  },
+  {
+    "CO_MICRORREGIAO": 41032,
+    "NO_MICRORREGIAO": "Irati",
+    "CO_MESORREGIAO": 4109
+  },
+  {
+    "CO_MICRORREGIAO": 41033,
+    "NO_MICRORREGIAO": "União da Vitória",
+    "CO_MESORREGIAO": 4109
+  },
+  {
+    "CO_MICRORREGIAO": 41034,
+    "NO_MICRORREGIAO": "São Mateus do Sul",
+    "CO_MESORREGIAO": 4109
+  },
+  {
+    "CO_MICRORREGIAO": 41035,
+    "NO_MICRORREGIAO": "Cerro Azul",
+    "CO_MESORREGIAO": 4110
+  },
+  {
+    "CO_MICRORREGIAO": 41036,
+    "NO_MICRORREGIAO": "Lapa",
+    "CO_MESORREGIAO": 4110
+  },
+  {
+    "CO_MICRORREGIAO": 41037,
+    "NO_MICRORREGIAO": "Curitiba",
+    "CO_MESORREGIAO": 4110
+  },
+  {
+    "CO_MICRORREGIAO": 41038,
+    "NO_MICRORREGIAO": "Paranaguá",
+    "CO_MESORREGIAO": 4110
+  },
+  {
+    "CO_MICRORREGIAO": 41039,
+    "NO_MICRORREGIAO": "Rio Negro",
+    "CO_MESORREGIAO": 4110
+  },
+  {
+    "CO_MICRORREGIAO": 42001,
+    "NO_MICRORREGIAO": "São Miguel do Oeste",
+    "CO_MESORREGIAO": 4201
+  },
+  {
+    "CO_MICRORREGIAO": 42002,
+    "NO_MICRORREGIAO": "Chapecó",
+    "CO_MESORREGIAO": 4201
+  },
+  {
+    "CO_MICRORREGIAO": 42003,
+    "NO_MICRORREGIAO": "Xanxerê",
+    "CO_MESORREGIAO": 4201
+  },
+  {
+    "CO_MICRORREGIAO": 42004,
+    "NO_MICRORREGIAO": "Joaçaba",
+    "CO_MESORREGIAO": 4201
+  },
+  {
+    "CO_MICRORREGIAO": 42005,
+    "NO_MICRORREGIAO": "Concórdia",
+    "CO_MESORREGIAO": 4201
+  },
+  {
+    "CO_MICRORREGIAO": 42006,
+    "NO_MICRORREGIAO": "Canoinhas",
+    "CO_MESORREGIAO": 4202
+  },
+  {
+    "CO_MICRORREGIAO": 42007,
+    "NO_MICRORREGIAO": "São Bento do Sul",
+    "CO_MESORREGIAO": 4202
+  },
+  {
+    "CO_MICRORREGIAO": 42008,
+    "NO_MICRORREGIAO": "Joinville",
+    "CO_MESORREGIAO": 4202
+  },
+  {
+    "CO_MICRORREGIAO": 42009,
+    "NO_MICRORREGIAO": "Curitibanos",
+    "CO_MESORREGIAO": 4203
+  },
+  {
+    "CO_MICRORREGIAO": 42010,
+    "NO_MICRORREGIAO": "Campos de Lages",
+    "CO_MESORREGIAO": 4203
+  },
+  {
+    "CO_MICRORREGIAO": 42011,
+    "NO_MICRORREGIAO": "Rio do Sul",
+    "CO_MESORREGIAO": 4204
+  },
+  {
+    "CO_MICRORREGIAO": 42012,
+    "NO_MICRORREGIAO": "Blumenau",
+    "CO_MESORREGIAO": 4204
+  },
+  {
+    "CO_MICRORREGIAO": 42013,
+    "NO_MICRORREGIAO": "Itajaí",
+    "CO_MESORREGIAO": 4204
+  },
+  {
+    "CO_MICRORREGIAO": 42014,
+    "NO_MICRORREGIAO": "Ituporanga",
+    "CO_MESORREGIAO": 4204
+  },
+  {
+    "CO_MICRORREGIAO": 42015,
+    "NO_MICRORREGIAO": "Tijucas",
+    "CO_MESORREGIAO": 4205
+  },
+  {
+    "CO_MICRORREGIAO": 42016,
+    "NO_MICRORREGIAO": "Florianópolis",
+    "CO_MESORREGIAO": 4205
+  },
+  {
+    "CO_MICRORREGIAO": 42017,
+    "NO_MICRORREGIAO": "Tabuleiro",
+    "CO_MESORREGIAO": 4205
+  },
+  {
+    "CO_MICRORREGIAO": 42018,
+    "NO_MICRORREGIAO": "Tubarão",
+    "CO_MESORREGIAO": 4206
+  },
+  {
+    "CO_MICRORREGIAO": 42019,
+    "NO_MICRORREGIAO": "Criciúma",
+    "CO_MESORREGIAO": 4206
+  },
+  {
+    "CO_MICRORREGIAO": 42020,
+    "NO_MICRORREGIAO": "Araranguá",
+    "CO_MESORREGIAO": 4206
+  },
+  {
+    "CO_MICRORREGIAO": 43001,
+    "NO_MICRORREGIAO": "Santa Rosa",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43002,
+    "NO_MICRORREGIAO": "Três Passos",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43003,
+    "NO_MICRORREGIAO": "Frederico Westphalen",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43004,
+    "NO_MICRORREGIAO": "Erechim",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43005,
+    "NO_MICRORREGIAO": "Sananduva",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43006,
+    "NO_MICRORREGIAO": "Cerro Largo",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43007,
+    "NO_MICRORREGIAO": "Santo Ângelo",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43008,
+    "NO_MICRORREGIAO": "Ijuí",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43009,
+    "NO_MICRORREGIAO": "Carazinho",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43010,
+    "NO_MICRORREGIAO": "Passo Fundo",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43011,
+    "NO_MICRORREGIAO": "Cruz Alta",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43012,
+    "NO_MICRORREGIAO": "Não-Me-Toque",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43013,
+    "NO_MICRORREGIAO": "Soledade",
+    "CO_MESORREGIAO": 4301
+  },
+  {
+    "CO_MICRORREGIAO": 43014,
+    "NO_MICRORREGIAO": "Guaporé",
+    "CO_MESORREGIAO": 4302
+  },
+  {
+    "CO_MICRORREGIAO": 43015,
+    "NO_MICRORREGIAO": "Vacaria",
+    "CO_MESORREGIAO": 4302
+  },
+  {
+    "CO_MICRORREGIAO": 43016,
+    "NO_MICRORREGIAO": "Caxias do Sul",
+    "CO_MESORREGIAO": 4302
+  },
+  {
+    "CO_MICRORREGIAO": 43017,
+    "NO_MICRORREGIAO": "Santiago",
+    "CO_MESORREGIAO": 4303
+  },
+  {
+    "CO_MICRORREGIAO": 43018,
+    "NO_MICRORREGIAO": "Santa Maria",
+    "CO_MESORREGIAO": 4303
+  },
+  {
+    "CO_MICRORREGIAO": 43019,
+    "NO_MICRORREGIAO": "Restinga Seca",
+    "CO_MESORREGIAO": 4303
+  },
+  {
+    "CO_MICRORREGIAO": 43020,
+    "NO_MICRORREGIAO": "Santa Cruz do Sul",
+    "CO_MESORREGIAO": 4304
+  },
+  {
+    "CO_MICRORREGIAO": 43021,
+    "NO_MICRORREGIAO": "Lajeado-Estrela",
+    "CO_MESORREGIAO": 4304
+  },
+  {
+    "CO_MICRORREGIAO": 43022,
+    "NO_MICRORREGIAO": "Cachoeira do Sul",
+    "CO_MESORREGIAO": 4304
+  },
+  {
+    "CO_MICRORREGIAO": 43023,
+    "NO_MICRORREGIAO": "Montenegro",
+    "CO_MESORREGIAO": 4305
+  },
+  {
+    "CO_MICRORREGIAO": 43024,
+    "NO_MICRORREGIAO": "Gramado-Canela",
+    "CO_MESORREGIAO": 4305
+  },
+  {
+    "CO_MICRORREGIAO": 43025,
+    "NO_MICRORREGIAO": "São Jerônimo",
+    "CO_MESORREGIAO": 4305
+  },
+  {
+    "CO_MICRORREGIAO": 43026,
+    "NO_MICRORREGIAO": "Porto Alegre",
+    "CO_MESORREGIAO": 4305
+  },
+  {
+    "CO_MICRORREGIAO": 43027,
+    "NO_MICRORREGIAO": "Osório",
+    "CO_MESORREGIAO": 4305
+  },
+  {
+    "CO_MICRORREGIAO": 43028,
+    "NO_MICRORREGIAO": "Camaquã",
+    "CO_MESORREGIAO": 4305
+  },
+  {
+    "CO_MICRORREGIAO": 43029,
+    "NO_MICRORREGIAO": "Campanha Ocidental",
+    "CO_MESORREGIAO": 4306
+  },
+  {
+    "CO_MICRORREGIAO": 43030,
+    "NO_MICRORREGIAO": "Campanha Central",
+    "CO_MESORREGIAO": 4306
+  },
+  {
+    "CO_MICRORREGIAO": 43031,
+    "NO_MICRORREGIAO": "Campanha Meridional",
+    "CO_MESORREGIAO": 4306
+  },
+  {
+    "CO_MICRORREGIAO": 43032,
+    "NO_MICRORREGIAO": "Serras de Sudeste",
+    "CO_MESORREGIAO": 4307
+  },
+  {
+    "CO_MICRORREGIAO": 43033,
+    "NO_MICRORREGIAO": "Pelotas",
+    "CO_MESORREGIAO": 4307
+  },
+  {
+    "CO_MICRORREGIAO": 43034,
+    "NO_MICRORREGIAO": "Jaguarão",
+    "CO_MESORREGIAO": 4307
+  },
+  {
+    "CO_MICRORREGIAO": 43035,
+    "NO_MICRORREGIAO": "Litoral Lagunar",
+    "CO_MESORREGIAO": 4307
+  },
+  {
+    "CO_MICRORREGIAO": 50001,
+    "NO_MICRORREGIAO": "Baixo Pantanal",
+    "CO_MESORREGIAO": 5001
+  },
+  {
+    "CO_MICRORREGIAO": 50002,
+    "NO_MICRORREGIAO": "Aquidauana",
+    "CO_MESORREGIAO": 5001
+  },
+  {
+    "CO_MICRORREGIAO": 50003,
+    "NO_MICRORREGIAO": "Alto Taquari",
+    "CO_MESORREGIAO": 5002
+  },
+  {
+    "CO_MICRORREGIAO": 50004,
+    "NO_MICRORREGIAO": "Campo Grande",
+    "CO_MESORREGIAO": 5002
+  },
+  {
+    "CO_MICRORREGIAO": 50005,
+    "NO_MICRORREGIAO": "Cassilândia",
+    "CO_MESORREGIAO": 5003
+  },
+  {
+    "CO_MICRORREGIAO": 50006,
+    "NO_MICRORREGIAO": "Paranaíba",
+    "CO_MESORREGIAO": 5003
+  },
+  {
+    "CO_MICRORREGIAO": 50007,
+    "NO_MICRORREGIAO": "Três Lagoas",
+    "CO_MESORREGIAO": 5003
+  },
+  {
+    "CO_MICRORREGIAO": 50008,
+    "NO_MICRORREGIAO": "Nova Andradina",
+    "CO_MESORREGIAO": 5003
+  },
+  {
+    "CO_MICRORREGIAO": 50009,
+    "NO_MICRORREGIAO": "Bodoquena",
+    "CO_MESORREGIAO": 5004
+  },
+  {
+    "CO_MICRORREGIAO": 50010,
+    "NO_MICRORREGIAO": "Dourados",
+    "CO_MESORREGIAO": 5004
+  },
+  {
+    "CO_MICRORREGIAO": 50011,
+    "NO_MICRORREGIAO": "Iguatemi",
+    "CO_MESORREGIAO": 5004
+  },
+  {
+    "CO_MICRORREGIAO": 51001,
+    "NO_MICRORREGIAO": "Aripuanã",
+    "CO_MESORREGIAO": 5101
+  },
+  {
+    "CO_MICRORREGIAO": 51002,
+    "NO_MICRORREGIAO": "Alta Floresta",
+    "CO_MESORREGIAO": 5101
+  },
+  {
+    "CO_MICRORREGIAO": 51003,
+    "NO_MICRORREGIAO": "Colíder",
+    "CO_MESORREGIAO": 5101
+  },
+  {
+    "CO_MICRORREGIAO": 51004,
+    "NO_MICRORREGIAO": "Parecis",
+    "CO_MESORREGIAO": 5101
+  },
+  {
+    "CO_MICRORREGIAO": 51005,
+    "NO_MICRORREGIAO": "Arinos",
+    "CO_MESORREGIAO": 5101
+  },
+  {
+    "CO_MICRORREGIAO": 51006,
+    "NO_MICRORREGIAO": "Alto Teles Pires",
+    "CO_MESORREGIAO": 5101
+  },
+  {
+    "CO_MICRORREGIAO": 51007,
+    "NO_MICRORREGIAO": "Sinop",
+    "CO_MESORREGIAO": 5101
+  },
+  {
+    "CO_MICRORREGIAO": 51008,
+    "NO_MICRORREGIAO": "Paranatinga",
+    "CO_MESORREGIAO": 5101
+  },
+  {
+    "CO_MICRORREGIAO": 51009,
+    "NO_MICRORREGIAO": "Norte Araguaia",
+    "CO_MESORREGIAO": 5102
+  },
+  {
+    "CO_MICRORREGIAO": 51010,
+    "NO_MICRORREGIAO": "Canarana",
+    "CO_MESORREGIAO": 5102
+  },
+  {
+    "CO_MICRORREGIAO": 51011,
+    "NO_MICRORREGIAO": "Médio Araguaia",
+    "CO_MESORREGIAO": 5102
+  },
+  {
+    "CO_MICRORREGIAO": 51012,
+    "NO_MICRORREGIAO": "Alto Guaporé",
+    "CO_MESORREGIAO": 5103
+  },
+  {
+    "CO_MICRORREGIAO": 51013,
+    "NO_MICRORREGIAO": "Tangará da Serra",
+    "CO_MESORREGIAO": 5103
+  },
+  {
+    "CO_MICRORREGIAO": 51014,
+    "NO_MICRORREGIAO": "Jauru",
+    "CO_MESORREGIAO": 5103
+  },
+  {
+    "CO_MICRORREGIAO": 51015,
+    "NO_MICRORREGIAO": "Alto Paraguai",
+    "CO_MESORREGIAO": 5104
+  },
+  {
+    "CO_MICRORREGIAO": 51016,
+    "NO_MICRORREGIAO": "Rosário Oeste",
+    "CO_MESORREGIAO": 5104
+  },
+  {
+    "CO_MICRORREGIAO": 51017,
+    "NO_MICRORREGIAO": "Cuiabá",
+    "CO_MESORREGIAO": 5104
+  },
+  {
+    "CO_MICRORREGIAO": 51018,
+    "NO_MICRORREGIAO": "Alto Pantanal",
+    "CO_MESORREGIAO": 5104
+  },
+  {
+    "CO_MICRORREGIAO": 51019,
+    "NO_MICRORREGIAO": "Primavera do Leste",
+    "CO_MESORREGIAO": 5105
+  },
+  {
+    "CO_MICRORREGIAO": 51020,
+    "NO_MICRORREGIAO": "Tesouro",
+    "CO_MESORREGIAO": 5105
+  },
+  {
+    "CO_MICRORREGIAO": 51021,
+    "NO_MICRORREGIAO": "Rondonópolis",
+    "CO_MESORREGIAO": 5105
+  },
+  {
+    "CO_MICRORREGIAO": 51022,
+    "NO_MICRORREGIAO": "Alto Araguaia",
+    "CO_MESORREGIAO": 5105
+  },
+  {
+    "CO_MICRORREGIAO": 52001,
+    "NO_MICRORREGIAO": "São Miguel do Araguaia",
+    "CO_MESORREGIAO": 5201
+  },
+  {
+    "CO_MICRORREGIAO": 52002,
+    "NO_MICRORREGIAO": "Rio Vermelho",
+    "CO_MESORREGIAO": 5201
+  },
+  {
+    "CO_MICRORREGIAO": 52003,
+    "NO_MICRORREGIAO": "Aragarças",
+    "CO_MESORREGIAO": 5201
+  },
+  {
+    "CO_MICRORREGIAO": 52004,
+    "NO_MICRORREGIAO": "Porangatu",
+    "CO_MESORREGIAO": 5202
+  },
+  {
+    "CO_MICRORREGIAO": 52005,
+    "NO_MICRORREGIAO": "Chapada dos Veadeiros",
+    "CO_MESORREGIAO": 5202
+  },
+  {
+    "CO_MICRORREGIAO": 52006,
+    "NO_MICRORREGIAO": "Ceres",
+    "CO_MESORREGIAO": 5203
+  },
+  {
+    "CO_MICRORREGIAO": 52007,
+    "NO_MICRORREGIAO": "Anápolis",
+    "CO_MESORREGIAO": 5203
+  },
+  {
+    "CO_MICRORREGIAO": 52008,
+    "NO_MICRORREGIAO": "Iporá",
+    "CO_MESORREGIAO": 5203
+  },
+  {
+    "CO_MICRORREGIAO": 52009,
+    "NO_MICRORREGIAO": "Anicuns",
+    "CO_MESORREGIAO": 5203
+  },
+  {
+    "CO_MICRORREGIAO": 52010,
+    "NO_MICRORREGIAO": "Goiânia",
+    "CO_MESORREGIAO": 5203
+  },
+  {
+    "CO_MICRORREGIAO": 52011,
+    "NO_MICRORREGIAO": "Vão do Paranã",
+    "CO_MESORREGIAO": 5204
+  },
+  {
+    "CO_MICRORREGIAO": 52012,
+    "NO_MICRORREGIAO": "Entorno de Brasília",
+    "CO_MESORREGIAO": 5204
+  },
+  {
+    "CO_MICRORREGIAO": 52013,
+    "NO_MICRORREGIAO": "Sudoeste de Goiás",
+    "CO_MESORREGIAO": 5205
+  },
+  {
+    "CO_MICRORREGIAO": 52014,
+    "NO_MICRORREGIAO": "Vale do Rio dos Bois",
+    "CO_MESORREGIAO": 5205
+  },
+  {
+    "CO_MICRORREGIAO": 52015,
+    "NO_MICRORREGIAO": "Meia Ponte",
+    "CO_MESORREGIAO": 5205
+  },
+  {
+    "CO_MICRORREGIAO": 52016,
+    "NO_MICRORREGIAO": "Pires do Rio",
+    "CO_MESORREGIAO": 5205
+  },
+  {
+    "CO_MICRORREGIAO": 52017,
+    "NO_MICRORREGIAO": "Catalão",
+    "CO_MESORREGIAO": 5205
+  },
+  {
+    "CO_MICRORREGIAO": 52018,
+    "NO_MICRORREGIAO": "Quirinópolis",
+    "CO_MESORREGIAO": 5205
+  },
+  {
+    "CO_MICRORREGIAO": 53001,
+    "NO_MICRORREGIAO": "Brasília",
+    "CO_MESORREGIAO": 5301
+  }
+]
