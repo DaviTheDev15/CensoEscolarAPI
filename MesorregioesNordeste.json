@@ -1,0 +1,212 @@
+[
+  {
+    "CO_MESORREGIAO": 2101,
+    "NO_MESORREGIAO": "Norte Maranhense",
+    "CO_UF": 21
+  },
+  {
+    "CO_MESORREGIAO": 2102,
+    "NO_MESORREGIAO": "Oeste Maranhense",
+    "CO_UF": 21
+  },
+  {
+    "CO_MESORREGIAO": 2103,
+    "NO_MESORREGIAO": "Centro Maranhense",
+    "CO_UF": 21
+  },
+  {
+    "CO_MESORREGIAO": 2104,
+    "NO_MESORREGIAO": "Leste Maranhense",
+    "CO_UF": 21
+  },
+  {
+    "CO_MESORREGIAO": 2105,
+    "NO_MESORREGIAO": "Sul Maranhense",
+    "CO_UF": 21
+  },
+  {
+    "CO_MESORREGIAO": 2201,
+    "NO_MESORREGIAO": "Norte Piauiense",
+    "CO_UF": 22
+  },
+  {
+    "CO_MESORREGIAO": 2202,
+    "NO_MESORREGIAO": "Centro-Norte Piauiense",
+    "CO_UF": 22
+  },
+  {
+    "CO_MESORREGIAO": 2203,
+    "NO_MESORREGIAO": "Sudoeste Piauiense",
+    "CO_UF": 22
+  },
+  {
+    "CO_MESORREGIAO": 2204,
+    "NO_MESORREGIAO": "Sudeste Piauiense",
+    "CO_UF": 22
+  },
+  {
+    "CO_MESORREGIAO": 2301,
+    "NO_MESORREGIAO": "Noroeste Cearense",
+    "CO_UF": 23
+  },
+  {
+    "CO_MESORREGIAO": 2302,
+    "NO_MESORREGIAO": "Norte Cearense",
+    "CO_UF": 23
+  },
+  {
+    "CO_MESORREGIAO": 2303,
+    "NO_MESORREGIAO": "Metropolitana de Fortaleza",
+    "CO_UF": 23
+  },
+  {
+    "CO_MESORREGIAO": 2304,
+    "NO_MESORREGIAO": "Sertões Cearenses",
+    "CO_UF": 23
+  },
+  {
+    "CO_MESORREGIAO": 2305,
+    "NO_MESORREGIAO": "Jaguaribe",
+    "CO_UF": 23
+  },
+  {
+    "CO_MESORREGIAO": 2306,
+    "NO_MESORREGIAO": "Centro-Sul Cearense",
+    "CO_UF": 23
+  },
+  {
+    "CO_MESORREGIAO": 2307,
+    "NO_MESORREGIAO": "Sul Cearense",
+    "CO_UF": 23
+  },
+  {
+    "CO_MESORREGIAO": 2401,
+    "NO_MESORREGIAO": "Oeste Potiguar",
+    "CO_UF": 24
+  },
+  {
+    "CO_MESORREGIAO": 2402,
+    "NO_MESORREGIAO": "Central Potiguar",
+    "CO_UF": 24
+  },
+  {
+    "CO_MESORREGIAO": 2403,
+    "NO_MESORREGIAO": "Agreste Potiguar",
+    "CO_UF": 24
+  },
+  {
+    "CO_MESORREGIAO": 2404,
+    "NO_MESORREGIAO": "Leste Potiguar",
+    "CO_UF": 24
+  },
+  {
+    "CO_MESORREGIAO": 2501,
+    "NO_MESORREGIAO": "Sertão Paraibano",
+    "CO_UF": 25
+  },
+  {
+    "CO_MESORREGIAO": 2502,
+    "NO_MESORREGIAO": "Borborema",
+    "CO_UF": 25
+  },
+  {
+    "CO_MESORREGIAO": 2503,
+    "NO_MESORREGIAO": "Agreste Paraibano",
+    "CO_UF": 25
+  },
+  {
+    "CO_MESORREGIAO": 2504,
+    "NO_MESORREGIAO": "Mata Paraibana",
+    "CO_UF": 25
+  },
+  {
+    "CO_MESORREGIAO": 2601,
+    "NO_MESORREGIAO": "Sertão Pernambucano",
+    "CO_UF": 26
+  },
+  {
+    "CO_MESORREGIAO": 2602,
+    "NO_MESORREGIAO": "São Francisco Pernambucano",
+    "CO_UF": 26
+  },
+  {
+    "CO_MESORREGIAO": 2603,
+    "NO_MESORREGIAO": "Agreste Pernambucano",
+    "CO_UF": 26
+  },
+  {
+    "CO_MESORREGIAO": 2604,
+    "NO_MESORREGIAO": "Mata Pernambucana",
+    "CO_UF": 26
+  },
+  {
+    "CO_MESORREGIAO": 2605,
+    "NO_MESORREGIAO": "Metropolitana de Recife",
+    "CO_UF": 26
+  },
+  {
+    "CO_MESORREGIAO": 2701,
+    "NO_MESORREGIAO": "Sertão Alagoano",
+    "CO_UF": 27
+  },
+  {
+    "CO_MESORREGIAO": 2702,
+    "NO_MESORREGIAO": "Agreste Alagoano",
+    "CO_UF": 27
+  },
+  {
+    "CO_MESORREGIAO": 2703,
+    "NO_MESORREGIAO": "Leste Alagoano",
+    "CO_UF": 27
+  },
+  {
+    "CO_MESORREGIAO": 2801,
+    "NO_MESORREGIAO": "Sertão Sergipano",
+    "CO_UF": 28
+  },
+  {
+    "CO_MESORREGIAO": 2802,
+    "NO_MESORREGIAO": "Agreste Sergipano",
+    "CO_UF": 28
+  },
+  {
+    "CO_MESORREGIAO": 2803,
+    "NO_MESORREGIAO": "Leste Sergipano",
+    "CO_UF": 28
+  },
+  {
+    "CO_MESORREGIAO": 2901,
+    "NO_MESORREGIAO": "Extremo Oeste Baiano",
+    "CO_UF": 29
+  },
+  {
+    "CO_MESORREGIAO": 2902,
+    "NO_MESORREGIAO": "Vale São-Franciscano da Bahia",
+    "CO_UF": 29
+  },
+  {
+    "CO_MESORREGIAO": 2903,
+    "NO_MESORREGIAO": "Centro Norte Baiano",
+    "CO_UF": 29
+  },
+  {
+    "CO_MESORREGIAO": 2904,
+    "NO_MESORREGIAO": "Nordeste Baiano",
+    "CO_UF": 29
+  },
+  {
+    "CO_MESORREGIAO": 2905,
+    "NO_MESORREGIAO": "Metropolitana de Salvador",
+    "CO_UF": 29
+  },
+  {
+    "CO_MESORREGIAO": 2906,
+    "NO_MESORREGIAO": "Centro Sul Baiano",
+    "CO_UF": 29
+  },
+  {
+    "CO_MESORREGIAO": 2907,
+    "NO_MESORREGIAO": "Sul Baiano",
+    "CO_UF": 29
+  }
+]

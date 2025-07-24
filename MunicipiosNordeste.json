@@ -1,0 +1,8972 @@
+[
+  {
+    "CO_MUNICIPIO": 2100055,
+    "NO_MUNICIPIO": "Açailândia",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2100105,
+    "NO_MUNICIPIO": "Afonso Cunha",
+    "CO_MICRORREGIAO": 21016
+  },
+  {
+    "CO_MUNICIPIO": 2100154,
+    "NO_MUNICIPIO": "Água Doce do Maranhão",
+    "CO_MICRORREGIAO": 21013
+  },
+  {
+    "CO_MUNICIPIO": 2100204,
+    "NO_MUNICIPIO": "Alcântara",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2100303,
+    "NO_MUNICIPIO": "Aldeias Altas",
+    "CO_MICRORREGIAO": 21016
+  },
+  {
+    "CO_MUNICIPIO": 2100402,
+    "NO_MUNICIPIO": "Altamira do Maranhão",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2100436,
+    "NO_MUNICIPIO": "Alto Alegre do Maranhão",
+    "CO_MICRORREGIAO": 21015
+  },
+  {
+    "CO_MUNICIPIO": 2100477,
+    "NO_MUNICIPIO": "Alto Alegre do Pindaré",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2100501,
+    "NO_MUNICIPIO": "Alto Parnaíba",
+    "CO_MICRORREGIAO": 21020
+  },
+  {
+    "CO_MUNICIPIO": 2100550,
+    "NO_MUNICIPIO": "Amapá do Maranhão",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2100600,
+    "NO_MUNICIPIO": "Amarante do Maranhão",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2100709,
+    "NO_MUNICIPIO": "Anajatuba",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2100808,
+    "NO_MUNICIPIO": "Anapurus",
+    "CO_MICRORREGIAO": 21014
+  },
+  {
+    "CO_MUNICIPIO": 2100832,
+    "NO_MUNICIPIO": "Apicum-Açu",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2100873,
+    "NO_MUNICIPIO": "Araguanã",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2100907,
+    "NO_MUNICIPIO": "Araioses",
+    "CO_MICRORREGIAO": 21013
+  },
+  {
+    "CO_MUNICIPIO": 2100956,
+    "NO_MUNICIPIO": "Arame",
+    "CO_MICRORREGIAO": 21011
+  },
+  {
+    "CO_MUNICIPIO": 2101004,
+    "NO_MUNICIPIO": "Arari",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2101103,
+    "NO_MUNICIPIO": "Axixá",
+    "CO_MICRORREGIAO": 21003
+  },
+  {
+    "CO_MUNICIPIO": 2101202,
+    "NO_MUNICIPIO": "Bacabal",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2101251,
+    "NO_MUNICIPIO": "Bacabeira",
+    "CO_MICRORREGIAO": 21003
+  },
+  {
+    "CO_MUNICIPIO": 2101301,
+    "NO_MUNICIPIO": "Bacuri",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2101350,
+    "NO_MUNICIPIO": "Bacurituba",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2101400,
+    "NO_MUNICIPIO": "Balsas",
+    "CO_MICRORREGIAO": 21020
+  },
+  {
+    "CO_MUNICIPIO": 2101509,
+    "NO_MUNICIPIO": "Barão de Grajaú",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2101608,
+    "NO_MUNICIPIO": "Barra do Corda",
+    "CO_MICRORREGIAO": 21011
+  },
+  {
+    "CO_MUNICIPIO": 2101707,
+    "NO_MUNICIPIO": "Barreirinhas",
+    "CO_MICRORREGIAO": 21004
+  },
+  {
+    "CO_MUNICIPIO": 2101731,
+    "NO_MUNICIPIO": "Belágua",
+    "CO_MICRORREGIAO": 21014
+  },
+  {
+    "CO_MUNICIPIO": 2101772,
+    "NO_MUNICIPIO": "Bela Vista do Maranhão",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2101806,
+    "NO_MUNICIPIO": "Benedito Leite",
+    "CO_MICRORREGIAO": 21021
+  },
+  {
+    "CO_MUNICIPIO": 2101905,
+    "NO_MUNICIPIO": "Bequimão",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2101939,
+    "NO_MUNICIPIO": "Bernardo do Mearim",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2101970,
+    "NO_MUNICIPIO": "Boa Vista do Gurupi",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2102002,
+    "NO_MUNICIPIO": "Bom Jardim",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2102036,
+    "NO_MUNICIPIO": "Bom Jesus das Selvas",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2102077,
+    "NO_MUNICIPIO": "Bom Lugar",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2102101,
+    "NO_MUNICIPIO": "Brejo",
+    "CO_MICRORREGIAO": 21014
+  },
+  {
+    "CO_MUNICIPIO": 2102150,
+    "NO_MUNICIPIO": "Brejo de Areia",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2102200,
+    "NO_MUNICIPIO": "Buriti",
+    "CO_MICRORREGIAO": 21014
+  },
+  {
+    "CO_MUNICIPIO": 2102309,
+    "NO_MUNICIPIO": "Buriti Bravo",
+    "CO_MICRORREGIAO": 21017
+  },
+  {
+    "CO_MUNICIPIO": 2102325,
+    "NO_MUNICIPIO": "Buriticupu",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2102358,
+    "NO_MUNICIPIO": "Buritirana",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2102374,
+    "NO_MUNICIPIO": "Cachoeira Grande",
+    "CO_MICRORREGIAO": 21003
+  },
+  {
+    "CO_MUNICIPIO": 2102408,
+    "NO_MUNICIPIO": "Cajapió",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2102507,
+    "NO_MUNICIPIO": "Cajari",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2102556,
+    "NO_MUNICIPIO": "Campestre do Maranhão",
+    "CO_MICRORREGIAO": 21019
+  },
+  {
+    "CO_MUNICIPIO": 2102606,
+    "NO_MUNICIPIO": "Cândido Mendes",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2102705,
+    "NO_MUNICIPIO": "Cantanhede",
+    "CO_MICRORREGIAO": 21006
+  },
+  {
+    "CO_MUNICIPIO": 2102754,
+    "NO_MUNICIPIO": "Capinzal do Norte",
+    "CO_MICRORREGIAO": 21015
+  },
+  {
+    "CO_MUNICIPIO": 2102804,
+    "NO_MUNICIPIO": "Carolina",
+    "CO_MICRORREGIAO": 21019
+  },
+  {
+    "CO_MUNICIPIO": 2102903,
+    "NO_MUNICIPIO": "Carutapera",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2103000,
+    "NO_MUNICIPIO": "Caxias",
+    "CO_MICRORREGIAO": 21017
+  },
+  {
+    "CO_MUNICIPIO": 2103109,
+    "NO_MUNICIPIO": "Cedral",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2103125,
+    "NO_MUNICIPIO": "Central do Maranhão",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2103158,
+    "NO_MUNICIPIO": "Centro do Guilherme",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2103174,
+    "NO_MUNICIPIO": "Centro Novo do Maranhão",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2103208,
+    "NO_MUNICIPIO": "Chapadinha",
+    "CO_MICRORREGIAO": 21014
+  },
+  {
+    "CO_MUNICIPIO": 2103257,
+    "NO_MUNICIPIO": "Cidelândia",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2103307,
+    "NO_MUNICIPIO": "Codó",
+    "CO_MICRORREGIAO": 21015
+  },
+  {
+    "CO_MUNICIPIO": 2103406,
+    "NO_MUNICIPIO": "Coelho Neto",
+    "CO_MICRORREGIAO": 21016
+  },
+  {
+    "CO_MUNICIPIO": 2103505,
+    "NO_MUNICIPIO": "Colinas",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2103554,
+    "NO_MUNICIPIO": "Conceição do Lago-Açu",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2103604,
+    "NO_MUNICIPIO": "Coroatá",
+    "CO_MICRORREGIAO": 21015
+  },
+  {
+    "CO_MUNICIPIO": 2103703,
+    "NO_MUNICIPIO": "Cururupu",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2103752,
+    "NO_MUNICIPIO": "Davinópolis",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2103802,
+    "NO_MUNICIPIO": "Dom Pedro",
+    "CO_MICRORREGIAO": 21012
+  },
+  {
+    "CO_MUNICIPIO": 2103901,
+    "NO_MUNICIPIO": "Duque Bacelar",
+    "CO_MICRORREGIAO": 21016
+  },
+  {
+    "CO_MUNICIPIO": 2104008,
+    "NO_MUNICIPIO": "Esperantinópolis",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2104057,
+    "NO_MUNICIPIO": "Estreito",
+    "CO_MICRORREGIAO": 21019
+  },
+  {
+    "CO_MUNICIPIO": 2104073,
+    "NO_MUNICIPIO": "Feira Nova do Maranhão",
+    "CO_MICRORREGIAO": 21020
+  },
+  {
+    "CO_MUNICIPIO": 2104081,
+    "NO_MUNICIPIO": "Fernando Falcão",
+    "CO_MICRORREGIAO": 21011
+  },
+  {
+    "CO_MUNICIPIO": 2104099,
+    "NO_MUNICIPIO": "Formosa da Serra Negra",
+    "CO_MICRORREGIAO": 21011
+  },
+  {
+    "CO_MUNICIPIO": 2104107,
+    "NO_MUNICIPIO": "Fortaleza dos Nogueiras",
+    "CO_MICRORREGIAO": 21021
+  },
+  {
+    "CO_MUNICIPIO": 2104206,
+    "NO_MUNICIPIO": "Fortuna",
+    "CO_MICRORREGIAO": 21012
+  },
+  {
+    "CO_MUNICIPIO": 2104305,
+    "NO_MUNICIPIO": "Godofredo Viana",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2104404,
+    "NO_MUNICIPIO": "Gonçalves Dias",
+    "CO_MICRORREGIAO": 21012
+  },
+  {
+    "CO_MUNICIPIO": 2104503,
+    "NO_MUNICIPIO": "Governador Archer",
+    "CO_MICRORREGIAO": 21012
+  },
+  {
+    "CO_MUNICIPIO": 2104552,
+    "NO_MUNICIPIO": "Governador Edison Lobão",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2104602,
+    "NO_MUNICIPIO": "Governador Eugênio Barros",
+    "CO_MICRORREGIAO": 21012
+  },
+  {
+    "CO_MUNICIPIO": 2104628,
+    "NO_MUNICIPIO": "Governador Luiz Rocha",
+    "CO_MICRORREGIAO": 21012
+  },
+  {
+    "CO_MUNICIPIO": 2104651,
+    "NO_MUNICIPIO": "Governador Newton Bello",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2104677,
+    "NO_MUNICIPIO": "Governador Nunes Freire",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2104701,
+    "NO_MUNICIPIO": "Graça Aranha",
+    "CO_MICRORREGIAO": 21012
+  },
+  {
+    "CO_MUNICIPIO": 2104800,
+    "NO_MUNICIPIO": "Grajaú",
+    "CO_MICRORREGIAO": 21011
+  },
+  {
+    "CO_MUNICIPIO": 2104909,
+    "NO_MUNICIPIO": "Guimarães",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2105005,
+    "NO_MUNICIPIO": "Humberto de Campos",
+    "CO_MICRORREGIAO": 21004
+  },
+  {
+    "CO_MUNICIPIO": 2105104,
+    "NO_MUNICIPIO": "Icatu",
+    "CO_MICRORREGIAO": 21003
+  },
+  {
+    "CO_MUNICIPIO": 2105153,
+    "NO_MUNICIPIO": "Igarapé do Meio",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2105203,
+    "NO_MUNICIPIO": "Igarapé Grande",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2105302,
+    "NO_MUNICIPIO": "Imperatriz",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2105351,
+    "NO_MUNICIPIO": "Itaipava do Grajaú",
+    "CO_MICRORREGIAO": 21011
+  },
+  {
+    "CO_MUNICIPIO": 2105401,
+    "NO_MUNICIPIO": "Itapecuru Mirim",
+    "CO_MICRORREGIAO": 21006
+  },
+  {
+    "CO_MUNICIPIO": 2105427,
+    "NO_MUNICIPIO": "Itinga do Maranhão",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2105450,
+    "NO_MUNICIPIO": "Jatobá",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2105476,
+    "NO_MUNICIPIO": "Jenipapo dos Vieiras",
+    "CO_MICRORREGIAO": 21011
+  },
+  {
+    "CO_MUNICIPIO": 2105500,
+    "NO_MUNICIPIO": "João Lisboa",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2105609,
+    "NO_MUNICIPIO": "Joselândia",
+    "CO_MICRORREGIAO": 21011
+  },
+  {
+    "CO_MUNICIPIO": 2105658,
+    "NO_MUNICIPIO": "Junco do Maranhão",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2105708,
+    "NO_MUNICIPIO": "Lago da Pedra",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2105807,
+    "NO_MUNICIPIO": "Lago do Junco",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2105906,
+    "NO_MUNICIPIO": "Lago Verde",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2105922,
+    "NO_MUNICIPIO": "Lagoa do Mato",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2105948,
+    "NO_MUNICIPIO": "Lago dos Rodrigues",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2105963,
+    "NO_MUNICIPIO": "Lagoa Grande do Maranhão",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2105989,
+    "NO_MUNICIPIO": "Lajeado Novo",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2106003,
+    "NO_MUNICIPIO": "Lima Campos",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2106102,
+    "NO_MUNICIPIO": "Loreto",
+    "CO_MICRORREGIAO": 21021
+  },
+  {
+    "CO_MUNICIPIO": 2106201,
+    "NO_MUNICIPIO": "Luís Domingues",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2106300,
+    "NO_MUNICIPIO": "Magalhães de Almeida",
+    "CO_MICRORREGIAO": 21013
+  },
+  {
+    "CO_MUNICIPIO": 2106326,
+    "NO_MUNICIPIO": "Maracaçumé",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2106359,
+    "NO_MUNICIPIO": "Marajá do Sena",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2106375,
+    "NO_MUNICIPIO": "Maranhãozinho",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2106409,
+    "NO_MUNICIPIO": "Mata Roma",
+    "CO_MICRORREGIAO": 21014
+  },
+  {
+    "CO_MUNICIPIO": 2106508,
+    "NO_MUNICIPIO": "Matinha",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2106607,
+    "NO_MUNICIPIO": "Matões",
+    "CO_MICRORREGIAO": 21017
+  },
+  {
+    "CO_MUNICIPIO": 2106631,
+    "NO_MUNICIPIO": "Matões do Norte",
+    "CO_MICRORREGIAO": 21006
+  },
+  {
+    "CO_MUNICIPIO": 2106672,
+    "NO_MUNICIPIO": "Milagres do Maranhão",
+    "CO_MICRORREGIAO": 21014
+  },
+  {
+    "CO_MUNICIPIO": 2106706,
+    "NO_MUNICIPIO": "Mirador",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2106755,
+    "NO_MUNICIPIO": "Miranda do Norte",
+    "CO_MICRORREGIAO": 21006
+  },
+  {
+    "CO_MUNICIPIO": 2106805,
+    "NO_MUNICIPIO": "Mirinzal",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2106904,
+    "NO_MUNICIPIO": "Monção",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2107001,
+    "NO_MUNICIPIO": "Montes Altos",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2107100,
+    "NO_MUNICIPIO": "Morros",
+    "CO_MICRORREGIAO": 21003
+  },
+  {
+    "CO_MUNICIPIO": 2107209,
+    "NO_MUNICIPIO": "Nina Rodrigues",
+    "CO_MICRORREGIAO": 21006
+  },
+  {
+    "CO_MUNICIPIO": 2107258,
+    "NO_MUNICIPIO": "Nova Colinas",
+    "CO_MICRORREGIAO": 21021
+  },
+  {
+    "CO_MUNICIPIO": 2107308,
+    "NO_MUNICIPIO": "Nova Iorque",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2107357,
+    "NO_MUNICIPIO": "Nova Olinda do Maranhão",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2107407,
+    "NO_MUNICIPIO": "Olho d'Água das Cunhãs",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2107456,
+    "NO_MUNICIPIO": "Olinda Nova do Maranhão",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2107506,
+    "NO_MUNICIPIO": "Paço do Lumiar",
+    "CO_MICRORREGIAO": 21002
+  },
+  {
+    "CO_MUNICIPIO": 2107605,
+    "NO_MUNICIPIO": "Palmeirândia",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2107704,
+    "NO_MUNICIPIO": "Paraibano",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2107803,
+    "NO_MUNICIPIO": "Parnarama",
+    "CO_MICRORREGIAO": 21017
+  },
+  {
+    "CO_MUNICIPIO": 2107902,
+    "NO_MUNICIPIO": "Passagem Franca",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2108009,
+    "NO_MUNICIPIO": "Pastos Bons",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2108058,
+    "NO_MUNICIPIO": "Paulino Neves",
+    "CO_MICRORREGIAO": 21004
+  },
+  {
+    "CO_MUNICIPIO": 2108108,
+    "NO_MUNICIPIO": "Paulo Ramos",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2108207,
+    "NO_MUNICIPIO": "Pedreiras",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2108256,
+    "NO_MUNICIPIO": "Pedro do Rosário",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2108306,
+    "NO_MUNICIPIO": "Penalva",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2108405,
+    "NO_MUNICIPIO": "Peri Mirim",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2108454,
+    "NO_MUNICIPIO": "Peritoró",
+    "CO_MICRORREGIAO": 21015
+  },
+  {
+    "CO_MUNICIPIO": 2108504,
+    "NO_MUNICIPIO": "Pindaré-Mirim",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2108603,
+    "NO_MUNICIPIO": "Pinheiro",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2108702,
+    "NO_MUNICIPIO": "Pio XII",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2108801,
+    "NO_MUNICIPIO": "Pirapemas",
+    "CO_MICRORREGIAO": 21006
+  },
+  {
+    "CO_MUNICIPIO": 2108900,
+    "NO_MUNICIPIO": "Poção de Pedras",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2109007,
+    "NO_MUNICIPIO": "Porto Franco",
+    "CO_MICRORREGIAO": 21019
+  },
+  {
+    "CO_MUNICIPIO": 2109056,
+    "NO_MUNICIPIO": "Porto Rico do Maranhão",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2109106,
+    "NO_MUNICIPIO": "Presidente Dutra",
+    "CO_MICRORREGIAO": 21012
+  },
+  {
+    "CO_MUNICIPIO": 2109205,
+    "NO_MUNICIPIO": "Presidente Juscelino",
+    "CO_MICRORREGIAO": 21003
+  },
+  {
+    "CO_MUNICIPIO": 2109239,
+    "NO_MUNICIPIO": "Presidente Médici",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2109270,
+    "NO_MUNICIPIO": "Presidente Sarney",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2109304,
+    "NO_MUNICIPIO": "Presidente Vargas",
+    "CO_MICRORREGIAO": 21006
+  },
+  {
+    "CO_MUNICIPIO": 2109403,
+    "NO_MUNICIPIO": "Primeira Cruz",
+    "CO_MICRORREGIAO": 21004
+  },
+  {
+    "CO_MUNICIPIO": 2109452,
+    "NO_MUNICIPIO": "Raposa",
+    "CO_MICRORREGIAO": 21002
+  },
+  {
+    "CO_MUNICIPIO": 2109502,
+    "NO_MUNICIPIO": "Riachão",
+    "CO_MICRORREGIAO": 21020
+  },
+  {
+    "CO_MUNICIPIO": 2109551,
+    "NO_MUNICIPIO": "Ribamar Fiquene",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2109601,
+    "NO_MUNICIPIO": "Rosário",
+    "CO_MICRORREGIAO": 21003
+  },
+  {
+    "CO_MUNICIPIO": 2109700,
+    "NO_MUNICIPIO": "Sambaíba",
+    "CO_MICRORREGIAO": 21021
+  },
+  {
+    "CO_MUNICIPIO": 2109759,
+    "NO_MUNICIPIO": "Santa Filomena do Maranhão",
+    "CO_MICRORREGIAO": 21011
+  },
+  {
+    "CO_MUNICIPIO": 2109809,
+    "NO_MUNICIPIO": "Santa Helena",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2109908,
+    "NO_MUNICIPIO": "Santa Inês",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2110005,
+    "NO_MUNICIPIO": "Santa Luzia",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2110039,
+    "NO_MUNICIPIO": "Santa Luzia do Paruá",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2110104,
+    "NO_MUNICIPIO": "Santa Quitéria do Maranhão",
+    "CO_MICRORREGIAO": 21013
+  },
+  {
+    "CO_MUNICIPIO": 2110203,
+    "NO_MUNICIPIO": "Santa Rita",
+    "CO_MICRORREGIAO": 21003
+  },
+  {
+    "CO_MUNICIPIO": 2110237,
+    "NO_MUNICIPIO": "Santana do Maranhão",
+    "CO_MICRORREGIAO": 21013
+  },
+  {
+    "CO_MUNICIPIO": 2110278,
+    "NO_MUNICIPIO": "Santo Amaro do Maranhão",
+    "CO_MICRORREGIAO": 21004
+  },
+  {
+    "CO_MUNICIPIO": 2110302,
+    "NO_MUNICIPIO": "Santo Antônio dos Lopes",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2110401,
+    "NO_MUNICIPIO": "São Benedito do Rio Preto",
+    "CO_MICRORREGIAO": 21014
+  },
+  {
+    "CO_MUNICIPIO": 2110500,
+    "NO_MUNICIPIO": "São Bento",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2110609,
+    "NO_MUNICIPIO": "São Bernardo",
+    "CO_MICRORREGIAO": 21013
+  },
+  {
+    "CO_MUNICIPIO": 2110658,
+    "NO_MUNICIPIO": "São Domingos do Azeitão",
+    "CO_MICRORREGIAO": 21021
+  },
+  {
+    "CO_MUNICIPIO": 2110708,
+    "NO_MUNICIPIO": "São Domingos do Maranhão",
+    "CO_MICRORREGIAO": 21012
+  },
+  {
+    "CO_MUNICIPIO": 2110807,
+    "NO_MUNICIPIO": "São Félix de Balsas",
+    "CO_MICRORREGIAO": 21021
+  },
+  {
+    "CO_MUNICIPIO": 2110856,
+    "NO_MUNICIPIO": "São Francisco do Brejão",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2110906,
+    "NO_MUNICIPIO": "São Francisco do Maranhão",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2111003,
+    "NO_MUNICIPIO": "São João Batista",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2111029,
+    "NO_MUNICIPIO": "São João do Carú",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2111052,
+    "NO_MUNICIPIO": "São João do Paraíso",
+    "CO_MICRORREGIAO": 21019
+  },
+  {
+    "CO_MUNICIPIO": 2111078,
+    "NO_MUNICIPIO": "São João do Soter",
+    "CO_MICRORREGIAO": 21017
+  },
+  {
+    "CO_MUNICIPIO": 2111102,
+    "NO_MUNICIPIO": "São João dos Patos",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2111201,
+    "NO_MUNICIPIO": "São José de Ribamar",
+    "CO_MICRORREGIAO": 21002
+  },
+  {
+    "CO_MUNICIPIO": 2111250,
+    "NO_MUNICIPIO": "São José dos Basílios",
+    "CO_MICRORREGIAO": 21012
+  },
+  {
+    "CO_MUNICIPIO": 2111300,
+    "NO_MUNICIPIO": "São Luís",
+    "CO_MICRORREGIAO": 21002
+  },
+  {
+    "CO_MUNICIPIO": 2111409,
+    "NO_MUNICIPIO": "São Luís Gonzaga do Maranhão",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2111508,
+    "NO_MUNICIPIO": "São Mateus do Maranhão",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2111532,
+    "NO_MUNICIPIO": "São Pedro da Água Branca",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2111573,
+    "NO_MUNICIPIO": "São Pedro dos Crentes",
+    "CO_MICRORREGIAO": 21019
+  },
+  {
+    "CO_MUNICIPIO": 2111607,
+    "NO_MUNICIPIO": "São Raimundo das Mangabeiras",
+    "CO_MICRORREGIAO": 21021
+  },
+  {
+    "CO_MUNICIPIO": 2111631,
+    "NO_MUNICIPIO": "São Raimundo do Doca Bezerra",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2111672,
+    "NO_MUNICIPIO": "São Roberto",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2111706,
+    "NO_MUNICIPIO": "São Vicente Ferrer",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2111722,
+    "NO_MUNICIPIO": "Satubinha",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2111748,
+    "NO_MUNICIPIO": "Senador Alexandre Costa",
+    "CO_MICRORREGIAO": 21012
+  },
+  {
+    "CO_MUNICIPIO": 2111763,
+    "NO_MUNICIPIO": "Senador La Rocque",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2111789,
+    "NO_MUNICIPIO": "Serrano do Maranhão",
+    "CO_MICRORREGIAO": 21001
+  },
+  {
+    "CO_MUNICIPIO": 2111805,
+    "NO_MUNICIPIO": "Sítio Novo",
+    "CO_MICRORREGIAO": 21011
+  },
+  {
+    "CO_MUNICIPIO": 2111904,
+    "NO_MUNICIPIO": "Sucupira do Norte",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2111953,
+    "NO_MUNICIPIO": "Sucupira do Riachão",
+    "CO_MICRORREGIAO": 21018
+  },
+  {
+    "CO_MUNICIPIO": 2112001,
+    "NO_MUNICIPIO": "Tasso Fragoso",
+    "CO_MICRORREGIAO": 21020
+  },
+  {
+    "CO_MUNICIPIO": 2112100,
+    "NO_MUNICIPIO": "Timbiras",
+    "CO_MICRORREGIAO": 21015
+  },
+  {
+    "CO_MUNICIPIO": 2112209,
+    "NO_MUNICIPIO": "Timon",
+    "CO_MICRORREGIAO": 21017
+  },
+  {
+    "CO_MUNICIPIO": 2112233,
+    "NO_MUNICIPIO": "Trizidela do Vale",
+    "CO_MICRORREGIAO": 21010
+  },
+  {
+    "CO_MUNICIPIO": 2112274,
+    "NO_MUNICIPIO": "Tufilândia",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2112308,
+    "NO_MUNICIPIO": "Tuntum",
+    "CO_MICRORREGIAO": 21011
+  },
+  {
+    "CO_MUNICIPIO": 2112407,
+    "NO_MUNICIPIO": "Turiaçu",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2112456,
+    "NO_MUNICIPIO": "Turilândia",
+    "CO_MICRORREGIAO": 21007
+  },
+  {
+    "CO_MUNICIPIO": 2112506,
+    "NO_MUNICIPIO": "Tutóia",
+    "CO_MICRORREGIAO": 21004
+  },
+  {
+    "CO_MUNICIPIO": 2112605,
+    "NO_MUNICIPIO": "Urbano Santos",
+    "CO_MICRORREGIAO": 21014
+  },
+  {
+    "CO_MUNICIPIO": 2112704,
+    "NO_MUNICIPIO": "Vargem Grande",
+    "CO_MICRORREGIAO": 21006
+  },
+  {
+    "CO_MUNICIPIO": 2112803,
+    "NO_MUNICIPIO": "Viana",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2112852,
+    "NO_MUNICIPIO": "Vila Nova dos Martírios",
+    "CO_MICRORREGIAO": 21009
+  },
+  {
+    "CO_MUNICIPIO": 2112902,
+    "NO_MUNICIPIO": "Vitória do Mearim",
+    "CO_MICRORREGIAO": 21005
+  },
+  {
+    "CO_MUNICIPIO": 2113009,
+    "NO_MUNICIPIO": "Vitorino Freire",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2114007,
+    "NO_MUNICIPIO": "Zé Doca",
+    "CO_MICRORREGIAO": 21008
+  },
+  {
+    "CO_MUNICIPIO": 2200053,
+    "NO_MUNICIPIO": "Acauã",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2200103,
+    "NO_MUNICIPIO": "Agricolândia",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2200202,
+    "NO_MUNICIPIO": "Água Branca",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2200251,
+    "NO_MUNICIPIO": "Alagoinha do Piauí",
+    "CO_MICRORREGIAO": 22014
+  },
+  {
+    "CO_MUNICIPIO": 2200277,
+    "NO_MUNICIPIO": "Alegrete do Piauí",
+    "CO_MICRORREGIAO": 22014
+  },
+  {
+    "CO_MUNICIPIO": 2200301,
+    "NO_MUNICIPIO": "Alto Longá",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2200400,
+    "NO_MUNICIPIO": "Altos",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2200459,
+    "NO_MUNICIPIO": "Alvorada do Gurguéia",
+    "CO_MICRORREGIAO": 22010
+  },
+  {
+    "CO_MUNICIPIO": 2200509,
+    "NO_MUNICIPIO": "Amarante",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2200608,
+    "NO_MUNICIPIO": "Angical do Piauí",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2200707,
+    "NO_MUNICIPIO": "Anísio de Abreu",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2200806,
+    "NO_MUNICIPIO": "Antônio Almeida",
+    "CO_MICRORREGIAO": 22008
+  },
+  {
+    "CO_MUNICIPIO": 2200905,
+    "NO_MUNICIPIO": "Aroazes",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2200954,
+    "NO_MUNICIPIO": "Aroeiras do Itaim",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2201002,
+    "NO_MUNICIPIO": "Arraial",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2201051,
+    "NO_MUNICIPIO": "Assunção do Piauí",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2201101,
+    "NO_MUNICIPIO": "Avelino Lopes",
+    "CO_MICRORREGIAO": 22012
+  },
+  {
+    "CO_MUNICIPIO": 2201150,
+    "NO_MUNICIPIO": "Baixa Grande do Ribeiro",
+    "CO_MICRORREGIAO": 22007
+  },
+  {
+    "CO_MUNICIPIO": 2201176,
+    "NO_MUNICIPIO": "Barra D'Alcântara",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2201200,
+    "NO_MUNICIPIO": "Barras",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2201309,
+    "NO_MUNICIPIO": "Barreiras do Piauí",
+    "CO_MICRORREGIAO": 22010
+  },
+  {
+    "CO_MUNICIPIO": 2201408,
+    "NO_MUNICIPIO": "Barro Duro",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2201507,
+    "NO_MUNICIPIO": "Batalha",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2201556,
+    "NO_MUNICIPIO": "Bela Vista do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2201572,
+    "NO_MUNICIPIO": "Belém do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2201606,
+    "NO_MUNICIPIO": "Beneditinos",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2201705,
+    "NO_MUNICIPIO": "Bertolínia",
+    "CO_MICRORREGIAO": 22008
+  },
+  {
+    "CO_MUNICIPIO": 2201739,
+    "NO_MUNICIPIO": "Betânia do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2201770,
+    "NO_MUNICIPIO": "Boa Hora",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2201804,
+    "NO_MUNICIPIO": "Bocaina",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2201903,
+    "NO_MUNICIPIO": "Bom Jesus",
+    "CO_MICRORREGIAO": 22010
+  },
+  {
+    "CO_MUNICIPIO": 2201919,
+    "NO_MUNICIPIO": "Bom Princípio do Piauí",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2201929,
+    "NO_MUNICIPIO": "Bonfim do Piauí",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2201945,
+    "NO_MUNICIPIO": "Boqueirão do Piauí",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2201960,
+    "NO_MUNICIPIO": "Brasileira",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2201988,
+    "NO_MUNICIPIO": "Brejo do Piauí",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2202000,
+    "NO_MUNICIPIO": "Buriti dos Lopes",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2202026,
+    "NO_MUNICIPIO": "Buriti dos Montes",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2202059,
+    "NO_MUNICIPIO": "Cabeceiras do Piauí",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2202075,
+    "NO_MUNICIPIO": "Cajazeiras do Piauí",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2202083,
+    "NO_MUNICIPIO": "Cajueiro da Praia",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2202091,
+    "NO_MUNICIPIO": "Caldeirão Grande do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2202109,
+    "NO_MUNICIPIO": "Campinas do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2202117,
+    "NO_MUNICIPIO": "Campo Alegre do Fidalgo",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2202133,
+    "NO_MUNICIPIO": "Campo Grande do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2202174,
+    "NO_MUNICIPIO": "Campo Largo do Piauí",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2202208,
+    "NO_MUNICIPIO": "Campo Maior",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2202251,
+    "NO_MUNICIPIO": "Canavieira",
+    "CO_MICRORREGIAO": 22009
+  },
+  {
+    "CO_MUNICIPIO": 2202307,
+    "NO_MUNICIPIO": "Canto do Buriti",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2202406,
+    "NO_MUNICIPIO": "Capitão de Campos",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2202455,
+    "NO_MUNICIPIO": "Capitão Gervásio Oliveira",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2202505,
+    "NO_MUNICIPIO": "Caracol",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2202539,
+    "NO_MUNICIPIO": "Caraúbas do Piauí",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2202554,
+    "NO_MUNICIPIO": "Caridade do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2202604,
+    "NO_MUNICIPIO": "Castelo do Piauí",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2202653,
+    "NO_MUNICIPIO": "Caxingó",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2202703,
+    "NO_MUNICIPIO": "Cocal",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2202711,
+    "NO_MUNICIPIO": "Cocal de Telha",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2202729,
+    "NO_MUNICIPIO": "Cocal dos Alves",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2202737,
+    "NO_MUNICIPIO": "Coivaras",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2202752,
+    "NO_MUNICIPIO": "Colônia do Gurguéia",
+    "CO_MICRORREGIAO": 22008
+  },
+  {
+    "CO_MUNICIPIO": 2202778,
+    "NO_MUNICIPIO": "Colônia do Piauí",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2202802,
+    "NO_MUNICIPIO": "Conceição do Canindé",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2202851,
+    "NO_MUNICIPIO": "Coronel José Dias",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2202901,
+    "NO_MUNICIPIO": "Corrente",
+    "CO_MICRORREGIAO": 22012
+  },
+  {
+    "CO_MUNICIPIO": 2203008,
+    "NO_MUNICIPIO": "Cristalândia do Piauí",
+    "CO_MICRORREGIAO": 22012
+  },
+  {
+    "CO_MUNICIPIO": 2203107,
+    "NO_MUNICIPIO": "Cristino Castro",
+    "CO_MICRORREGIAO": 22010
+  },
+  {
+    "CO_MUNICIPIO": 2203206,
+    "NO_MUNICIPIO": "Curimatá",
+    "CO_MICRORREGIAO": 22012
+  },
+  {
+    "CO_MUNICIPIO": 2203230,
+    "NO_MUNICIPIO": "Currais",
+    "CO_MICRORREGIAO": 22010
+  },
+  {
+    "CO_MUNICIPIO": 2203255,
+    "NO_MUNICIPIO": "Curralinhos",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2203271,
+    "NO_MUNICIPIO": "Curral Novo do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2203305,
+    "NO_MUNICIPIO": "Demerval Lobão",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2203354,
+    "NO_MUNICIPIO": "Dirceu Arcoverde",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2203404,
+    "NO_MUNICIPIO": "Dom Expedito Lopes",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2203420,
+    "NO_MUNICIPIO": "Domingos Mourão",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2203453,
+    "NO_MUNICIPIO": "Dom Inocêncio",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2203503,
+    "NO_MUNICIPIO": "Elesbão Veloso",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2203602,
+    "NO_MUNICIPIO": "Eliseu Martins",
+    "CO_MICRORREGIAO": 22008
+  },
+  {
+    "CO_MUNICIPIO": 2203701,
+    "NO_MUNICIPIO": "Esperantina",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2203750,
+    "NO_MUNICIPIO": "Fartura do Piauí",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2203800,
+    "NO_MUNICIPIO": "Flores do Piauí",
+    "CO_MICRORREGIAO": 22009
+  },
+  {
+    "CO_MUNICIPIO": 2203859,
+    "NO_MUNICIPIO": "Floresta do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2203909,
+    "NO_MUNICIPIO": "Floriano",
+    "CO_MICRORREGIAO": 22009
+  },
+  {
+    "CO_MUNICIPIO": 2204006,
+    "NO_MUNICIPIO": "Francinópolis",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2204105,
+    "NO_MUNICIPIO": "Francisco Ayres",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2204154,
+    "NO_MUNICIPIO": "Francisco Macedo",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2204204,
+    "NO_MUNICIPIO": "Francisco Santos",
+    "CO_MICRORREGIAO": 22014
+  },
+  {
+    "CO_MUNICIPIO": 2204303,
+    "NO_MUNICIPIO": "Fronteiras",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2204352,
+    "NO_MUNICIPIO": "Geminiano",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2204402,
+    "NO_MUNICIPIO": "Gilbués",
+    "CO_MICRORREGIAO": 22010
+  },
+  {
+    "CO_MUNICIPIO": 2204501,
+    "NO_MUNICIPIO": "Guadalupe",
+    "CO_MICRORREGIAO": 22009
+  },
+  {
+    "CO_MUNICIPIO": 2204550,
+    "NO_MUNICIPIO": "Guaribas",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2204600,
+    "NO_MUNICIPIO": "Hugo Napoleão",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2204659,
+    "NO_MUNICIPIO": "Ilha Grande",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2204709,
+    "NO_MUNICIPIO": "Inhuma",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2204808,
+    "NO_MUNICIPIO": "Ipiranga do Piauí",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2204907,
+    "NO_MUNICIPIO": "Isaías Coelho",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2205003,
+    "NO_MUNICIPIO": "Itainópolis",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2205102,
+    "NO_MUNICIPIO": "Itaueira",
+    "CO_MICRORREGIAO": 22009
+  },
+  {
+    "CO_MUNICIPIO": 2205151,
+    "NO_MUNICIPIO": "Jacobina do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2205201,
+    "NO_MUNICIPIO": "Jaicós",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2205250,
+    "NO_MUNICIPIO": "Jardim do Mulato",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2205276,
+    "NO_MUNICIPIO": "Jatobá do Piauí",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2205300,
+    "NO_MUNICIPIO": "Jerumenha",
+    "CO_MICRORREGIAO": 22009
+  },
+  {
+    "CO_MUNICIPIO": 2205359,
+    "NO_MUNICIPIO": "João Costa",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2205409,
+    "NO_MUNICIPIO": "Joaquim Pires",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2205458,
+    "NO_MUNICIPIO": "Joca Marques",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2205508,
+    "NO_MUNICIPIO": "José de Freitas",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2205516,
+    "NO_MUNICIPIO": "Juazeiro do Piauí",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2205524,
+    "NO_MUNICIPIO": "Júlio Borges",
+    "CO_MICRORREGIAO": 22012
+  },
+  {
+    "CO_MUNICIPIO": 2205532,
+    "NO_MUNICIPIO": "Jurema",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2205540,
+    "NO_MUNICIPIO": "Lagoinha do Piauí",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2205557,
+    "NO_MUNICIPIO": "Lagoa Alegre",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2205565,
+    "NO_MUNICIPIO": "Lagoa do Barro do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2205573,
+    "NO_MUNICIPIO": "Lagoa de São Francisco",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2205581,
+    "NO_MUNICIPIO": "Lagoa do Piauí",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2205599,
+    "NO_MUNICIPIO": "Lagoa do Sítio",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2205607,
+    "NO_MUNICIPIO": "Landri Sales",
+    "CO_MICRORREGIAO": 22008
+  },
+  {
+    "CO_MUNICIPIO": 2205706,
+    "NO_MUNICIPIO": "Luís Correia",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2205805,
+    "NO_MUNICIPIO": "Luzilândia",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2205854,
+    "NO_MUNICIPIO": "Madeiro",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2205904,
+    "NO_MUNICIPIO": "Manoel Emídio",
+    "CO_MICRORREGIAO": 22008
+  },
+  {
+    "CO_MUNICIPIO": 2205953,
+    "NO_MUNICIPIO": "Marcolândia",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2206001,
+    "NO_MUNICIPIO": "Marcos Parente",
+    "CO_MICRORREGIAO": 22008
+  },
+  {
+    "CO_MUNICIPIO": 2206050,
+    "NO_MUNICIPIO": "Massapê do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2206100,
+    "NO_MUNICIPIO": "Matias Olímpio",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2206209,
+    "NO_MUNICIPIO": "Miguel Alves",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2206308,
+    "NO_MUNICIPIO": "Miguel Leão",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2206357,
+    "NO_MUNICIPIO": "Milton Brandão",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2206407,
+    "NO_MUNICIPIO": "Monsenhor Gil",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2206506,
+    "NO_MUNICIPIO": "Monsenhor Hipólito",
+    "CO_MICRORREGIAO": 22014
+  },
+  {
+    "CO_MUNICIPIO": 2206605,
+    "NO_MUNICIPIO": "Monte Alegre do Piauí",
+    "CO_MICRORREGIAO": 22010
+  },
+  {
+    "CO_MUNICIPIO": 2206654,
+    "NO_MUNICIPIO": "Morro Cabeça no Tempo",
+    "CO_MICRORREGIAO": 22012
+  },
+  {
+    "CO_MUNICIPIO": 2206670,
+    "NO_MUNICIPIO": "Morro do Chapéu do Piauí",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2206696,
+    "NO_MUNICIPIO": "Murici dos Portelas",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2206704,
+    "NO_MUNICIPIO": "Nazaré do Piauí",
+    "CO_MICRORREGIAO": 22009
+  },
+  {
+    "CO_MUNICIPIO": 2206720,
+    "NO_MUNICIPIO": "Nazária",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2206753,
+    "NO_MUNICIPIO": "Nossa Senhora de Nazaré",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2206803,
+    "NO_MUNICIPIO": "Nossa Senhora dos Remédios",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2206902,
+    "NO_MUNICIPIO": "Novo Oriente do Piauí",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2206951,
+    "NO_MUNICIPIO": "Novo Santo Antônio",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2207009,
+    "NO_MUNICIPIO": "Oeiras",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2207108,
+    "NO_MUNICIPIO": "Olho D'Água do Piauí",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2207207,
+    "NO_MUNICIPIO": "Padre Marcos",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2207306,
+    "NO_MUNICIPIO": "Paes Landim",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2207355,
+    "NO_MUNICIPIO": "Pajeú do Piauí",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2207405,
+    "NO_MUNICIPIO": "Palmeira do Piauí",
+    "CO_MICRORREGIAO": 22010
+  },
+  {
+    "CO_MUNICIPIO": 2207504,
+    "NO_MUNICIPIO": "Palmeirais",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2207553,
+    "NO_MUNICIPIO": "Paquetá",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2207603,
+    "NO_MUNICIPIO": "Parnaguá",
+    "CO_MICRORREGIAO": 22012
+  },
+  {
+    "CO_MUNICIPIO": 2207702,
+    "NO_MUNICIPIO": "Parnaíba",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2207751,
+    "NO_MUNICIPIO": "Passagem Franca do Piauí",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2207777,
+    "NO_MUNICIPIO": "Patos do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2207793,
+    "NO_MUNICIPIO": "Pau D'Arco do Piauí",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2207801,
+    "NO_MUNICIPIO": "Paulistana",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2207850,
+    "NO_MUNICIPIO": "Pavussu",
+    "CO_MICRORREGIAO": 22009
+  },
+  {
+    "CO_MUNICIPIO": 2207900,
+    "NO_MUNICIPIO": "Pedro II",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2207934,
+    "NO_MUNICIPIO": "Pedro Laurentino",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2207959,
+    "NO_MUNICIPIO": "Nova Santa Rita",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2208007,
+    "NO_MUNICIPIO": "Picos",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2208106,
+    "NO_MUNICIPIO": "Pimenteiras",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2208205,
+    "NO_MUNICIPIO": "Pio IX",
+    "CO_MICRORREGIAO": 22014
+  },
+  {
+    "CO_MUNICIPIO": 2208304,
+    "NO_MUNICIPIO": "Piracuruca",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2208403,
+    "NO_MUNICIPIO": "Piripiri",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2208502,
+    "NO_MUNICIPIO": "Porto",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2208551,
+    "NO_MUNICIPIO": "Porto Alegre do Piauí",
+    "CO_MICRORREGIAO": 22008
+  },
+  {
+    "CO_MUNICIPIO": 2208601,
+    "NO_MUNICIPIO": "Prata do Piauí",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2208650,
+    "NO_MUNICIPIO": "Queimada Nova",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2208700,
+    "NO_MUNICIPIO": "Redenção do Gurguéia",
+    "CO_MICRORREGIAO": 22010
+  },
+  {
+    "CO_MUNICIPIO": 2208809,
+    "NO_MUNICIPIO": "Regeneração",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2208858,
+    "NO_MUNICIPIO": "Riacho Frio",
+    "CO_MICRORREGIAO": 22012
+  },
+  {
+    "CO_MUNICIPIO": 2208874,
+    "NO_MUNICIPIO": "Ribeira do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2208908,
+    "NO_MUNICIPIO": "Ribeiro Gonçalves",
+    "CO_MICRORREGIAO": 22007
+  },
+  {
+    "CO_MUNICIPIO": 2209005,
+    "NO_MUNICIPIO": "Rio Grande do Piauí",
+    "CO_MICRORREGIAO": 22009
+  },
+  {
+    "CO_MUNICIPIO": 2209104,
+    "NO_MUNICIPIO": "Santa Cruz do Piauí",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2209153,
+    "NO_MUNICIPIO": "Santa Cruz dos Milagres",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2209203,
+    "NO_MUNICIPIO": "Santa Filomena",
+    "CO_MICRORREGIAO": 22007
+  },
+  {
+    "CO_MUNICIPIO": 2209302,
+    "NO_MUNICIPIO": "Santa Luz",
+    "CO_MICRORREGIAO": 22010
+  },
+  {
+    "CO_MUNICIPIO": 2209351,
+    "NO_MUNICIPIO": "Santana do Piauí",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2209377,
+    "NO_MUNICIPIO": "Santa Rosa do Piauí",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2209401,
+    "NO_MUNICIPIO": "Santo Antônio de Lisboa",
+    "CO_MICRORREGIAO": 22014
+  },
+  {
+    "CO_MUNICIPIO": 2209450,
+    "NO_MUNICIPIO": "Santo Antônio dos Milagres",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2209500,
+    "NO_MUNICIPIO": "Santo Inácio do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2209559,
+    "NO_MUNICIPIO": "São Braz do Piauí",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2209609,
+    "NO_MUNICIPIO": "São Félix do Piauí",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2209658,
+    "NO_MUNICIPIO": "São Francisco de Assis do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2209708,
+    "NO_MUNICIPIO": "São Francisco do Piauí",
+    "CO_MICRORREGIAO": 22009
+  },
+  {
+    "CO_MUNICIPIO": 2209757,
+    "NO_MUNICIPIO": "São Gonçalo do Gurguéia",
+    "CO_MICRORREGIAO": 22010
+  },
+  {
+    "CO_MUNICIPIO": 2209807,
+    "NO_MUNICIPIO": "São Gonçalo do Piauí",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2209856,
+    "NO_MUNICIPIO": "São João da Canabrava",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2209872,
+    "NO_MUNICIPIO": "São João da Fronteira",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2209906,
+    "NO_MUNICIPIO": "São João da Serra",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2209955,
+    "NO_MUNICIPIO": "São João da Varjota",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2209971,
+    "NO_MUNICIPIO": "São João do Arraial",
+    "CO_MICRORREGIAO": 22001
+  },
+  {
+    "CO_MUNICIPIO": 2210003,
+    "NO_MUNICIPIO": "São João do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2210052,
+    "NO_MUNICIPIO": "São José do Divino",
+    "CO_MICRORREGIAO": 22002
+  },
+  {
+    "CO_MUNICIPIO": 2210102,
+    "NO_MUNICIPIO": "São José do Peixe",
+    "CO_MICRORREGIAO": 22009
+  },
+  {
+    "CO_MUNICIPIO": 2210201,
+    "NO_MUNICIPIO": "São José do Piauí",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2210300,
+    "NO_MUNICIPIO": "São Julião",
+    "CO_MICRORREGIAO": 22014
+  },
+  {
+    "CO_MUNICIPIO": 2210359,
+    "NO_MUNICIPIO": "São Lourenço do Piauí",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2210375,
+    "NO_MUNICIPIO": "São Luis do Piauí",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2210383,
+    "NO_MUNICIPIO": "São Miguel da Baixa Grande",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2210391,
+    "NO_MUNICIPIO": "São Miguel do Fidalgo",
+    "CO_MICRORREGIAO": 22009
+  },
+  {
+    "CO_MUNICIPIO": 2210409,
+    "NO_MUNICIPIO": "São Miguel do Tapuio",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2210508,
+    "NO_MUNICIPIO": "São Pedro do Piauí",
+    "CO_MICRORREGIAO": 22005
+  },
+  {
+    "CO_MUNICIPIO": 2210607,
+    "NO_MUNICIPIO": "São Raimundo Nonato",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2210623,
+    "NO_MUNICIPIO": "Sebastião Barros",
+    "CO_MICRORREGIAO": 22012
+  },
+  {
+    "CO_MUNICIPIO": 2210631,
+    "NO_MUNICIPIO": "Sebastião Leal",
+    "CO_MICRORREGIAO": 22008
+  },
+  {
+    "CO_MUNICIPIO": 2210656,
+    "NO_MUNICIPIO": "Sigefredo Pacheco",
+    "CO_MICRORREGIAO": 22004
+  },
+  {
+    "CO_MUNICIPIO": 2210706,
+    "NO_MUNICIPIO": "Simões",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2210805,
+    "NO_MUNICIPIO": "Simplício Mendes",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2210904,
+    "NO_MUNICIPIO": "Socorro do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2210938,
+    "NO_MUNICIPIO": "Sussuapara",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2210953,
+    "NO_MUNICIPIO": "Tamboril do Piauí",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2210979,
+    "NO_MUNICIPIO": "Tanque do Piauí",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2211001,
+    "NO_MUNICIPIO": "Teresina",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2211100,
+    "NO_MUNICIPIO": "União",
+    "CO_MICRORREGIAO": 22003
+  },
+  {
+    "CO_MUNICIPIO": 2211209,
+    "NO_MUNICIPIO": "Uruçuí",
+    "CO_MICRORREGIAO": 22007
+  },
+  {
+    "CO_MUNICIPIO": 2211308,
+    "NO_MUNICIPIO": "Valença do Piauí",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2211357,
+    "NO_MUNICIPIO": "Várzea Branca",
+    "CO_MICRORREGIAO": 22011
+  },
+  {
+    "CO_MUNICIPIO": 2211407,
+    "NO_MUNICIPIO": "Várzea Grande",
+    "CO_MICRORREGIAO": 22006
+  },
+  {
+    "CO_MUNICIPIO": 2211506,
+    "NO_MUNICIPIO": "Vera Mendes",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2211605,
+    "NO_MUNICIPIO": "Vila Nova do Piauí",
+    "CO_MICRORREGIAO": 22015
+  },
+  {
+    "CO_MUNICIPIO": 2211704,
+    "NO_MUNICIPIO": "Wall Ferraz",
+    "CO_MICRORREGIAO": 22013
+  },
+  {
+    "CO_MUNICIPIO": 2300101,
+    "NO_MUNICIPIO": "Abaiara",
+    "CO_MICRORREGIAO": 23033
+  },
+  {
+    "CO_MUNICIPIO": 2300150,
+    "NO_MUNICIPIO": "Acarape",
+    "CO_MICRORREGIAO": 23013
+  },
+  {
+    "CO_MUNICIPIO": 2300200,
+    "NO_MUNICIPIO": "Acaraú",
+    "CO_MICRORREGIAO": 23001
+  },
+  {
+    "CO_MUNICIPIO": 2300309,
+    "NO_MUNICIPIO": "Acopiara",
+    "CO_MICRORREGIAO": 23021
+  },
+  {
+    "CO_MUNICIPIO": 2300408,
+    "NO_MUNICIPIO": "Aiuaba",
+    "CO_MICRORREGIAO": 23020
+  },
+  {
+    "CO_MUNICIPIO": 2300507,
+    "NO_MUNICIPIO": "Alcântaras",
+    "CO_MICRORREGIAO": 23004
+  },
+  {
+    "CO_MUNICIPIO": 2300606,
+    "NO_MUNICIPIO": "Altaneira",
+    "CO_MICRORREGIAO": 23030
+  },
+  {
+    "CO_MUNICIPIO": 2300705,
+    "NO_MUNICIPIO": "Alto Santo",
+    "CO_MICRORREGIAO": 23023
+  },
+  {
+    "CO_MUNICIPIO": 2300754,
+    "NO_MUNICIPIO": "Amontada",
+    "CO_MICRORREGIAO": 23008
+  },
+  {
+    "CO_MUNICIPIO": 2300804,
+    "NO_MUNICIPIO": "Antonina do Norte",
+    "CO_MICRORREGIAO": 23027
+  },
+  {
+    "CO_MUNICIPIO": 2300903,
+    "NO_MUNICIPIO": "Apuiarés",
+    "CO_MICRORREGIAO": 23011
+  },
+  {
+    "CO_MUNICIPIO": 2301000,
+    "NO_MUNICIPIO": "Aquiraz",
+    "CO_MICRORREGIAO": 23016
+  },
+  {
+    "CO_MUNICIPIO": 2301109,
+    "NO_MUNICIPIO": "Aracati",
+    "CO_MICRORREGIAO": 23022
+  },
+  {
+    "CO_MUNICIPIO": 2301208,
+    "NO_MUNICIPIO": "Aracoiaba",
+    "CO_MICRORREGIAO": 23013
+  },
+  {
+    "CO_MUNICIPIO": 2301257,
+    "NO_MUNICIPIO": "Ararendá",
+    "CO_MICRORREGIAO": 23018
+  },
+  {
+    "CO_MUNICIPIO": 2301307,
+    "NO_MUNICIPIO": "Araripe",
+    "CO_MICRORREGIAO": 23029
+  },
+  {
+    "CO_MUNICIPIO": 2301406,
+    "NO_MUNICIPIO": "Aratuba",
+    "CO_MICRORREGIAO": 23013
+  },
+  {
+    "CO_MUNICIPIO": 2301505,
+    "NO_MUNICIPIO": "Arneiroz",
+    "CO_MICRORREGIAO": 23020
+  },
+  {
+    "CO_MUNICIPIO": 2301604,
+    "NO_MUNICIPIO": "Assaré",
+    "CO_MICRORREGIAO": 23029
+  },
+  {
+    "CO_MUNICIPIO": 2301703,
+    "NO_MUNICIPIO": "Aurora",
+    "CO_MICRORREGIAO": 23031
+  },
+  {
+    "CO_MUNICIPIO": 2301802,
+    "NO_MUNICIPIO": "Baixio",
+    "CO_MICRORREGIAO": 23028
+  },
+  {
+    "CO_MUNICIPIO": 2301851,
+    "NO_MUNICIPIO": "Banabuiú",
+    "CO_MICRORREGIAO": 23019
+  },
+  {
+    "CO_MUNICIPIO": 2301901,
+    "NO_MUNICIPIO": "Barbalha",
+    "CO_MICRORREGIAO": 23032
+  },
+  {
+    "CO_MUNICIPIO": 2301950,
+    "NO_MUNICIPIO": "Barreira",
+    "CO_MICRORREGIAO": 23014
+  },
+  {
+    "CO_MUNICIPIO": 2302008,
+    "NO_MUNICIPIO": "Barro",
+    "CO_MICRORREGIAO": 23031
+  },
+  {
+    "CO_MUNICIPIO": 2302057,
+    "NO_MUNICIPIO": "Barroquinha",
+    "CO_MICRORREGIAO": 23001
+  },
+  {
+    "CO_MUNICIPIO": 2302107,
+    "NO_MUNICIPIO": "Baturité",
+    "CO_MICRORREGIAO": 23013
+  },
+  {
+    "CO_MUNICIPIO": 2302206,
+    "NO_MUNICIPIO": "Beberibe",
+    "CO_MICRORREGIAO": 23015
+  },
+  {
+    "CO_MUNICIPIO": 2302305,
+    "NO_MUNICIPIO": "Bela Cruz",
+    "CO_MICRORREGIAO": 23001
+  },
+  {
+    "CO_MUNICIPIO": 2302404,
+    "NO_MUNICIPIO": "Boa Viagem",
+    "CO_MICRORREGIAO": 23019
+  },
+  {
+    "CO_MUNICIPIO": 2302503,
+    "NO_MUNICIPIO": "Brejo Santo",
+    "CO_MICRORREGIAO": 23033
+  },
+  {
+    "CO_MUNICIPIO": 2302602,
+    "NO_MUNICIPIO": "Camocim",
+    "CO_MICRORREGIAO": 23001
+  },
+  {
+    "CO_MUNICIPIO": 2302701,
+    "NO_MUNICIPIO": "Campos Sales",
+    "CO_MICRORREGIAO": 23029
+  },
+  {
+    "CO_MUNICIPIO": 2302800,
+    "NO_MUNICIPIO": "Canindé",
+    "CO_MICRORREGIAO": 23012
+  },
+  {
+    "CO_MUNICIPIO": 2302909,
+    "NO_MUNICIPIO": "Capistrano",
+    "CO_MICRORREGIAO": 23013
+  },
+  {
+    "CO_MUNICIPIO": 2303006,
+    "NO_MUNICIPIO": "Caridade",
+    "CO_MICRORREGIAO": 23012
+  },
+  {
+    "CO_MUNICIPIO": 2303105,
+    "NO_MUNICIPIO": "Cariré",
+    "CO_MICRORREGIAO": 23005
+  },
+  {
+    "CO_MUNICIPIO": 2303204,
+    "NO_MUNICIPIO": "Caririaçu",
+    "CO_MICRORREGIAO": 23030
+  },
+  {
+    "CO_MUNICIPIO": 2303303,
+    "NO_MUNICIPIO": "Cariús",
+    "CO_MICRORREGIAO": 23027
+  },
+  {
+    "CO_MUNICIPIO": 2303402,
+    "NO_MUNICIPIO": "Carnaubal",
+    "CO_MICRORREGIAO": 23002
+  },
+  {
+    "CO_MUNICIPIO": 2303501,
+    "NO_MUNICIPIO": "Cascavel",
+    "CO_MICRORREGIAO": 23015
+  },
+  {
+    "CO_MUNICIPIO": 2303600,
+    "NO_MUNICIPIO": "Catarina",
+    "CO_MICRORREGIAO": 23020
+  },
+  {
+    "CO_MUNICIPIO": 2303659,
+    "NO_MUNICIPIO": "Catunda",
+    "CO_MICRORREGIAO": 23007
+  },
+  {
+    "CO_MUNICIPIO": 2303709,
+    "NO_MUNICIPIO": "Caucaia",
+    "CO_MICRORREGIAO": 23016
+  },
+  {
+    "CO_MUNICIPIO": 2303808,
+    "NO_MUNICIPIO": "Cedro",
+    "CO_MICRORREGIAO": 23026
+  },
+  {
+    "CO_MUNICIPIO": 2303907,
+    "NO_MUNICIPIO": "Chaval",
+    "CO_MICRORREGIAO": 23001
+  },
+  {
+    "CO_MUNICIPIO": 2303931,
+    "NO_MUNICIPIO": "Choró",
+    "CO_MICRORREGIAO": 23019
+  },
+  {
+    "CO_MUNICIPIO": 2303956,
+    "NO_MUNICIPIO": "Chorozinho",
+    "CO_MICRORREGIAO": 23014
+  },
+  {
+    "CO_MUNICIPIO": 2304004,
+    "NO_MUNICIPIO": "Coreaú",
+    "CO_MICRORREGIAO": 23003
+  },
+  {
+    "CO_MUNICIPIO": 2304103,
+    "NO_MUNICIPIO": "Crateús",
+    "CO_MICRORREGIAO": 23018
+  },
+  {
+    "CO_MUNICIPIO": 2304202,
+    "NO_MUNICIPIO": "Crato",
+    "CO_MICRORREGIAO": 23032
+  },
+  {
+    "CO_MUNICIPIO": 2304236,
+    "NO_MUNICIPIO": "Croatá",
+    "CO_MICRORREGIAO": 23002
+  },
+  {
+    "CO_MUNICIPIO": 2304251,
+    "NO_MUNICIPIO": "Cruz",
+    "CO_MICRORREGIAO": 23001
+  },
+  {
+    "CO_MUNICIPIO": 2304269,
+    "NO_MUNICIPIO": "Deputado Irapuan Pinheiro",
+    "CO_MICRORREGIAO": 23021
+  },
+  {
+    "CO_MUNICIPIO": 2304277,
+    "NO_MUNICIPIO": "Ereré",
+    "CO_MICRORREGIAO": 23025
+  },
+  {
+    "CO_MUNICIPIO": 2304285,
+    "NO_MUNICIPIO": "Eusébio",
+    "CO_MICRORREGIAO": 23016
+  },
+  {
+    "CO_MUNICIPIO": 2304301,
+    "NO_MUNICIPIO": "Farias Brito",
+    "CO_MICRORREGIAO": 23030
+  },
+  {
+    "CO_MUNICIPIO": 2304350,
+    "NO_MUNICIPIO": "Forquilha",
+    "CO_MICRORREGIAO": 23005
+  },
+  {
+    "CO_MUNICIPIO": 2304400,
+    "NO_MUNICIPIO": "Fortaleza",
+    "CO_MICRORREGIAO": 23016
+  },
+  {
+    "CO_MUNICIPIO": 2304459,
+    "NO_MUNICIPIO": "Fortim",
+    "CO_MICRORREGIAO": 23022
+  },
+  {
+    "CO_MUNICIPIO": 2304509,
+    "NO_MUNICIPIO": "Frecheirinha",
+    "CO_MICRORREGIAO": 23003
+  },
+  {
+    "CO_MUNICIPIO": 2304608,
+    "NO_MUNICIPIO": "General Sampaio",
+    "CO_MICRORREGIAO": 23011
+  },
+  {
+    "CO_MUNICIPIO": 2304657,
+    "NO_MUNICIPIO": "Graça",
+    "CO_MICRORREGIAO": 23005
+  },
+  {
+    "CO_MUNICIPIO": 2304707,
+    "NO_MUNICIPIO": "Granja",
+    "CO_MICRORREGIAO": 23001
+  },
+  {
+    "CO_MUNICIPIO": 2304806,
+    "NO_MUNICIPIO": "Granjeiro",
+    "CO_MICRORREGIAO": 23030
+  },
+  {
+    "CO_MUNICIPIO": 2304905,
+    "NO_MUNICIPIO": "Groaíras",
+    "CO_MICRORREGIAO": 23005
+  },
+  {
+    "CO_MUNICIPIO": 2304954,
+    "NO_MUNICIPIO": "Guaiúba",
+    "CO_MICRORREGIAO": 23016
+  },
+  {
+    "CO_MUNICIPIO": 2305001,
+    "NO_MUNICIPIO": "Guaraciaba do Norte",
+    "CO_MICRORREGIAO": 23002
+  },
+  {
+    "CO_MUNICIPIO": 2305100,
+    "NO_MUNICIPIO": "Guaramiranga",
+    "CO_MICRORREGIAO": 23013
+  },
+  {
+    "CO_MUNICIPIO": 2305209,
+    "NO_MUNICIPIO": "Hidrolândia",
+    "CO_MICRORREGIAO": 23007
+  },
+  {
+    "CO_MUNICIPIO": 2305233,
+    "NO_MUNICIPIO": "Horizonte",
+    "CO_MICRORREGIAO": 23017
+  },
+  {
+    "CO_MUNICIPIO": 2305266,
+    "NO_MUNICIPIO": "Ibaretama",
+    "CO_MICRORREGIAO": 23019
+  },
+  {
+    "CO_MUNICIPIO": 2305308,
+    "NO_MUNICIPIO": "Ibiapina",
+    "CO_MICRORREGIAO": 23002
+  },
+  {
+    "CO_MUNICIPIO": 2305332,
+    "NO_MUNICIPIO": "Ibicuitinga",
+    "CO_MICRORREGIAO": 23023
+  },
+  {
+    "CO_MUNICIPIO": 2305357,
+    "NO_MUNICIPIO": "Icapuí",
+    "CO_MICRORREGIAO": 23022
+  },
+  {
+    "CO_MUNICIPIO": 2305407,
+    "NO_MUNICIPIO": "Icó",
+    "CO_MICRORREGIAO": 23026
+  },
+  {
+    "CO_MUNICIPIO": 2305506,
+    "NO_MUNICIPIO": "Iguatu",
+    "CO_MICRORREGIAO": 23026
+  },
+  {
+    "CO_MUNICIPIO": 2305605,
+    "NO_MUNICIPIO": "Independência",
+    "CO_MICRORREGIAO": 23018
+  },
+  {
+    "CO_MUNICIPIO": 2305654,
+    "NO_MUNICIPIO": "Ipaporanga",
+    "CO_MICRORREGIAO": 23018
+  },
+  {
+    "CO_MUNICIPIO": 2305704,
+    "NO_MUNICIPIO": "Ipaumirim",
+    "CO_MICRORREGIAO": 23028
+  },
+  {
+    "CO_MUNICIPIO": 2305803,
+    "NO_MUNICIPIO": "Ipu",
+    "CO_MICRORREGIAO": 23006
+  },
+  {
+    "CO_MUNICIPIO": 2305902,
+    "NO_MUNICIPIO": "Ipueiras",
+    "CO_MICRORREGIAO": 23006
+  },
+  {
+    "CO_MUNICIPIO": 2306009,
+    "NO_MUNICIPIO": "Iracema",
+    "CO_MICRORREGIAO": 23025
+  },
+  {
+    "CO_MUNICIPIO": 2306108,
+    "NO_MUNICIPIO": "Irauçuba",
+    "CO_MICRORREGIAO": 23005
+  },
+  {
+    "CO_MUNICIPIO": 2306207,
+    "NO_MUNICIPIO": "Itaiçaba",
+    "CO_MICRORREGIAO": 23022
+  },
+  {
+    "CO_MUNICIPIO": 2306256,
+    "NO_MUNICIPIO": "Itaitinga",
+    "CO_MICRORREGIAO": 23016
+  },
+  {
+    "CO_MUNICIPIO": 2306306,
+    "NO_MUNICIPIO": "Itapajé",
+    "CO_MICRORREGIAO": 23010
+  },
+  {
+    "CO_MUNICIPIO": 2306405,
+    "NO_MUNICIPIO": "Itapipoca",
+    "CO_MICRORREGIAO": 23008
+  },
+  {
+    "CO_MUNICIPIO": 2306504,
+    "NO_MUNICIPIO": "Itapiúna",
+    "CO_MICRORREGIAO": 23013
+  },
+  {
+    "CO_MUNICIPIO": 2306553,
+    "NO_MUNICIPIO": "Itarema",
+    "CO_MICRORREGIAO": 23001
+  },
+  {
+    "CO_MUNICIPIO": 2306603,
+    "NO_MUNICIPIO": "Itatira",
+    "CO_MICRORREGIAO": 23012
+  },
+  {
+    "CO_MUNICIPIO": 2306702,
+    "NO_MUNICIPIO": "Jaguaretama",
+    "CO_MICRORREGIAO": 23024
+  },
+  {
+    "CO_MUNICIPIO": 2306801,
+    "NO_MUNICIPIO": "Jaguaribara",
+    "CO_MICRORREGIAO": 23024
+  },
+  {
+    "CO_MUNICIPIO": 2306900,
+    "NO_MUNICIPIO": "Jaguaribe",
+    "CO_MICRORREGIAO": 23024
+  },
+  {
+    "CO_MUNICIPIO": 2307007,
+    "NO_MUNICIPIO": "Jaguaruana",
+    "CO_MICRORREGIAO": 23023
+  },
+  {
+    "CO_MUNICIPIO": 2307106,
+    "NO_MUNICIPIO": "Jardim",
+    "CO_MICRORREGIAO": 23032
+  },
+  {
+    "CO_MUNICIPIO": 2307205,
+    "NO_MUNICIPIO": "Jati",
+    "CO_MICRORREGIAO": 23033
+  },
+  {
+    "CO_MUNICIPIO": 2307254,
+    "NO_MUNICIPIO": "Jijoca de Jericoacoara",
+    "CO_MICRORREGIAO": 23001
+  },
+  {
+    "CO_MUNICIPIO": 2307304,
+    "NO_MUNICIPIO": "Juazeiro do Norte",
+    "CO_MICRORREGIAO": 23032
+  },
+  {
+    "CO_MUNICIPIO": 2307403,
+    "NO_MUNICIPIO": "Jucás",
+    "CO_MICRORREGIAO": 23027
+  },
+  {
+    "CO_MUNICIPIO": 2307502,
+    "NO_MUNICIPIO": "Lavras da Mangabeira",
+    "CO_MICRORREGIAO": 23028
+  },
+  {
+    "CO_MUNICIPIO": 2307601,
+    "NO_MUNICIPIO": "Limoeiro do Norte",
+    "CO_MICRORREGIAO": 23023
+  },
+  {
+    "CO_MUNICIPIO": 2307635,
+    "NO_MUNICIPIO": "Madalena",
+    "CO_MICRORREGIAO": 23019
+  },
+  {
+    "CO_MUNICIPIO": 2307650,
+    "NO_MUNICIPIO": "Maracanaú",
+    "CO_MICRORREGIAO": 23016
+  },
+  {
+    "CO_MUNICIPIO": 2307700,
+    "NO_MUNICIPIO": "Maranguape",
+    "CO_MICRORREGIAO": 23016
+  },
+  {
+    "CO_MUNICIPIO": 2307809,
+    "NO_MUNICIPIO": "Marco",
+    "CO_MICRORREGIAO": 23001
+  },
+  {
+    "CO_MUNICIPIO": 2307908,
+    "NO_MUNICIPIO": "Martinópole",
+    "CO_MICRORREGIAO": 23001
+  },
+  {
+    "CO_MUNICIPIO": 2308005,
+    "NO_MUNICIPIO": "Massapê",
+    "CO_MICRORREGIAO": 23005
+  },
+  {
+    "CO_MUNICIPIO": 2308104,
+    "NO_MUNICIPIO": "Mauriti",
+    "CO_MICRORREGIAO": 23031
+  },
+  {
+    "CO_MUNICIPIO": 2308203,
+    "NO_MUNICIPIO": "Meruoca",
+    "CO_MICRORREGIAO": 23004
+  },
+  {
+    "CO_MUNICIPIO": 2308302,
+    "NO_MUNICIPIO": "Milagres",
+    "CO_MICRORREGIAO": 23033
+  },
+  {
+    "CO_MUNICIPIO": 2308351,
+    "NO_MUNICIPIO": "Milhã",
+    "CO_MICRORREGIAO": 23021
+  },
+  {
+    "CO_MUNICIPIO": 2308377,
+    "NO_MUNICIPIO": "Miraíma",
+    "CO_MICRORREGIAO": 23005
+  },
+  {
+    "CO_MUNICIPIO": 2308401,
+    "NO_MUNICIPIO": "Missão Velha",
+    "CO_MICRORREGIAO": 23032
+  },
+  {
+    "CO_MUNICIPIO": 2308500,
+    "NO_MUNICIPIO": "Mombaça",
+    "CO_MICRORREGIAO": 23021
+  },
+  {
+    "CO_MUNICIPIO": 2308609,
+    "NO_MUNICIPIO": "Monsenhor Tabosa",
+    "CO_MICRORREGIAO": 23018
+  },
+  {
+    "CO_MUNICIPIO": 2308708,
+    "NO_MUNICIPIO": "Morada Nova",
+    "CO_MICRORREGIAO": 23023
+  },
+  {
+    "CO_MUNICIPIO": 2308807,
+    "NO_MUNICIPIO": "Moraújo",
+    "CO_MICRORREGIAO": 23003
+  },
+  {
+    "CO_MUNICIPIO": 2308906,
+    "NO_MUNICIPIO": "Morrinhos",
+    "CO_MICRORREGIAO": 23001
+  },
+  {
+    "CO_MUNICIPIO": 2309003,
+    "NO_MUNICIPIO": "Mucambo",
+    "CO_MICRORREGIAO": 23005
+  },
+  {
+    "CO_MUNICIPIO": 2309102,
+    "NO_MUNICIPIO": "Mulungu",
+    "CO_MICRORREGIAO": 23013
+  },
+  {
+    "CO_MUNICIPIO": 2309201,
+    "NO_MUNICIPIO": "Nova Olinda",
+    "CO_MICRORREGIAO": 23032
+  },
+  {
+    "CO_MUNICIPIO": 2309300,
+    "NO_MUNICIPIO": "Nova Russas",
+    "CO_MICRORREGIAO": 23018
+  },
+  {
+    "CO_MUNICIPIO": 2309409,
+    "NO_MUNICIPIO": "Novo Oriente",
+    "CO_MICRORREGIAO": 23018
+  },
+  {
+    "CO_MUNICIPIO": 2309458,
+    "NO_MUNICIPIO": "Ocara",
+    "CO_MICRORREGIAO": 23014
+  },
+  {
+    "CO_MUNICIPIO": 2309508,
+    "NO_MUNICIPIO": "Orós",
+    "CO_MICRORREGIAO": 23026
+  },
+  {
+    "CO_MUNICIPIO": 2309607,
+    "NO_MUNICIPIO": "Pacajus",
+    "CO_MICRORREGIAO": 23017
+  },
+  {
+    "CO_MUNICIPIO": 2309706,
+    "NO_MUNICIPIO": "Pacatuba",
+    "CO_MICRORREGIAO": 23016
+  },
+  {
+    "CO_MUNICIPIO": 2309805,
+    "NO_MUNICIPIO": "Pacoti",
+    "CO_MICRORREGIAO": 23013
+  },
+  {
+    "CO_MUNICIPIO": 2309904,
+    "NO_MUNICIPIO": "Pacujá",
+    "CO_MICRORREGIAO": 23005
+  },
+  {
+    "CO_MUNICIPIO": 2310001,
+    "NO_MUNICIPIO": "Palhano",
+    "CO_MICRORREGIAO": 23023
+  },
+  {
+    "CO_MUNICIPIO": 2310100,
+    "NO_MUNICIPIO": "Palmácia",
+    "CO_MICRORREGIAO": 23013
+  },
+  {
+    "CO_MUNICIPIO": 2310209,
+    "NO_MUNICIPIO": "Paracuru",
+    "CO_MICRORREGIAO": 23009
+  },
+  {
+    "CO_MUNICIPIO": 2310258,
+    "NO_MUNICIPIO": "Paraipaba",
+    "CO_MICRORREGIAO": 23009
+  },
+  {
+    "CO_MUNICIPIO": 2310308,
+    "NO_MUNICIPIO": "Parambu",
+    "CO_MICRORREGIAO": 23020
+  },
+  {
+    "CO_MUNICIPIO": 2310407,
+    "NO_MUNICIPIO": "Paramoti",
+    "CO_MICRORREGIAO": 23012
+  },
+  {
+    "CO_MUNICIPIO": 2310506,
+    "NO_MUNICIPIO": "Pedra Branca",
+    "CO_MICRORREGIAO": 23021
+  },
+  {
+    "CO_MUNICIPIO": 2310605,
+    "NO_MUNICIPIO": "Penaforte",
+    "CO_MICRORREGIAO": 23033
+  },
+  {
+    "CO_MUNICIPIO": 2310704,
+    "NO_MUNICIPIO": "Pentecoste",
+    "CO_MICRORREGIAO": 23011
+  },
+  {
+    "CO_MUNICIPIO": 2310803,
+    "NO_MUNICIPIO": "Pereiro",
+    "CO_MICRORREGIAO": 23025
+  },
+  {
+    "CO_MUNICIPIO": 2310852,
+    "NO_MUNICIPIO": "Pindoretama",
+    "CO_MICRORREGIAO": 23015
+  },
+  {
+    "CO_MUNICIPIO": 2310902,
+    "NO_MUNICIPIO": "Piquet Carneiro",
+    "CO_MICRORREGIAO": 23021
+  },
+  {
+    "CO_MUNICIPIO": 2310951,
+    "NO_MUNICIPIO": "Pires Ferreira",
+    "CO_MICRORREGIAO": 23006
+  },
+  {
+    "CO_MUNICIPIO": 2311009,
+    "NO_MUNICIPIO": "Poranga",
+    "CO_MICRORREGIAO": 23006
+  },
+  {
+    "CO_MUNICIPIO": 2311108,
+    "NO_MUNICIPIO": "Porteiras",
+    "CO_MICRORREGIAO": 23032
+  },
+  {
+    "CO_MUNICIPIO": 2311207,
+    "NO_MUNICIPIO": "Potengi",
+    "CO_MICRORREGIAO": 23029
+  },
+  {
+    "CO_MUNICIPIO": 2311231,
+    "NO_MUNICIPIO": "Potiretama",
+    "CO_MICRORREGIAO": 23025
+  },
+  {
+    "CO_MUNICIPIO": 2311264,
+    "NO_MUNICIPIO": "Quiterianópolis",
+    "CO_MICRORREGIAO": 23018
+  },
+  {
+    "CO_MUNICIPIO": 2311306,
+    "NO_MUNICIPIO": "Quixadá",
+    "CO_MICRORREGIAO": 23019
+  },
+  {
+    "CO_MUNICIPIO": 2311355,
+    "NO_MUNICIPIO": "Quixelô",
+    "CO_MICRORREGIAO": 23026
+  },
+  {
+    "CO_MUNICIPIO": 2311405,
+    "NO_MUNICIPIO": "Quixeramobim",
+    "CO_MICRORREGIAO": 23019
+  },
+  {
+    "CO_MUNICIPIO": 2311504,
+    "NO_MUNICIPIO": "Quixeré",
+    "CO_MICRORREGIAO": 23023
+  },
+  {
+    "CO_MUNICIPIO": 2311603,
+    "NO_MUNICIPIO": "Redenção",
+    "CO_MICRORREGIAO": 23013
+  },
+  {
+    "CO_MUNICIPIO": 2311702,
+    "NO_MUNICIPIO": "Reriutaba",
+    "CO_MICRORREGIAO": 23006
+  },
+  {
+    "CO_MUNICIPIO": 2311801,
+    "NO_MUNICIPIO": "Russas",
+    "CO_MICRORREGIAO": 23023
+  },
+  {
+    "CO_MUNICIPIO": 2311900,
+    "NO_MUNICIPIO": "Saboeiro",
+    "CO_MICRORREGIAO": 23020
+  },
+  {
+    "CO_MUNICIPIO": 2311959,
+    "NO_MUNICIPIO": "Salitre",
+    "CO_MICRORREGIAO": 23029
+  },
+  {
+    "CO_MUNICIPIO": 2312007,
+    "NO_MUNICIPIO": "Santana do Acaraú",
+    "CO_MICRORREGIAO": 23005
+  },
+  {
+    "CO_MUNICIPIO": 2312106,
+    "NO_MUNICIPIO": "Santana do Cariri",
+    "CO_MICRORREGIAO": 23032
+  },
+  {
+    "CO_MUNICIPIO": 2312205,
+    "NO_MUNICIPIO": "Santa Quitéria",
+    "CO_MICRORREGIAO": 23007
+  },
+  {
+    "CO_MUNICIPIO": 2312304,
+    "NO_MUNICIPIO": "São Benedito",
+    "CO_MICRORREGIAO": 23002
+  },
+  {
+    "CO_MUNICIPIO": 2312403,
+    "NO_MUNICIPIO": "São Gonçalo do Amarante",
+    "CO_MICRORREGIAO": 23009
+  },
+  {
+    "CO_MUNICIPIO": 2312502,
+    "NO_MUNICIPIO": "São João do Jaguaribe",
+    "CO_MICRORREGIAO": 23023
+  },
+  {
+    "CO_MUNICIPIO": 2312601,
+    "NO_MUNICIPIO": "São Luís do Curu",
+    "CO_MICRORREGIAO": 23011
+  },
+  {
+    "CO_MUNICIPIO": 2312700,
+    "NO_MUNICIPIO": "Senador Pompeu",
+    "CO_MICRORREGIAO": 23021
+  },
+  {
+    "CO_MUNICIPIO": 2312809,
+    "NO_MUNICIPIO": "Senador Sá",
+    "CO_MICRORREGIAO": 23005
+  },
+  {
+    "CO_MUNICIPIO": 2312908,
+    "NO_MUNICIPIO": "Sobral",
+    "CO_MICRORREGIAO": 23005
+  },
+  {
+    "CO_MUNICIPIO": 2313005,
+    "NO_MUNICIPIO": "Solonópole",
+    "CO_MICRORREGIAO": 23021
+  },
+  {
+    "CO_MUNICIPIO": 2313104,
+    "NO_MUNICIPIO": "Tabuleiro do Norte",
+    "CO_MICRORREGIAO": 23023
+  },
+  {
+    "CO_MUNICIPIO": 2313203,
+    "NO_MUNICIPIO": "Tamboril",
+    "CO_MICRORREGIAO": 23018
+  },
+  {
+    "CO_MUNICIPIO": 2313252,
+    "NO_MUNICIPIO": "Tarrafas",
+    "CO_MICRORREGIAO": 23027
+  },
+  {
+    "CO_MUNICIPIO": 2313302,
+    "NO_MUNICIPIO": "Tauá",
+    "CO_MICRORREGIAO": 23020
+  },
+  {
+    "CO_MUNICIPIO": 2313351,
+    "NO_MUNICIPIO": "Tejuçuoca",
+    "CO_MICRORREGIAO": 23011
+  },
+  {
+    "CO_MUNICIPIO": 2313401,
+    "NO_MUNICIPIO": "Tianguá",
+    "CO_MICRORREGIAO": 23002
+  },
+  {
+    "CO_MUNICIPIO": 2313500,
+    "NO_MUNICIPIO": "Trairi",
+    "CO_MICRORREGIAO": 23008
+  },
+  {
+    "CO_MUNICIPIO": 2313559,
+    "NO_MUNICIPIO": "Tururu",
+    "CO_MICRORREGIAO": 23010
+  },
+  {
+    "CO_MUNICIPIO": 2313609,
+    "NO_MUNICIPIO": "Ubajara",
+    "CO_MICRORREGIAO": 23002
+  },
+  {
+    "CO_MUNICIPIO": 2313708,
+    "NO_MUNICIPIO": "Umari",
+    "CO_MICRORREGIAO": 23028
+  },
+  {
+    "CO_MUNICIPIO": 2313757,
+    "NO_MUNICIPIO": "Umirim",
+    "CO_MICRORREGIAO": 23010
+  },
+  {
+    "CO_MUNICIPIO": 2313807,
+    "NO_MUNICIPIO": "Uruburetama",
+    "CO_MICRORREGIAO": 23010
+  },
+  {
+    "CO_MUNICIPIO": 2313906,
+    "NO_MUNICIPIO": "Uruoca",
+    "CO_MICRORREGIAO": 23003
+  },
+  {
+    "CO_MUNICIPIO": 2313955,
+    "NO_MUNICIPIO": "Varjota",
+    "CO_MICRORREGIAO": 23006
+  },
+  {
+    "CO_MUNICIPIO": 2314003,
+    "NO_MUNICIPIO": "Várzea Alegre",
+    "CO_MICRORREGIAO": 23027
+  },
+  {
+    "CO_MUNICIPIO": 2314102,
+    "NO_MUNICIPIO": "Viçosa do Ceará",
+    "CO_MICRORREGIAO": 23002
+  },
+  {
+    "CO_MUNICIPIO": 2400109,
+    "NO_MUNICIPIO": "Acari",
+    "CO_MICRORREGIAO": 24012
+  },
+  {
+    "CO_MUNICIPIO": 2400208,
+    "NO_MUNICIPIO": "Açu",
+    "CO_MICRORREGIAO": 24004
+  },
+  {
+    "CO_MUNICIPIO": 2400307,
+    "NO_MUNICIPIO": "Afonso Bezerra",
+    "CO_MICRORREGIAO": 24009
+  },
+  {
+    "CO_MUNICIPIO": 2400406,
+    "NO_MUNICIPIO": "Água Nova",
+    "CO_MICRORREGIAO": 24005
+  },
+  {
+    "CO_MUNICIPIO": 2400505,
+    "NO_MUNICIPIO": "Alexandria",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2400604,
+    "NO_MUNICIPIO": "Almino Afonso",
+    "CO_MICRORREGIAO": 24007
+  },
+  {
+    "CO_MUNICIPIO": 2400703,
+    "NO_MUNICIPIO": "Alto do Rodrigues",
+    "CO_MICRORREGIAO": 24004
+  },
+  {
+    "CO_MUNICIPIO": 2400802,
+    "NO_MUNICIPIO": "Angicos",
+    "CO_MICRORREGIAO": 24009
+  },
+  {
+    "CO_MUNICIPIO": 2400901,
+    "NO_MUNICIPIO": "Antônio Martins",
+    "CO_MICRORREGIAO": 24007
+  },
+  {
+    "CO_MUNICIPIO": 2401008,
+    "NO_MUNICIPIO": "Apodi",
+    "CO_MICRORREGIAO": 24002
+  },
+  {
+    "CO_MUNICIPIO": 2401107,
+    "NO_MUNICIPIO": "Areia Branca",
+    "CO_MICRORREGIAO": 24001
+  },
+  {
+    "CO_MUNICIPIO": 2401206,
+    "NO_MUNICIPIO": "Arês",
+    "CO_MICRORREGIAO": 24019
+  },
+  {
+    "CO_MUNICIPIO": 2401305,
+    "NO_MUNICIPIO": "Campo Grande",
+    "CO_MICRORREGIAO": 24003
+  },
+  {
+    "CO_MUNICIPIO": 2401404,
+    "NO_MUNICIPIO": "Baía Formosa",
+    "CO_MICRORREGIAO": 24019
+  },
+  {
+    "CO_MUNICIPIO": 2401453,
+    "NO_MUNICIPIO": "Baraúna",
+    "CO_MICRORREGIAO": 24001
+  },
+  {
+    "CO_MUNICIPIO": 2401503,
+    "NO_MUNICIPIO": "Barcelona",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2401602,
+    "NO_MUNICIPIO": "Bento Fernandes",
+    "CO_MICRORREGIAO": 24013
+  },
+  {
+    "CO_MUNICIPIO": 2401651,
+    "NO_MUNICIPIO": "Bodó",
+    "CO_MICRORREGIAO": 24010
+  },
+  {
+    "CO_MUNICIPIO": 2401701,
+    "NO_MUNICIPIO": "Bom Jesus",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2401800,
+    "NO_MUNICIPIO": "Brejinho",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2401859,
+    "NO_MUNICIPIO": "Caiçara do Norte",
+    "CO_MICRORREGIAO": 24008
+  },
+  {
+    "CO_MUNICIPIO": 2401909,
+    "NO_MUNICIPIO": "Caiçara do Rio do Vento",
+    "CO_MICRORREGIAO": 24009
+  },
+  {
+    "CO_MUNICIPIO": 2402006,
+    "NO_MUNICIPIO": "Caicó",
+    "CO_MICRORREGIAO": 24011
+  },
+  {
+    "CO_MUNICIPIO": 2402105,
+    "NO_MUNICIPIO": "Campo Redondo",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2402204,
+    "NO_MUNICIPIO": "Canguaretama",
+    "CO_MICRORREGIAO": 24019
+  },
+  {
+    "CO_MUNICIPIO": 2402303,
+    "NO_MUNICIPIO": "Caraúbas",
+    "CO_MICRORREGIAO": 24002
+  },
+  {
+    "CO_MUNICIPIO": 2402402,
+    "NO_MUNICIPIO": "Carnaúba dos Dantas",
+    "CO_MICRORREGIAO": 24012
+  },
+  {
+    "CO_MUNICIPIO": 2402501,
+    "NO_MUNICIPIO": "Carnaubais",
+    "CO_MICRORREGIAO": 24004
+  },
+  {
+    "CO_MUNICIPIO": 2402600,
+    "NO_MUNICIPIO": "Ceará-Mirim",
+    "CO_MICRORREGIAO": 24017
+  },
+  {
+    "CO_MUNICIPIO": 2402709,
+    "NO_MUNICIPIO": "Cerro Corá",
+    "CO_MICRORREGIAO": 24010
+  },
+  {
+    "CO_MUNICIPIO": 2402808,
+    "NO_MUNICIPIO": "Coronel Ezequiel",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2402907,
+    "NO_MUNICIPIO": "Coronel João Pessoa",
+    "CO_MICRORREGIAO": 24005
+  },
+  {
+    "CO_MUNICIPIO": 2403004,
+    "NO_MUNICIPIO": "Cruzeta",
+    "CO_MICRORREGIAO": 24012
+  },
+  {
+    "CO_MUNICIPIO": 2403103,
+    "NO_MUNICIPIO": "Currais Novos",
+    "CO_MICRORREGIAO": 24012
+  },
+  {
+    "CO_MUNICIPIO": 2403202,
+    "NO_MUNICIPIO": "Doutor Severiano",
+    "CO_MICRORREGIAO": 24005
+  },
+  {
+    "CO_MUNICIPIO": 2403251,
+    "NO_MUNICIPIO": "Parnamirim",
+    "CO_MICRORREGIAO": 24018
+  },
+  {
+    "CO_MUNICIPIO": 2403301,
+    "NO_MUNICIPIO": "Encanto",
+    "CO_MICRORREGIAO": 24005
+  },
+  {
+    "CO_MUNICIPIO": 2403400,
+    "NO_MUNICIPIO": "Equador",
+    "CO_MICRORREGIAO": 24012
+  },
+  {
+    "CO_MUNICIPIO": 2403509,
+    "NO_MUNICIPIO": "Espírito Santo",
+    "CO_MICRORREGIAO": 24019
+  },
+  {
+    "CO_MUNICIPIO": 2403608,
+    "NO_MUNICIPIO": "Extremoz",
+    "CO_MICRORREGIAO": 24018
+  },
+  {
+    "CO_MUNICIPIO": 2403707,
+    "NO_MUNICIPIO": "Felipe Guerra",
+    "CO_MICRORREGIAO": 24002
+  },
+  {
+    "CO_MUNICIPIO": 2403756,
+    "NO_MUNICIPIO": "Fernando Pedroza",
+    "CO_MICRORREGIAO": 24009
+  },
+  {
+    "CO_MUNICIPIO": 2403806,
+    "NO_MUNICIPIO": "Florânia",
+    "CO_MICRORREGIAO": 24010
+  },
+  {
+    "CO_MUNICIPIO": 2403905,
+    "NO_MUNICIPIO": "Francisco Dantas",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2404002,
+    "NO_MUNICIPIO": "Frutuoso Gomes",
+    "CO_MICRORREGIAO": 24007
+  },
+  {
+    "CO_MUNICIPIO": 2404101,
+    "NO_MUNICIPIO": "Galinhos",
+    "CO_MICRORREGIAO": 24008
+  },
+  {
+    "CO_MUNICIPIO": 2404200,
+    "NO_MUNICIPIO": "Goianinha",
+    "CO_MICRORREGIAO": 24019
+  },
+  {
+    "CO_MUNICIPIO": 2404309,
+    "NO_MUNICIPIO": "Governador Dix-Sept Rosado",
+    "CO_MICRORREGIAO": 24002
+  },
+  {
+    "CO_MUNICIPIO": 2404408,
+    "NO_MUNICIPIO": "Grossos",
+    "CO_MICRORREGIAO": 24001
+  },
+  {
+    "CO_MUNICIPIO": 2404507,
+    "NO_MUNICIPIO": "Guamaré",
+    "CO_MICRORREGIAO": 24008
+  },
+  {
+    "CO_MUNICIPIO": 2404606,
+    "NO_MUNICIPIO": "Ielmo Marinho",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2404705,
+    "NO_MUNICIPIO": "Ipanguaçu",
+    "CO_MICRORREGIAO": 24004
+  },
+  {
+    "CO_MUNICIPIO": 2404804,
+    "NO_MUNICIPIO": "Ipueira",
+    "CO_MICRORREGIAO": 24011
+  },
+  {
+    "CO_MUNICIPIO": 2404853,
+    "NO_MUNICIPIO": "Itajá",
+    "CO_MICRORREGIAO": 24004
+  },
+  {
+    "CO_MUNICIPIO": 2404903,
+    "NO_MUNICIPIO": "Itaú",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2405009,
+    "NO_MUNICIPIO": "Jaçanã",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2405108,
+    "NO_MUNICIPIO": "Jandaíra",
+    "CO_MICRORREGIAO": 24013
+  },
+  {
+    "CO_MUNICIPIO": 2405207,
+    "NO_MUNICIPIO": "Janduís",
+    "CO_MICRORREGIAO": 24003
+  },
+  {
+    "CO_MUNICIPIO": 2405306,
+    "NO_MUNICIPIO": "Januário Cicco",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2405405,
+    "NO_MUNICIPIO": "Japi",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2405504,
+    "NO_MUNICIPIO": "Jardim de Angicos",
+    "CO_MICRORREGIAO": 24009
+  },
+  {
+    "CO_MUNICIPIO": 2405603,
+    "NO_MUNICIPIO": "Jardim de Piranhas",
+    "CO_MICRORREGIAO": 24011
+  },
+  {
+    "CO_MUNICIPIO": 2405702,
+    "NO_MUNICIPIO": "Jardim do Seridó",
+    "CO_MICRORREGIAO": 24012
+  },
+  {
+    "CO_MUNICIPIO": 2405801,
+    "NO_MUNICIPIO": "João Câmara",
+    "CO_MICRORREGIAO": 24013
+  },
+  {
+    "CO_MUNICIPIO": 2405900,
+    "NO_MUNICIPIO": "João Dias",
+    "CO_MICRORREGIAO": 24007
+  },
+  {
+    "CO_MUNICIPIO": 2406007,
+    "NO_MUNICIPIO": "José da Penha",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2406106,
+    "NO_MUNICIPIO": "Jucurutu",
+    "CO_MICRORREGIAO": 24004
+  },
+  {
+    "CO_MUNICIPIO": 2406155,
+    "NO_MUNICIPIO": "Jundiá",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2406205,
+    "NO_MUNICIPIO": "Lagoa d'Anta",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2406304,
+    "NO_MUNICIPIO": "Lagoa de Pedras",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2406403,
+    "NO_MUNICIPIO": "Lagoa de Velhos",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2406502,
+    "NO_MUNICIPIO": "Lagoa Nova",
+    "CO_MICRORREGIAO": 24010
+  },
+  {
+    "CO_MUNICIPIO": 2406601,
+    "NO_MUNICIPIO": "Lagoa Salgada",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2406700,
+    "NO_MUNICIPIO": "Lajes",
+    "CO_MICRORREGIAO": 24009
+  },
+  {
+    "CO_MUNICIPIO": 2406809,
+    "NO_MUNICIPIO": "Lajes Pintadas",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2406908,
+    "NO_MUNICIPIO": "Lucrécia",
+    "CO_MICRORREGIAO": 24007
+  },
+  {
+    "CO_MUNICIPIO": 2407005,
+    "NO_MUNICIPIO": "Luís Gomes",
+    "CO_MICRORREGIAO": 24005
+  },
+  {
+    "CO_MUNICIPIO": 2407104,
+    "NO_MUNICIPIO": "Macaíba",
+    "CO_MICRORREGIAO": 24017
+  },
+  {
+    "CO_MUNICIPIO": 2407203,
+    "NO_MUNICIPIO": "Macau",
+    "CO_MICRORREGIAO": 24008
+  },
+  {
+    "CO_MUNICIPIO": 2407252,
+    "NO_MUNICIPIO": "Major Sales",
+    "CO_MICRORREGIAO": 24005
+  },
+  {
+    "CO_MUNICIPIO": 2407302,
+    "NO_MUNICIPIO": "Marcelino Vieira",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2407401,
+    "NO_MUNICIPIO": "Martins",
+    "CO_MICRORREGIAO": 24007
+  },
+  {
+    "CO_MUNICIPIO": 2407500,
+    "NO_MUNICIPIO": "Maxaranguape",
+    "CO_MICRORREGIAO": 24016
+  },
+  {
+    "CO_MUNICIPIO": 2407609,
+    "NO_MUNICIPIO": "Messias Targino",
+    "CO_MICRORREGIAO": 24003
+  },
+  {
+    "CO_MUNICIPIO": 2407708,
+    "NO_MUNICIPIO": "Montanhas",
+    "CO_MICRORREGIAO": 24019
+  },
+  {
+    "CO_MUNICIPIO": 2407807,
+    "NO_MUNICIPIO": "Monte Alegre",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2407906,
+    "NO_MUNICIPIO": "Monte das Gameleiras",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2408003,
+    "NO_MUNICIPIO": "Mossoró",
+    "CO_MICRORREGIAO": 24001
+  },
+  {
+    "CO_MUNICIPIO": 2408102,
+    "NO_MUNICIPIO": "Natal",
+    "CO_MICRORREGIAO": 24018
+  },
+  {
+    "CO_MUNICIPIO": 2408201,
+    "NO_MUNICIPIO": "Nísia Floresta",
+    "CO_MICRORREGIAO": 24017
+  },
+  {
+    "CO_MUNICIPIO": 2408300,
+    "NO_MUNICIPIO": "Nova Cruz",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2408409,
+    "NO_MUNICIPIO": "Olho d'Água do Borges",
+    "CO_MICRORREGIAO": 24007
+  },
+  {
+    "CO_MUNICIPIO": 2408508,
+    "NO_MUNICIPIO": "Ouro Branco",
+    "CO_MICRORREGIAO": 24012
+  },
+  {
+    "CO_MUNICIPIO": 2408607,
+    "NO_MUNICIPIO": "Paraná",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2408706,
+    "NO_MUNICIPIO": "Paraú",
+    "CO_MICRORREGIAO": 24003
+  },
+  {
+    "CO_MUNICIPIO": 2408805,
+    "NO_MUNICIPIO": "Parazinho",
+    "CO_MICRORREGIAO": 24013
+  },
+  {
+    "CO_MUNICIPIO": 2408904,
+    "NO_MUNICIPIO": "Parelhas",
+    "CO_MICRORREGIAO": 24012
+  },
+  {
+    "CO_MUNICIPIO": 2408953,
+    "NO_MUNICIPIO": "Rio do Fogo",
+    "CO_MICRORREGIAO": 24016
+  },
+  {
+    "CO_MUNICIPIO": 2409100,
+    "NO_MUNICIPIO": "Passa e Fica",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2409209,
+    "NO_MUNICIPIO": "Passagem",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2409308,
+    "NO_MUNICIPIO": "Patu",
+    "CO_MICRORREGIAO": 24007
+  },
+  {
+    "CO_MUNICIPIO": 2409332,
+    "NO_MUNICIPIO": "Santa Maria",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2409407,
+    "NO_MUNICIPIO": "Pau dos Ferros",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2409506,
+    "NO_MUNICIPIO": "Pedra Grande",
+    "CO_MICRORREGIAO": 24016
+  },
+  {
+    "CO_MUNICIPIO": 2409605,
+    "NO_MUNICIPIO": "Pedra Preta",
+    "CO_MICRORREGIAO": 24009
+  },
+  {
+    "CO_MUNICIPIO": 2409704,
+    "NO_MUNICIPIO": "Pedro Avelino",
+    "CO_MICRORREGIAO": 24009
+  },
+  {
+    "CO_MUNICIPIO": 2409803,
+    "NO_MUNICIPIO": "Pedro Velho",
+    "CO_MICRORREGIAO": 24019
+  },
+  {
+    "CO_MUNICIPIO": 2409902,
+    "NO_MUNICIPIO": "Pendências",
+    "CO_MICRORREGIAO": 24004
+  },
+  {
+    "CO_MUNICIPIO": 2410009,
+    "NO_MUNICIPIO": "Pilões",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2410108,
+    "NO_MUNICIPIO": "Poço Branco",
+    "CO_MICRORREGIAO": 24013
+  },
+  {
+    "CO_MUNICIPIO": 2410207,
+    "NO_MUNICIPIO": "Portalegre",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2410256,
+    "NO_MUNICIPIO": "Porto do Mangue",
+    "CO_MICRORREGIAO": 24004
+  },
+  {
+    "CO_MUNICIPIO": 2410306,
+    "NO_MUNICIPIO": "Serra Caiada",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2410405,
+    "NO_MUNICIPIO": "Pureza",
+    "CO_MICRORREGIAO": 24016
+  },
+  {
+    "CO_MUNICIPIO": 2410504,
+    "NO_MUNICIPIO": "Rafael Fernandes",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2410603,
+    "NO_MUNICIPIO": "Rafael Godeiro",
+    "CO_MICRORREGIAO": 24007
+  },
+  {
+    "CO_MUNICIPIO": 2410702,
+    "NO_MUNICIPIO": "Riacho da Cruz",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2410801,
+    "NO_MUNICIPIO": "Riacho de Santana",
+    "CO_MICRORREGIAO": 24005
+  },
+  {
+    "CO_MUNICIPIO": 2410900,
+    "NO_MUNICIPIO": "Riachuelo",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2411007,
+    "NO_MUNICIPIO": "Rodolfo Fernandes",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2411056,
+    "NO_MUNICIPIO": "Tibau",
+    "CO_MICRORREGIAO": 24001
+  },
+  {
+    "CO_MUNICIPIO": 2411106,
+    "NO_MUNICIPIO": "Ruy Barbosa",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2411205,
+    "NO_MUNICIPIO": "Santa Cruz",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2411403,
+    "NO_MUNICIPIO": "Santana do Matos",
+    "CO_MICRORREGIAO": 24010
+  },
+  {
+    "CO_MUNICIPIO": 2411429,
+    "NO_MUNICIPIO": "Santana do Seridó",
+    "CO_MICRORREGIAO": 24012
+  },
+  {
+    "CO_MUNICIPIO": 2411502,
+    "NO_MUNICIPIO": "Santo Antônio",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2411601,
+    "NO_MUNICIPIO": "São Bento do Norte",
+    "CO_MICRORREGIAO": 24008
+  },
+  {
+    "CO_MUNICIPIO": 2411700,
+    "NO_MUNICIPIO": "São Bento do Trairí",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2411809,
+    "NO_MUNICIPIO": "São Fernando",
+    "CO_MICRORREGIAO": 24011
+  },
+  {
+    "CO_MUNICIPIO": 2411908,
+    "NO_MUNICIPIO": "São Francisco do Oeste",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2412005,
+    "NO_MUNICIPIO": "São Gonçalo do Amarante",
+    "CO_MICRORREGIAO": 24017
+  },
+  {
+    "CO_MUNICIPIO": 2412104,
+    "NO_MUNICIPIO": "São João do Sabugi",
+    "CO_MICRORREGIAO": 24011
+  },
+  {
+    "CO_MUNICIPIO": 2412203,
+    "NO_MUNICIPIO": "São José de Mipibu",
+    "CO_MICRORREGIAO": 24017
+  },
+  {
+    "CO_MUNICIPIO": 2412302,
+    "NO_MUNICIPIO": "São José do Campestre",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2412401,
+    "NO_MUNICIPIO": "São José do Seridó",
+    "CO_MICRORREGIAO": 24012
+  },
+  {
+    "CO_MUNICIPIO": 2412500,
+    "NO_MUNICIPIO": "São Miguel",
+    "CO_MICRORREGIAO": 24005
+  },
+  {
+    "CO_MUNICIPIO": 2412559,
+    "NO_MUNICIPIO": "São Miguel do Gostoso",
+    "CO_MICRORREGIAO": 24016
+  },
+  {
+    "CO_MUNICIPIO": 2412609,
+    "NO_MUNICIPIO": "São Paulo do Potengi",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2412708,
+    "NO_MUNICIPIO": "São Pedro",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2412807,
+    "NO_MUNICIPIO": "São Rafael",
+    "CO_MICRORREGIAO": 24004
+  },
+  {
+    "CO_MUNICIPIO": 2412906,
+    "NO_MUNICIPIO": "São Tomé",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2413003,
+    "NO_MUNICIPIO": "São Vicente",
+    "CO_MICRORREGIAO": 24010
+  },
+  {
+    "CO_MUNICIPIO": 2413102,
+    "NO_MUNICIPIO": "Senador Elói de Souza",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2413201,
+    "NO_MUNICIPIO": "Senador Georgino Avelino",
+    "CO_MICRORREGIAO": 24019
+  },
+  {
+    "CO_MUNICIPIO": 2413300,
+    "NO_MUNICIPIO": "Serra de São Bento",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2413359,
+    "NO_MUNICIPIO": "Serra do Mel",
+    "CO_MICRORREGIAO": 24001
+  },
+  {
+    "CO_MUNICIPIO": 2413409,
+    "NO_MUNICIPIO": "Serra Negra do Norte",
+    "CO_MICRORREGIAO": 24011
+  },
+  {
+    "CO_MUNICIPIO": 2413508,
+    "NO_MUNICIPIO": "Serrinha",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2413557,
+    "NO_MUNICIPIO": "Serrinha dos Pintos",
+    "CO_MICRORREGIAO": 24007
+  },
+  {
+    "CO_MUNICIPIO": 2413607,
+    "NO_MUNICIPIO": "Severiano Melo",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2413706,
+    "NO_MUNICIPIO": "Sítio Novo",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2413805,
+    "NO_MUNICIPIO": "Taboleiro Grande",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2413904,
+    "NO_MUNICIPIO": "Taipu",
+    "CO_MICRORREGIAO": 24016
+  },
+  {
+    "CO_MUNICIPIO": 2414001,
+    "NO_MUNICIPIO": "Tangará",
+    "CO_MICRORREGIAO": 24014
+  },
+  {
+    "CO_MUNICIPIO": 2414100,
+    "NO_MUNICIPIO": "Tenente Ananias",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2414159,
+    "NO_MUNICIPIO": "Tenente Laurentino Cruz",
+    "CO_MICRORREGIAO": 24010
+  },
+  {
+    "CO_MUNICIPIO": 2414209,
+    "NO_MUNICIPIO": "Tibau do Sul",
+    "CO_MICRORREGIAO": 24019
+  },
+  {
+    "CO_MUNICIPIO": 2414308,
+    "NO_MUNICIPIO": "Timbaúba dos Batistas",
+    "CO_MICRORREGIAO": 24011
+  },
+  {
+    "CO_MUNICIPIO": 2414407,
+    "NO_MUNICIPIO": "Touros",
+    "CO_MICRORREGIAO": 24016
+  },
+  {
+    "CO_MUNICIPIO": 2414456,
+    "NO_MUNICIPIO": "Triunfo Potiguar",
+    "CO_MICRORREGIAO": 24003
+  },
+  {
+    "CO_MUNICIPIO": 2414506,
+    "NO_MUNICIPIO": "Umarizal",
+    "CO_MICRORREGIAO": 24007
+  },
+  {
+    "CO_MUNICIPIO": 2414605,
+    "NO_MUNICIPIO": "Upanema",
+    "CO_MICRORREGIAO": 24003
+  },
+  {
+    "CO_MUNICIPIO": 2414704,
+    "NO_MUNICIPIO": "Várzea",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2414753,
+    "NO_MUNICIPIO": "Venha-Ver",
+    "CO_MICRORREGIAO": 24005
+  },
+  {
+    "CO_MUNICIPIO": 2414803,
+    "NO_MUNICIPIO": "Vera Cruz",
+    "CO_MICRORREGIAO": 24015
+  },
+  {
+    "CO_MUNICIPIO": 2414902,
+    "NO_MUNICIPIO": "Viçosa",
+    "CO_MICRORREGIAO": 24006
+  },
+  {
+    "CO_MUNICIPIO": 2415008,
+    "NO_MUNICIPIO": "Vila Flor",
+    "CO_MICRORREGIAO": 24019
+  },
+  {
+    "CO_MUNICIPIO": 2500106,
+    "NO_MUNICIPIO": "Água Branca",
+    "CO_MICRORREGIAO": 25007
+  },
+  {
+    "CO_MUNICIPIO": 2500205,
+    "NO_MUNICIPIO": "Aguiar",
+    "CO_MICRORREGIAO": 25005
+  },
+  {
+    "CO_MUNICIPIO": 2500304,
+    "NO_MUNICIPIO": "Alagoa Grande",
+    "CO_MICRORREGIAO": 25015
+  },
+  {
+    "CO_MUNICIPIO": 2500403,
+    "NO_MUNICIPIO": "Alagoa Nova",
+    "CO_MICRORREGIAO": 25015
+  },
+  {
+    "CO_MUNICIPIO": 2500502,
+    "NO_MUNICIPIO": "Alagoinha",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2500536,
+    "NO_MUNICIPIO": "Alcantil",
+    "CO_MICRORREGIAO": 25011
+  },
+  {
+    "CO_MUNICIPIO": 2500577,
+    "NO_MUNICIPIO": "Algodão de Jandaíra",
+    "CO_MICRORREGIAO": 25012
+  },
+  {
+    "CO_MUNICIPIO": 2500601,
+    "NO_MUNICIPIO": "Alhandra",
+    "CO_MICRORREGIAO": 25023
+  },
+  {
+    "CO_MUNICIPIO": 2500700,
+    "NO_MUNICIPIO": "São João do Rio do Peixe",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2500734,
+    "NO_MUNICIPIO": "Amparo",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2500775,
+    "NO_MUNICIPIO": "Aparecida",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2500809,
+    "NO_MUNICIPIO": "Araçagi",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2500908,
+    "NO_MUNICIPIO": "Arara",
+    "CO_MICRORREGIAO": 25012
+  },
+  {
+    "CO_MUNICIPIO": 2501005,
+    "NO_MUNICIPIO": "Araruna",
+    "CO_MICRORREGIAO": 25013
+  },
+  {
+    "CO_MUNICIPIO": 2501104,
+    "NO_MUNICIPIO": "Areia",
+    "CO_MICRORREGIAO": 25015
+  },
+  {
+    "CO_MUNICIPIO": 2501153,
+    "NO_MUNICIPIO": "Areia de Baraúnas",
+    "CO_MICRORREGIAO": 25004
+  },
+  {
+    "CO_MUNICIPIO": 2501203,
+    "NO_MUNICIPIO": "Areial",
+    "CO_MICRORREGIAO": 25014
+  },
+  {
+    "CO_MUNICIPIO": 2501302,
+    "NO_MUNICIPIO": "Aroeiras",
+    "CO_MICRORREGIAO": 25019
+  },
+  {
+    "CO_MUNICIPIO": 2501351,
+    "NO_MUNICIPIO": "Assunção",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2501401,
+    "NO_MUNICIPIO": "Baía da Traição",
+    "CO_MICRORREGIAO": 25020
+  },
+  {
+    "CO_MUNICIPIO": 2501500,
+    "NO_MUNICIPIO": "Bananeiras",
+    "CO_MICRORREGIAO": 25015
+  },
+  {
+    "CO_MUNICIPIO": 2501534,
+    "NO_MUNICIPIO": "Baraúna",
+    "CO_MICRORREGIAO": 25009
+  },
+  {
+    "CO_MUNICIPIO": 2501575,
+    "NO_MUNICIPIO": "Barra de Santana",
+    "CO_MICRORREGIAO": 25011
+  },
+  {
+    "CO_MUNICIPIO": 2501609,
+    "NO_MUNICIPIO": "Barra de Santa Rosa",
+    "CO_MICRORREGIAO": 25012
+  },
+  {
+    "CO_MUNICIPIO": 2501708,
+    "NO_MUNICIPIO": "Barra de São Miguel",
+    "CO_MICRORREGIAO": 25011
+  },
+  {
+    "CO_MUNICIPIO": 2501807,
+    "NO_MUNICIPIO": "Bayeux",
+    "CO_MICRORREGIAO": 25022
+  },
+  {
+    "CO_MUNICIPIO": 2501906,
+    "NO_MUNICIPIO": "Belém",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2502003,
+    "NO_MUNICIPIO": "Belém do Brejo do Cruz",
+    "CO_MICRORREGIAO": 25001
+  },
+  {
+    "CO_MUNICIPIO": 2502052,
+    "NO_MUNICIPIO": "Bernardino Batista",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2502102,
+    "NO_MUNICIPIO": "Boa Ventura",
+    "CO_MICRORREGIAO": 25006
+  },
+  {
+    "CO_MUNICIPIO": 2502151,
+    "NO_MUNICIPIO": "Boa Vista",
+    "CO_MICRORREGIAO": 25017
+  },
+  {
+    "CO_MUNICIPIO": 2502201,
+    "NO_MUNICIPIO": "Bom Jesus",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2502300,
+    "NO_MUNICIPIO": "Bom Sucesso",
+    "CO_MICRORREGIAO": 25001
+  },
+  {
+    "CO_MUNICIPIO": 2502409,
+    "NO_MUNICIPIO": "Bonito de Santa Fé",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2502508,
+    "NO_MUNICIPIO": "Boqueirão",
+    "CO_MICRORREGIAO": 25011
+  },
+  {
+    "CO_MUNICIPIO": 2502607,
+    "NO_MUNICIPIO": "Igaracy",
+    "CO_MICRORREGIAO": 25005
+  },
+  {
+    "CO_MUNICIPIO": 2502706,
+    "NO_MUNICIPIO": "Borborema",
+    "CO_MICRORREGIAO": 25015
+  },
+  {
+    "CO_MUNICIPIO": 2502805,
+    "NO_MUNICIPIO": "Brejo do Cruz",
+    "CO_MICRORREGIAO": 25001
+  },
+  {
+    "CO_MUNICIPIO": 2502904,
+    "NO_MUNICIPIO": "Brejo dos Santos",
+    "CO_MICRORREGIAO": 25001
+  },
+  {
+    "CO_MUNICIPIO": 2503001,
+    "NO_MUNICIPIO": "Caaporã",
+    "CO_MICRORREGIAO": 25023
+  },
+  {
+    "CO_MUNICIPIO": 2503100,
+    "NO_MUNICIPIO": "Cabaceiras",
+    "CO_MICRORREGIAO": 25011
+  },
+  {
+    "CO_MUNICIPIO": 2503209,
+    "NO_MUNICIPIO": "Cabedelo",
+    "CO_MICRORREGIAO": 25022
+  },
+  {
+    "CO_MUNICIPIO": 2503308,
+    "NO_MUNICIPIO": "Cachoeira dos Índios",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2503407,
+    "NO_MUNICIPIO": "Cacimba de Areia",
+    "CO_MICRORREGIAO": 25004
+  },
+  {
+    "CO_MUNICIPIO": 2503506,
+    "NO_MUNICIPIO": "Cacimba de Dentro",
+    "CO_MICRORREGIAO": 25013
+  },
+  {
+    "CO_MUNICIPIO": 2503555,
+    "NO_MUNICIPIO": "Cacimbas",
+    "CO_MICRORREGIAO": 25007
+  },
+  {
+    "CO_MUNICIPIO": 2503605,
+    "NO_MUNICIPIO": "Caiçara",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2503704,
+    "NO_MUNICIPIO": "Cajazeiras",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2503753,
+    "NO_MUNICIPIO": "Cajazeirinhas",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2503803,
+    "NO_MUNICIPIO": "Caldas Brandão",
+    "CO_MICRORREGIAO": 25018
+  },
+  {
+    "CO_MUNICIPIO": 2503902,
+    "NO_MUNICIPIO": "Camalaú",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2504009,
+    "NO_MUNICIPIO": "Campina Grande",
+    "CO_MICRORREGIAO": 25017
+  },
+  {
+    "CO_MUNICIPIO": 2504033,
+    "NO_MUNICIPIO": "Capim",
+    "CO_MICRORREGIAO": 25020
+  },
+  {
+    "CO_MUNICIPIO": 2504074,
+    "NO_MUNICIPIO": "Caraúbas",
+    "CO_MICRORREGIAO": 25011
+  },
+  {
+    "CO_MUNICIPIO": 2504108,
+    "NO_MUNICIPIO": "Carrapateira",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2504157,
+    "NO_MUNICIPIO": "Casserengue",
+    "CO_MICRORREGIAO": 25013
+  },
+  {
+    "CO_MUNICIPIO": 2504207,
+    "NO_MUNICIPIO": "Catingueira",
+    "CO_MICRORREGIAO": 25005
+  },
+  {
+    "CO_MUNICIPIO": 2504306,
+    "NO_MUNICIPIO": "Catolé do Rocha",
+    "CO_MICRORREGIAO": 25001
+  },
+  {
+    "CO_MUNICIPIO": 2504355,
+    "NO_MUNICIPIO": "Caturité",
+    "CO_MICRORREGIAO": 25011
+  },
+  {
+    "CO_MUNICIPIO": 2504405,
+    "NO_MUNICIPIO": "Conceição",
+    "CO_MICRORREGIAO": 25006
+  },
+  {
+    "CO_MUNICIPIO": 2504504,
+    "NO_MUNICIPIO": "Condado",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2504603,
+    "NO_MUNICIPIO": "Conde",
+    "CO_MICRORREGIAO": 25022
+  },
+  {
+    "CO_MUNICIPIO": 2504702,
+    "NO_MUNICIPIO": "Congo",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2504801,
+    "NO_MUNICIPIO": "Coremas",
+    "CO_MICRORREGIAO": 25005
+  },
+  {
+    "CO_MUNICIPIO": 2504850,
+    "NO_MUNICIPIO": "Coxixola",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2504900,
+    "NO_MUNICIPIO": "Cruz do Espírito Santo",
+    "CO_MICRORREGIAO": 25021
+  },
+  {
+    "CO_MUNICIPIO": 2505006,
+    "NO_MUNICIPIO": "Cubati",
+    "CO_MICRORREGIAO": 25009
+  },
+  {
+    "CO_MUNICIPIO": 2505105,
+    "NO_MUNICIPIO": "Cuité",
+    "CO_MICRORREGIAO": 25012
+  },
+  {
+    "CO_MUNICIPIO": 2505204,
+    "NO_MUNICIPIO": "Cuitegi",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2505238,
+    "NO_MUNICIPIO": "Cuité de Mamanguape",
+    "CO_MICRORREGIAO": 25020
+  },
+  {
+    "CO_MUNICIPIO": 2505279,
+    "NO_MUNICIPIO": "Curral de Cima",
+    "CO_MICRORREGIAO": 25020
+  },
+  {
+    "CO_MUNICIPIO": 2505303,
+    "NO_MUNICIPIO": "Curral Velho",
+    "CO_MICRORREGIAO": 25006
+  },
+  {
+    "CO_MUNICIPIO": 2505352,
+    "NO_MUNICIPIO": "Damião",
+    "CO_MICRORREGIAO": 25012
+  },
+  {
+    "CO_MUNICIPIO": 2505402,
+    "NO_MUNICIPIO": "Desterro",
+    "CO_MICRORREGIAO": 25007
+  },
+  {
+    "CO_MUNICIPIO": 2505501,
+    "NO_MUNICIPIO": "Vista Serrana",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2505600,
+    "NO_MUNICIPIO": "Diamante",
+    "CO_MICRORREGIAO": 25006
+  },
+  {
+    "CO_MUNICIPIO": 2505709,
+    "NO_MUNICIPIO": "Dona Inês",
+    "CO_MICRORREGIAO": 25013
+  },
+  {
+    "CO_MUNICIPIO": 2505808,
+    "NO_MUNICIPIO": "Duas Estradas",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2505907,
+    "NO_MUNICIPIO": "Emas",
+    "CO_MICRORREGIAO": 25005
+  },
+  {
+    "CO_MUNICIPIO": 2506004,
+    "NO_MUNICIPIO": "Esperança",
+    "CO_MICRORREGIAO": 25014
+  },
+  {
+    "CO_MUNICIPIO": 2506103,
+    "NO_MUNICIPIO": "Fagundes",
+    "CO_MICRORREGIAO": 25017
+  },
+  {
+    "CO_MUNICIPIO": 2506202,
+    "NO_MUNICIPIO": "Frei Martinho",
+    "CO_MICRORREGIAO": 25009
+  },
+  {
+    "CO_MUNICIPIO": 2506251,
+    "NO_MUNICIPIO": "Gado Bravo",
+    "CO_MICRORREGIAO": 25019
+  },
+  {
+    "CO_MUNICIPIO": 2506301,
+    "NO_MUNICIPIO": "Guarabira",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2506400,
+    "NO_MUNICIPIO": "Gurinhém",
+    "CO_MICRORREGIAO": 25018
+  },
+  {
+    "CO_MUNICIPIO": 2506509,
+    "NO_MUNICIPIO": "Gurjão",
+    "CO_MICRORREGIAO": 25011
+  },
+  {
+    "CO_MUNICIPIO": 2506608,
+    "NO_MUNICIPIO": "Ibiara",
+    "CO_MICRORREGIAO": 25006
+  },
+  {
+    "CO_MUNICIPIO": 2506707,
+    "NO_MUNICIPIO": "Imaculada",
+    "CO_MICRORREGIAO": 25007
+  },
+  {
+    "CO_MUNICIPIO": 2506806,
+    "NO_MUNICIPIO": "Ingá",
+    "CO_MICRORREGIAO": 25018
+  },
+  {
+    "CO_MUNICIPIO": 2506905,
+    "NO_MUNICIPIO": "Itabaiana",
+    "CO_MICRORREGIAO": 25018
+  },
+  {
+    "CO_MUNICIPIO": 2507002,
+    "NO_MUNICIPIO": "Itaporanga",
+    "CO_MICRORREGIAO": 25006
+  },
+  {
+    "CO_MUNICIPIO": 2507101,
+    "NO_MUNICIPIO": "Itapororoca",
+    "CO_MICRORREGIAO": 25020
+  },
+  {
+    "CO_MUNICIPIO": 2507200,
+    "NO_MUNICIPIO": "Itatuba",
+    "CO_MICRORREGIAO": 25018
+  },
+  {
+    "CO_MUNICIPIO": 2507309,
+    "NO_MUNICIPIO": "Jacaraú",
+    "CO_MICRORREGIAO": 25020
+  },
+  {
+    "CO_MUNICIPIO": 2507408,
+    "NO_MUNICIPIO": "Jericó",
+    "CO_MICRORREGIAO": 25001
+  },
+  {
+    "CO_MUNICIPIO": 2507507,
+    "NO_MUNICIPIO": "João Pessoa",
+    "CO_MICRORREGIAO": 25022
+  },
+  {
+    "CO_MUNICIPIO": 2507606,
+    "NO_MUNICIPIO": "Juarez Távora",
+    "CO_MICRORREGIAO": 25018
+  },
+  {
+    "CO_MUNICIPIO": 2507705,
+    "NO_MUNICIPIO": "Juazeirinho",
+    "CO_MICRORREGIAO": 25009
+  },
+  {
+    "CO_MUNICIPIO": 2507804,
+    "NO_MUNICIPIO": "Junco do Seridó",
+    "CO_MICRORREGIAO": 25008
+  },
+  {
+    "CO_MUNICIPIO": 2507903,
+    "NO_MUNICIPIO": "Juripiranga",
+    "CO_MICRORREGIAO": 25021
+  },
+  {
+    "CO_MUNICIPIO": 2508000,
+    "NO_MUNICIPIO": "Juru",
+    "CO_MICRORREGIAO": 25007
+  },
+  {
+    "CO_MUNICIPIO": 2508109,
+    "NO_MUNICIPIO": "Lagoa",
+    "CO_MICRORREGIAO": 25001
+  },
+  {
+    "CO_MUNICIPIO": 2508208,
+    "NO_MUNICIPIO": "Lagoa de Dentro",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2508307,
+    "NO_MUNICIPIO": "Lagoa Seca",
+    "CO_MICRORREGIAO": 25017
+  },
+  {
+    "CO_MUNICIPIO": 2508406,
+    "NO_MUNICIPIO": "Lastro",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2508505,
+    "NO_MUNICIPIO": "Livramento",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2508554,
+    "NO_MUNICIPIO": "Logradouro",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2508604,
+    "NO_MUNICIPIO": "Lucena",
+    "CO_MICRORREGIAO": 25022
+  },
+  {
+    "CO_MUNICIPIO": 2508703,
+    "NO_MUNICIPIO": "Mãe d'Água",
+    "CO_MICRORREGIAO": 25004
+  },
+  {
+    "CO_MUNICIPIO": 2508802,
+    "NO_MUNICIPIO": "Malta",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2508901,
+    "NO_MUNICIPIO": "Mamanguape",
+    "CO_MICRORREGIAO": 25020
+  },
+  {
+    "CO_MUNICIPIO": 2509008,
+    "NO_MUNICIPIO": "Manaíra",
+    "CO_MICRORREGIAO": 25007
+  },
+  {
+    "CO_MUNICIPIO": 2509057,
+    "NO_MUNICIPIO": "Marcação",
+    "CO_MICRORREGIAO": 25020
+  },
+  {
+    "CO_MUNICIPIO": 2509107,
+    "NO_MUNICIPIO": "Mari",
+    "CO_MICRORREGIAO": 25021
+  },
+  {
+    "CO_MUNICIPIO": 2509156,
+    "NO_MUNICIPIO": "Marizópolis",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2509206,
+    "NO_MUNICIPIO": "Massaranduba",
+    "CO_MICRORREGIAO": 25017
+  },
+  {
+    "CO_MUNICIPIO": 2509305,
+    "NO_MUNICIPIO": "Mataraca",
+    "CO_MICRORREGIAO": 25020
+  },
+  {
+    "CO_MUNICIPIO": 2509339,
+    "NO_MUNICIPIO": "Matinhas",
+    "CO_MICRORREGIAO": 25015
+  },
+  {
+    "CO_MUNICIPIO": 2509370,
+    "NO_MUNICIPIO": "Mato Grosso",
+    "CO_MICRORREGIAO": 25001
+  },
+  {
+    "CO_MUNICIPIO": 2509396,
+    "NO_MUNICIPIO": "Maturéia",
+    "CO_MICRORREGIAO": 25007
+  },
+  {
+    "CO_MUNICIPIO": 2509404,
+    "NO_MUNICIPIO": "Mogeiro",
+    "CO_MICRORREGIAO": 25018
+  },
+  {
+    "CO_MUNICIPIO": 2509503,
+    "NO_MUNICIPIO": "Montadas",
+    "CO_MICRORREGIAO": 25014
+  },
+  {
+    "CO_MUNICIPIO": 2509602,
+    "NO_MUNICIPIO": "Monte Horebe",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2509701,
+    "NO_MUNICIPIO": "Monteiro",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2509800,
+    "NO_MUNICIPIO": "Mulungu",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2509909,
+    "NO_MUNICIPIO": "Natuba",
+    "CO_MICRORREGIAO": 25019
+  },
+  {
+    "CO_MUNICIPIO": 2510006,
+    "NO_MUNICIPIO": "Nazarezinho",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2510105,
+    "NO_MUNICIPIO": "Nova Floresta",
+    "CO_MICRORREGIAO": 25012
+  },
+  {
+    "CO_MUNICIPIO": 2510204,
+    "NO_MUNICIPIO": "Nova Olinda",
+    "CO_MICRORREGIAO": 25005
+  },
+  {
+    "CO_MUNICIPIO": 2510303,
+    "NO_MUNICIPIO": "Nova Palmeira",
+    "CO_MICRORREGIAO": 25009
+  },
+  {
+    "CO_MUNICIPIO": 2510402,
+    "NO_MUNICIPIO": "Olho d'Água",
+    "CO_MICRORREGIAO": 25005
+  },
+  {
+    "CO_MUNICIPIO": 2510501,
+    "NO_MUNICIPIO": "Olivedos",
+    "CO_MICRORREGIAO": 25012
+  },
+  {
+    "CO_MUNICIPIO": 2510600,
+    "NO_MUNICIPIO": "Ouro Velho",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2510659,
+    "NO_MUNICIPIO": "Parari",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2510709,
+    "NO_MUNICIPIO": "Passagem",
+    "CO_MICRORREGIAO": 25004
+  },
+  {
+    "CO_MUNICIPIO": 2510808,
+    "NO_MUNICIPIO": "Patos",
+    "CO_MICRORREGIAO": 25004
+  },
+  {
+    "CO_MUNICIPIO": 2510907,
+    "NO_MUNICIPIO": "Paulista",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2511004,
+    "NO_MUNICIPIO": "Pedra Branca",
+    "CO_MICRORREGIAO": 25006
+  },
+  {
+    "CO_MUNICIPIO": 2511103,
+    "NO_MUNICIPIO": "Pedra Lavrada",
+    "CO_MICRORREGIAO": 25009
+  },
+  {
+    "CO_MUNICIPIO": 2511202,
+    "NO_MUNICIPIO": "Pedras de Fogo",
+    "CO_MICRORREGIAO": 25023
+  },
+  {
+    "CO_MUNICIPIO": 2511301,
+    "NO_MUNICIPIO": "Piancó",
+    "CO_MICRORREGIAO": 25005
+  },
+  {
+    "CO_MUNICIPIO": 2511400,
+    "NO_MUNICIPIO": "Picuí",
+    "CO_MICRORREGIAO": 25009
+  },
+  {
+    "CO_MUNICIPIO": 2511509,
+    "NO_MUNICIPIO": "Pilar",
+    "CO_MICRORREGIAO": 25021
+  },
+  {
+    "CO_MUNICIPIO": 2511608,
+    "NO_MUNICIPIO": "Pilões",
+    "CO_MICRORREGIAO": 25015
+  },
+  {
+    "CO_MUNICIPIO": 2511707,
+    "NO_MUNICIPIO": "Pilõezinhos",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2511806,
+    "NO_MUNICIPIO": "Pirpirituba",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2511905,
+    "NO_MUNICIPIO": "Pitimbu",
+    "CO_MICRORREGIAO": 25023
+  },
+  {
+    "CO_MUNICIPIO": 2512002,
+    "NO_MUNICIPIO": "Pocinhos",
+    "CO_MICRORREGIAO": 25012
+  },
+  {
+    "CO_MUNICIPIO": 2512036,
+    "NO_MUNICIPIO": "Poço Dantas",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2512077,
+    "NO_MUNICIPIO": "Poço de José de Moura",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2512101,
+    "NO_MUNICIPIO": "Pombal",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2512200,
+    "NO_MUNICIPIO": "Prata",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2512309,
+    "NO_MUNICIPIO": "Princesa Isabel",
+    "CO_MICRORREGIAO": 25007
+  },
+  {
+    "CO_MUNICIPIO": 2512408,
+    "NO_MUNICIPIO": "Puxinanã",
+    "CO_MICRORREGIAO": 25017
+  },
+  {
+    "CO_MUNICIPIO": 2512507,
+    "NO_MUNICIPIO": "Queimadas",
+    "CO_MICRORREGIAO": 25017
+  },
+  {
+    "CO_MUNICIPIO": 2512606,
+    "NO_MUNICIPIO": "Quixaba",
+    "CO_MICRORREGIAO": 25004
+  },
+  {
+    "CO_MUNICIPIO": 2512705,
+    "NO_MUNICIPIO": "Remígio",
+    "CO_MICRORREGIAO": 25012
+  },
+  {
+    "CO_MUNICIPIO": 2512721,
+    "NO_MUNICIPIO": "Pedro Régis",
+    "CO_MICRORREGIAO": 25020
+  },
+  {
+    "CO_MUNICIPIO": 2512747,
+    "NO_MUNICIPIO": "Riachão",
+    "CO_MICRORREGIAO": 25013
+  },
+  {
+    "CO_MUNICIPIO": 2512754,
+    "NO_MUNICIPIO": "Riachão do Bacamarte",
+    "CO_MICRORREGIAO": 25018
+  },
+  {
+    "CO_MUNICIPIO": 2512762,
+    "NO_MUNICIPIO": "Riachão do Poço",
+    "CO_MICRORREGIAO": 25021
+  },
+  {
+    "CO_MUNICIPIO": 2512788,
+    "NO_MUNICIPIO": "Riacho de Santo Antônio",
+    "CO_MICRORREGIAO": 25011
+  },
+  {
+    "CO_MUNICIPIO": 2512804,
+    "NO_MUNICIPIO": "Riacho dos Cavalos",
+    "CO_MICRORREGIAO": 25001
+  },
+  {
+    "CO_MUNICIPIO": 2512903,
+    "NO_MUNICIPIO": "Rio Tinto",
+    "CO_MICRORREGIAO": 25020
+  },
+  {
+    "CO_MUNICIPIO": 2513000,
+    "NO_MUNICIPIO": "Salgadinho",
+    "CO_MICRORREGIAO": 25008
+  },
+  {
+    "CO_MUNICIPIO": 2513109,
+    "NO_MUNICIPIO": "Salgado de São Félix",
+    "CO_MICRORREGIAO": 25018
+  },
+  {
+    "CO_MUNICIPIO": 2513158,
+    "NO_MUNICIPIO": "Santa Cecília",
+    "CO_MICRORREGIAO": 25019
+  },
+  {
+    "CO_MUNICIPIO": 2513208,
+    "NO_MUNICIPIO": "Santa Cruz",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2513307,
+    "NO_MUNICIPIO": "Santa Helena",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2513356,
+    "NO_MUNICIPIO": "Santa Inês",
+    "CO_MICRORREGIAO": 25006
+  },
+  {
+    "CO_MUNICIPIO": 2513406,
+    "NO_MUNICIPIO": "Santa Luzia",
+    "CO_MICRORREGIAO": 25008
+  },
+  {
+    "CO_MUNICIPIO": 2513505,
+    "NO_MUNICIPIO": "Santana de Mangueira",
+    "CO_MICRORREGIAO": 25006
+  },
+  {
+    "CO_MUNICIPIO": 2513604,
+    "NO_MUNICIPIO": "Santana dos Garrotes",
+    "CO_MICRORREGIAO": 25005
+  },
+  {
+    "CO_MUNICIPIO": 2513653,
+    "NO_MUNICIPIO": "Joca Claudino",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2513703,
+    "NO_MUNICIPIO": "Santa Rita",
+    "CO_MICRORREGIAO": 25022
+  },
+  {
+    "CO_MUNICIPIO": 2513802,
+    "NO_MUNICIPIO": "Santa Teresinha",
+    "CO_MICRORREGIAO": 25004
+  },
+  {
+    "CO_MUNICIPIO": 2513851,
+    "NO_MUNICIPIO": "Santo André",
+    "CO_MICRORREGIAO": 25011
+  },
+  {
+    "CO_MUNICIPIO": 2513901,
+    "NO_MUNICIPIO": "São Bento",
+    "CO_MICRORREGIAO": 25001
+  },
+  {
+    "CO_MUNICIPIO": 2513927,
+    "NO_MUNICIPIO": "São Bentinho",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2513943,
+    "NO_MUNICIPIO": "São Domingos do Cariri",
+    "CO_MICRORREGIAO": 25011
+  },
+  {
+    "CO_MUNICIPIO": 2513968,
+    "NO_MUNICIPIO": "São Domingos",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2513984,
+    "NO_MUNICIPIO": "São Francisco",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2514008,
+    "NO_MUNICIPIO": "São João do Cariri",
+    "CO_MICRORREGIAO": 25011
+  },
+  {
+    "CO_MUNICIPIO": 2514107,
+    "NO_MUNICIPIO": "São João do Tigre",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2514206,
+    "NO_MUNICIPIO": "São José da Lagoa Tapada",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2514305,
+    "NO_MUNICIPIO": "São José de Caiana",
+    "CO_MICRORREGIAO": 25006
+  },
+  {
+    "CO_MUNICIPIO": 2514404,
+    "NO_MUNICIPIO": "São José de Espinharas",
+    "CO_MICRORREGIAO": 25004
+  },
+  {
+    "CO_MUNICIPIO": 2514453,
+    "NO_MUNICIPIO": "São José dos Ramos",
+    "CO_MICRORREGIAO": 25021
+  },
+  {
+    "CO_MUNICIPIO": 2514503,
+    "NO_MUNICIPIO": "São José de Piranhas",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2514552,
+    "NO_MUNICIPIO": "São José de Princesa",
+    "CO_MICRORREGIAO": 25007
+  },
+  {
+    "CO_MUNICIPIO": 2514602,
+    "NO_MUNICIPIO": "São José do Bonfim",
+    "CO_MICRORREGIAO": 25004
+  },
+  {
+    "CO_MUNICIPIO": 2514651,
+    "NO_MUNICIPIO": "São José do Brejo do Cruz",
+    "CO_MICRORREGIAO": 25001
+  },
+  {
+    "CO_MUNICIPIO": 2514701,
+    "NO_MUNICIPIO": "São José do Sabugi",
+    "CO_MICRORREGIAO": 25008
+  },
+  {
+    "CO_MUNICIPIO": 2514800,
+    "NO_MUNICIPIO": "São José dos Cordeiros",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2514909,
+    "NO_MUNICIPIO": "São Mamede",
+    "CO_MICRORREGIAO": 25008
+  },
+  {
+    "CO_MUNICIPIO": 2515005,
+    "NO_MUNICIPIO": "São Miguel de Taipu",
+    "CO_MICRORREGIAO": 25021
+  },
+  {
+    "CO_MUNICIPIO": 2515104,
+    "NO_MUNICIPIO": "São Sebastião de Lagoa de Roça",
+    "CO_MICRORREGIAO": 25014
+  },
+  {
+    "CO_MUNICIPIO": 2515203,
+    "NO_MUNICIPIO": "São Sebastião do Umbuzeiro",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2515302,
+    "NO_MUNICIPIO": "Sapé",
+    "CO_MICRORREGIAO": 25021
+  },
+  {
+    "CO_MUNICIPIO": 2515401,
+    "NO_MUNICIPIO": "São Vicente do Seridó",
+    "CO_MICRORREGIAO": 25009
+  },
+  {
+    "CO_MUNICIPIO": 2515500,
+    "NO_MUNICIPIO": "Serra Branca",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2515609,
+    "NO_MUNICIPIO": "Serra da Raiz",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2515708,
+    "NO_MUNICIPIO": "Serra Grande",
+    "CO_MICRORREGIAO": 25006
+  },
+  {
+    "CO_MUNICIPIO": 2515807,
+    "NO_MUNICIPIO": "Serra Redonda",
+    "CO_MICRORREGIAO": 25017
+  },
+  {
+    "CO_MUNICIPIO": 2515906,
+    "NO_MUNICIPIO": "Serraria",
+    "CO_MICRORREGIAO": 25015
+  },
+  {
+    "CO_MUNICIPIO": 2515930,
+    "NO_MUNICIPIO": "Sertãozinho",
+    "CO_MICRORREGIAO": 25016
+  },
+  {
+    "CO_MUNICIPIO": 2515971,
+    "NO_MUNICIPIO": "Sobrado",
+    "CO_MICRORREGIAO": 25021
+  },
+  {
+    "CO_MUNICIPIO": 2516003,
+    "NO_MUNICIPIO": "Solânea",
+    "CO_MICRORREGIAO": 25013
+  },
+  {
+    "CO_MUNICIPIO": 2516102,
+    "NO_MUNICIPIO": "Soledade",
+    "CO_MICRORREGIAO": 25012
+  },
+  {
+    "CO_MUNICIPIO": 2516151,
+    "NO_MUNICIPIO": "Sossêgo",
+    "CO_MICRORREGIAO": 25012
+  },
+  {
+    "CO_MUNICIPIO": 2516201,
+    "NO_MUNICIPIO": "Sousa",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2516300,
+    "NO_MUNICIPIO": "Sumé",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2516409,
+    "NO_MUNICIPIO": "Tacima",
+    "CO_MICRORREGIAO": 25013
+  },
+  {
+    "CO_MUNICIPIO": 2516508,
+    "NO_MUNICIPIO": "Taperoá",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2516607,
+    "NO_MUNICIPIO": "Tavares",
+    "CO_MICRORREGIAO": 25007
+  },
+  {
+    "CO_MUNICIPIO": 2516706,
+    "NO_MUNICIPIO": "Teixeira",
+    "CO_MICRORREGIAO": 25007
+  },
+  {
+    "CO_MUNICIPIO": 2516755,
+    "NO_MUNICIPIO": "Tenório",
+    "CO_MICRORREGIAO": 25009
+  },
+  {
+    "CO_MUNICIPIO": 2516805,
+    "NO_MUNICIPIO": "Triunfo",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2516904,
+    "NO_MUNICIPIO": "Uiraúna",
+    "CO_MICRORREGIAO": 25002
+  },
+  {
+    "CO_MUNICIPIO": 2517001,
+    "NO_MUNICIPIO": "Umbuzeiro",
+    "CO_MICRORREGIAO": 25019
+  },
+  {
+    "CO_MUNICIPIO": 2517100,
+    "NO_MUNICIPIO": "Várzea",
+    "CO_MICRORREGIAO": 25008
+  },
+  {
+    "CO_MUNICIPIO": 2517209,
+    "NO_MUNICIPIO": "Vieirópolis",
+    "CO_MICRORREGIAO": 25003
+  },
+  {
+    "CO_MUNICIPIO": 2517407,
+    "NO_MUNICIPIO": "Zabelê",
+    "CO_MICRORREGIAO": 25010
+  },
+  {
+    "CO_MUNICIPIO": 2600054,
+    "NO_MUNICIPIO": "Abreu e Lima",
+    "CO_MICRORREGIAO": 26017
+  },
+  {
+    "CO_MUNICIPIO": 2600104,
+    "NO_MUNICIPIO": "Afogados da Ingazeira",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2600203,
+    "NO_MUNICIPIO": "Afrânio",
+    "CO_MICRORREGIAO": 26005
+  },
+  {
+    "CO_MUNICIPIO": 2600302,
+    "NO_MUNICIPIO": "Agrestina",
+    "CO_MICRORREGIAO": 26012
+  },
+  {
+    "CO_MUNICIPIO": 2600401,
+    "NO_MUNICIPIO": "Água Preta",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2600500,
+    "NO_MUNICIPIO": "Águas Belas",
+    "CO_MICRORREGIAO": 26007
+  },
+  {
+    "CO_MUNICIPIO": 2600609,
+    "NO_MUNICIPIO": "Alagoinha",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2600708,
+    "NO_MUNICIPIO": "Aliança",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2600807,
+    "NO_MUNICIPIO": "Altinho",
+    "CO_MICRORREGIAO": 26012
+  },
+  {
+    "CO_MUNICIPIO": 2600906,
+    "NO_MUNICIPIO": "Amaraji",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2601003,
+    "NO_MUNICIPIO": "Angelim",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2601052,
+    "NO_MUNICIPIO": "Araçoiaba",
+    "CO_MICRORREGIAO": 26016
+  },
+  {
+    "CO_MUNICIPIO": 2601102,
+    "NO_MUNICIPIO": "Araripina",
+    "CO_MICRORREGIAO": 26001
+  },
+  {
+    "CO_MUNICIPIO": 2601201,
+    "NO_MUNICIPIO": "Arcoverde",
+    "CO_MICRORREGIAO": 26004
+  },
+  {
+    "CO_MUNICIPIO": 2601300,
+    "NO_MUNICIPIO": "Barra de Guabiraba",
+    "CO_MICRORREGIAO": 26012
+  },
+  {
+    "CO_MUNICIPIO": 2601409,
+    "NO_MUNICIPIO": "Barreiros",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2601508,
+    "NO_MUNICIPIO": "Belém de Maria",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2601607,
+    "NO_MUNICIPIO": "Belém do São Francisco",
+    "CO_MICRORREGIAO": 26006
+  },
+  {
+    "CO_MUNICIPIO": 2601706,
+    "NO_MUNICIPIO": "Belo Jardim",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2601805,
+    "NO_MUNICIPIO": "Betânia",
+    "CO_MICRORREGIAO": 26004
+  },
+  {
+    "CO_MUNICIPIO": 2601904,
+    "NO_MUNICIPIO": "Bezerros",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2602001,
+    "NO_MUNICIPIO": "Bodocó",
+    "CO_MICRORREGIAO": 26001
+  },
+  {
+    "CO_MUNICIPIO": 2602100,
+    "NO_MUNICIPIO": "Bom Conselho",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2602209,
+    "NO_MUNICIPIO": "Bom Jardim",
+    "CO_MICRORREGIAO": 26010
+  },
+  {
+    "CO_MUNICIPIO": 2602308,
+    "NO_MUNICIPIO": "Bonito",
+    "CO_MICRORREGIAO": 26012
+  },
+  {
+    "CO_MUNICIPIO": 2602407,
+    "NO_MUNICIPIO": "Brejão",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2602506,
+    "NO_MUNICIPIO": "Brejinho",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2602605,
+    "NO_MUNICIPIO": "Brejo da Madre de Deus",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2602704,
+    "NO_MUNICIPIO": "Buenos Aires",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2602803,
+    "NO_MUNICIPIO": "Buíque",
+    "CO_MICRORREGIAO": 26007
+  },
+  {
+    "CO_MUNICIPIO": 2602902,
+    "NO_MUNICIPIO": "Cabo de Santo Agostinho",
+    "CO_MICRORREGIAO": 26018
+  },
+  {
+    "CO_MUNICIPIO": 2603009,
+    "NO_MUNICIPIO": "Cabrobó",
+    "CO_MICRORREGIAO": 26005
+  },
+  {
+    "CO_MUNICIPIO": 2603108,
+    "NO_MUNICIPIO": "Cachoeirinha",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2603207,
+    "NO_MUNICIPIO": "Caetés",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2603306,
+    "NO_MUNICIPIO": "Calçado",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2603405,
+    "NO_MUNICIPIO": "Calumbi",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2603454,
+    "NO_MUNICIPIO": "Camaragibe",
+    "CO_MICRORREGIAO": 26017
+  },
+  {
+    "CO_MUNICIPIO": 2603504,
+    "NO_MUNICIPIO": "Camocim de São Félix",
+    "CO_MICRORREGIAO": 26012
+  },
+  {
+    "CO_MUNICIPIO": 2603603,
+    "NO_MUNICIPIO": "Camutanga",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2603702,
+    "NO_MUNICIPIO": "Canhotinho",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2603801,
+    "NO_MUNICIPIO": "Capoeiras",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2603900,
+    "NO_MUNICIPIO": "Carnaíba",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2603926,
+    "NO_MUNICIPIO": "Carnaubeira da Penha",
+    "CO_MICRORREGIAO": 26006
+  },
+  {
+    "CO_MUNICIPIO": 2604007,
+    "NO_MUNICIPIO": "Carpina",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2604106,
+    "NO_MUNICIPIO": "Caruaru",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2604155,
+    "NO_MUNICIPIO": "Casinhas",
+    "CO_MICRORREGIAO": 26009
+  },
+  {
+    "CO_MUNICIPIO": 2604205,
+    "NO_MUNICIPIO": "Catende",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2604304,
+    "NO_MUNICIPIO": "Cedro",
+    "CO_MICRORREGIAO": 26002
+  },
+  {
+    "CO_MUNICIPIO": 2604403,
+    "NO_MUNICIPIO": "Chã de Alegria",
+    "CO_MICRORREGIAO": 26014
+  },
+  {
+    "CO_MUNICIPIO": 2604502,
+    "NO_MUNICIPIO": "Chã Grande",
+    "CO_MICRORREGIAO": 26014
+  },
+  {
+    "CO_MUNICIPIO": 2604601,
+    "NO_MUNICIPIO": "Condado",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2604700,
+    "NO_MUNICIPIO": "Correntes",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2604809,
+    "NO_MUNICIPIO": "Cortês",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2604908,
+    "NO_MUNICIPIO": "Cumaru",
+    "CO_MICRORREGIAO": 26010
+  },
+  {
+    "CO_MUNICIPIO": 2605004,
+    "NO_MUNICIPIO": "Cupira",
+    "CO_MICRORREGIAO": 26012
+  },
+  {
+    "CO_MUNICIPIO": 2605103,
+    "NO_MUNICIPIO": "Custódia",
+    "CO_MICRORREGIAO": 26004
+  },
+  {
+    "CO_MUNICIPIO": 2605152,
+    "NO_MUNICIPIO": "Dormentes",
+    "CO_MICRORREGIAO": 26005
+  },
+  {
+    "CO_MUNICIPIO": 2605202,
+    "NO_MUNICIPIO": "Escada",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2605301,
+    "NO_MUNICIPIO": "Exu",
+    "CO_MICRORREGIAO": 26001
+  },
+  {
+    "CO_MUNICIPIO": 2605400,
+    "NO_MUNICIPIO": "Feira Nova",
+    "CO_MICRORREGIAO": 26010
+  },
+  {
+    "CO_MUNICIPIO": 2605459,
+    "NO_MUNICIPIO": "Fernando de Noronha",
+    "CO_MICRORREGIAO": 26019
+  },
+  {
+    "CO_MUNICIPIO": 2605509,
+    "NO_MUNICIPIO": "Ferreiros",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2605608,
+    "NO_MUNICIPIO": "Flores",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2605707,
+    "NO_MUNICIPIO": "Floresta",
+    "CO_MICRORREGIAO": 26006
+  },
+  {
+    "CO_MUNICIPIO": 2605806,
+    "NO_MUNICIPIO": "Frei Miguelinho",
+    "CO_MICRORREGIAO": 26009
+  },
+  {
+    "CO_MUNICIPIO": 2605905,
+    "NO_MUNICIPIO": "Gameleira",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2606002,
+    "NO_MUNICIPIO": "Garanhuns",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2606101,
+    "NO_MUNICIPIO": "Glória do Goitá",
+    "CO_MICRORREGIAO": 26014
+  },
+  {
+    "CO_MUNICIPIO": 2606200,
+    "NO_MUNICIPIO": "Goiana",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2606309,
+    "NO_MUNICIPIO": "Granito",
+    "CO_MICRORREGIAO": 26001
+  },
+  {
+    "CO_MUNICIPIO": 2606408,
+    "NO_MUNICIPIO": "Gravatá",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2606507,
+    "NO_MUNICIPIO": "Iati",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2606606,
+    "NO_MUNICIPIO": "Ibimirim",
+    "CO_MICRORREGIAO": 26004
+  },
+  {
+    "CO_MUNICIPIO": 2606705,
+    "NO_MUNICIPIO": "Ibirajuba",
+    "CO_MICRORREGIAO": 26012
+  },
+  {
+    "CO_MUNICIPIO": 2606804,
+    "NO_MUNICIPIO": "Igarassu",
+    "CO_MICRORREGIAO": 26016
+  },
+  {
+    "CO_MUNICIPIO": 2606903,
+    "NO_MUNICIPIO": "Iguaracy",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2607000,
+    "NO_MUNICIPIO": "Inajá",
+    "CO_MICRORREGIAO": 26004
+  },
+  {
+    "CO_MUNICIPIO": 2607109,
+    "NO_MUNICIPIO": "Ingazeira",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2607208,
+    "NO_MUNICIPIO": "Ipojuca",
+    "CO_MICRORREGIAO": 26018
+  },
+  {
+    "CO_MUNICIPIO": 2607307,
+    "NO_MUNICIPIO": "Ipubi",
+    "CO_MICRORREGIAO": 26001
+  },
+  {
+    "CO_MUNICIPIO": 2607406,
+    "NO_MUNICIPIO": "Itacuruba",
+    "CO_MICRORREGIAO": 26006
+  },
+  {
+    "CO_MUNICIPIO": 2607505,
+    "NO_MUNICIPIO": "Itaíba",
+    "CO_MICRORREGIAO": 26007
+  },
+  {
+    "CO_MUNICIPIO": 2607604,
+    "NO_MUNICIPIO": "Ilha de Itamaracá",
+    "CO_MICRORREGIAO": 26016
+  },
+  {
+    "CO_MUNICIPIO": 2607653,
+    "NO_MUNICIPIO": "Itambé",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2607703,
+    "NO_MUNICIPIO": "Itapetim",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2607752,
+    "NO_MUNICIPIO": "Itapissuma",
+    "CO_MICRORREGIAO": 26016
+  },
+  {
+    "CO_MUNICIPIO": 2607802,
+    "NO_MUNICIPIO": "Itaquitinga",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2607901,
+    "NO_MUNICIPIO": "Jaboatão dos Guararapes",
+    "CO_MICRORREGIAO": 26017
+  },
+  {
+    "CO_MUNICIPIO": 2607950,
+    "NO_MUNICIPIO": "Jaqueira",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2608008,
+    "NO_MUNICIPIO": "Jataúba",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2608057,
+    "NO_MUNICIPIO": "Jatobá",
+    "CO_MICRORREGIAO": 26006
+  },
+  {
+    "CO_MUNICIPIO": 2608107,
+    "NO_MUNICIPIO": "João Alfredo",
+    "CO_MICRORREGIAO": 26010
+  },
+  {
+    "CO_MUNICIPIO": 2608206,
+    "NO_MUNICIPIO": "Joaquim Nabuco",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2608255,
+    "NO_MUNICIPIO": "Jucati",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2608305,
+    "NO_MUNICIPIO": "Jupi",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2608404,
+    "NO_MUNICIPIO": "Jurema",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2608453,
+    "NO_MUNICIPIO": "Lagoa do Carro",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2608503,
+    "NO_MUNICIPIO": "Lagoa de Itaenga",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2608602,
+    "NO_MUNICIPIO": "Lagoa do Ouro",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2608701,
+    "NO_MUNICIPIO": "Lagoa dos Gatos",
+    "CO_MICRORREGIAO": 26012
+  },
+  {
+    "CO_MUNICIPIO": 2608750,
+    "NO_MUNICIPIO": "Lagoa Grande",
+    "CO_MICRORREGIAO": 26005
+  },
+  {
+    "CO_MUNICIPIO": 2608800,
+    "NO_MUNICIPIO": "Lajedo",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2608909,
+    "NO_MUNICIPIO": "Limoeiro",
+    "CO_MICRORREGIAO": 26010
+  },
+  {
+    "CO_MUNICIPIO": 2609006,
+    "NO_MUNICIPIO": "Macaparana",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2609105,
+    "NO_MUNICIPIO": "Machados",
+    "CO_MICRORREGIAO": 26010
+  },
+  {
+    "CO_MUNICIPIO": 2609154,
+    "NO_MUNICIPIO": "Manari",
+    "CO_MICRORREGIAO": 26004
+  },
+  {
+    "CO_MUNICIPIO": 2609204,
+    "NO_MUNICIPIO": "Maraial",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2609303,
+    "NO_MUNICIPIO": "Mirandiba",
+    "CO_MICRORREGIAO": 26002
+  },
+  {
+    "CO_MUNICIPIO": 2609402,
+    "NO_MUNICIPIO": "Moreno",
+    "CO_MICRORREGIAO": 26017
+  },
+  {
+    "CO_MUNICIPIO": 2609501,
+    "NO_MUNICIPIO": "Nazaré da Mata",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2609600,
+    "NO_MUNICIPIO": "Olinda",
+    "CO_MICRORREGIAO": 26017
+  },
+  {
+    "CO_MUNICIPIO": 2609709,
+    "NO_MUNICIPIO": "Orobó",
+    "CO_MICRORREGIAO": 26010
+  },
+  {
+    "CO_MUNICIPIO": 2609808,
+    "NO_MUNICIPIO": "Orocó",
+    "CO_MICRORREGIAO": 26005
+  },
+  {
+    "CO_MUNICIPIO": 2609907,
+    "NO_MUNICIPIO": "Ouricuri",
+    "CO_MICRORREGIAO": 26001
+  },
+  {
+    "CO_MUNICIPIO": 2610004,
+    "NO_MUNICIPIO": "Palmares",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2610103,
+    "NO_MUNICIPIO": "Palmeirina",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2610202,
+    "NO_MUNICIPIO": "Panelas",
+    "CO_MICRORREGIAO": 26012
+  },
+  {
+    "CO_MUNICIPIO": 2610301,
+    "NO_MUNICIPIO": "Paranatama",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2610400,
+    "NO_MUNICIPIO": "Parnamirim",
+    "CO_MICRORREGIAO": 26002
+  },
+  {
+    "CO_MUNICIPIO": 2610509,
+    "NO_MUNICIPIO": "Passira",
+    "CO_MICRORREGIAO": 26010
+  },
+  {
+    "CO_MUNICIPIO": 2610608,
+    "NO_MUNICIPIO": "Paudalho",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2610707,
+    "NO_MUNICIPIO": "Paulista",
+    "CO_MICRORREGIAO": 26017
+  },
+  {
+    "CO_MUNICIPIO": 2610806,
+    "NO_MUNICIPIO": "Pedra",
+    "CO_MICRORREGIAO": 26007
+  },
+  {
+    "CO_MUNICIPIO": 2610905,
+    "NO_MUNICIPIO": "Pesqueira",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2611002,
+    "NO_MUNICIPIO": "Petrolândia",
+    "CO_MICRORREGIAO": 26006
+  },
+  {
+    "CO_MUNICIPIO": 2611101,
+    "NO_MUNICIPIO": "Petrolina",
+    "CO_MICRORREGIAO": 26005
+  },
+  {
+    "CO_MUNICIPIO": 2611200,
+    "NO_MUNICIPIO": "Poção",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2611309,
+    "NO_MUNICIPIO": "Pombos",
+    "CO_MICRORREGIAO": 26014
+  },
+  {
+    "CO_MUNICIPIO": 2611408,
+    "NO_MUNICIPIO": "Primavera",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2611507,
+    "NO_MUNICIPIO": "Quipapá",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2611533,
+    "NO_MUNICIPIO": "Quixaba",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2611606,
+    "NO_MUNICIPIO": "Recife",
+    "CO_MICRORREGIAO": 26017
+  },
+  {
+    "CO_MUNICIPIO": 2611705,
+    "NO_MUNICIPIO": "Riacho das Almas",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2611804,
+    "NO_MUNICIPIO": "Ribeirão",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2611903,
+    "NO_MUNICIPIO": "Rio Formoso",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2612000,
+    "NO_MUNICIPIO": "Sairé",
+    "CO_MICRORREGIAO": 26012
+  },
+  {
+    "CO_MUNICIPIO": 2612109,
+    "NO_MUNICIPIO": "Salgadinho",
+    "CO_MICRORREGIAO": 26010
+  },
+  {
+    "CO_MUNICIPIO": 2612208,
+    "NO_MUNICIPIO": "Salgueiro",
+    "CO_MICRORREGIAO": 26002
+  },
+  {
+    "CO_MUNICIPIO": 2612307,
+    "NO_MUNICIPIO": "Saloá",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2612406,
+    "NO_MUNICIPIO": "Sanharó",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2612455,
+    "NO_MUNICIPIO": "Santa Cruz",
+    "CO_MICRORREGIAO": 26001
+  },
+  {
+    "CO_MUNICIPIO": 2612471,
+    "NO_MUNICIPIO": "Santa Cruz da Baixa Verde",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2612505,
+    "NO_MUNICIPIO": "Santa Cruz do Capibaribe",
+    "CO_MICRORREGIAO": 26009
+  },
+  {
+    "CO_MUNICIPIO": 2612554,
+    "NO_MUNICIPIO": "Santa Filomena",
+    "CO_MICRORREGIAO": 26001
+  },
+  {
+    "CO_MUNICIPIO": 2612604,
+    "NO_MUNICIPIO": "Santa Maria da Boa Vista",
+    "CO_MICRORREGIAO": 26005
+  },
+  {
+    "CO_MUNICIPIO": 2612703,
+    "NO_MUNICIPIO": "Santa Maria do Cambucá",
+    "CO_MICRORREGIAO": 26009
+  },
+  {
+    "CO_MUNICIPIO": 2612802,
+    "NO_MUNICIPIO": "Santa Terezinha",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2612901,
+    "NO_MUNICIPIO": "São Benedito do Sul",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2613008,
+    "NO_MUNICIPIO": "São Bento do Una",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2613107,
+    "NO_MUNICIPIO": "São Caitano",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2613206,
+    "NO_MUNICIPIO": "São João",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2613305,
+    "NO_MUNICIPIO": "São Joaquim do Monte",
+    "CO_MICRORREGIAO": 26012
+  },
+  {
+    "CO_MUNICIPIO": 2613404,
+    "NO_MUNICIPIO": "São José da Coroa Grande",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2613503,
+    "NO_MUNICIPIO": "São José do Belmonte",
+    "CO_MICRORREGIAO": 26002
+  },
+  {
+    "CO_MUNICIPIO": 2613602,
+    "NO_MUNICIPIO": "São José do Egito",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2613701,
+    "NO_MUNICIPIO": "São Lourenço da Mata",
+    "CO_MICRORREGIAO": 26017
+  },
+  {
+    "CO_MUNICIPIO": 2613800,
+    "NO_MUNICIPIO": "São Vicente Férrer",
+    "CO_MICRORREGIAO": 26010
+  },
+  {
+    "CO_MUNICIPIO": 2613909,
+    "NO_MUNICIPIO": "Serra Talhada",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2614006,
+    "NO_MUNICIPIO": "Serrita",
+    "CO_MICRORREGIAO": 26002
+  },
+  {
+    "CO_MUNICIPIO": 2614105,
+    "NO_MUNICIPIO": "Sertânia",
+    "CO_MICRORREGIAO": 26004
+  },
+  {
+    "CO_MUNICIPIO": 2614204,
+    "NO_MUNICIPIO": "Sirinhaém",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2614303,
+    "NO_MUNICIPIO": "Moreilândia",
+    "CO_MICRORREGIAO": 26001
+  },
+  {
+    "CO_MUNICIPIO": 2614402,
+    "NO_MUNICIPIO": "Solidão",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2614501,
+    "NO_MUNICIPIO": "Surubim",
+    "CO_MICRORREGIAO": 26009
+  },
+  {
+    "CO_MUNICIPIO": 2614600,
+    "NO_MUNICIPIO": "Tabira",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2614709,
+    "NO_MUNICIPIO": "Tacaimbó",
+    "CO_MICRORREGIAO": 26008
+  },
+  {
+    "CO_MUNICIPIO": 2614808,
+    "NO_MUNICIPIO": "Tacaratu",
+    "CO_MICRORREGIAO": 26006
+  },
+  {
+    "CO_MUNICIPIO": 2614857,
+    "NO_MUNICIPIO": "Tamandaré",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2615003,
+    "NO_MUNICIPIO": "Taquaritinga do Norte",
+    "CO_MICRORREGIAO": 26009
+  },
+  {
+    "CO_MUNICIPIO": 2615102,
+    "NO_MUNICIPIO": "Terezinha",
+    "CO_MICRORREGIAO": 26011
+  },
+  {
+    "CO_MUNICIPIO": 2615201,
+    "NO_MUNICIPIO": "Terra Nova",
+    "CO_MICRORREGIAO": 26005
+  },
+  {
+    "CO_MUNICIPIO": 2615300,
+    "NO_MUNICIPIO": "Timbaúba",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2615409,
+    "NO_MUNICIPIO": "Toritama",
+    "CO_MICRORREGIAO": 26009
+  },
+  {
+    "CO_MUNICIPIO": 2615508,
+    "NO_MUNICIPIO": "Tracunhaém",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2615607,
+    "NO_MUNICIPIO": "Trindade",
+    "CO_MICRORREGIAO": 26001
+  },
+  {
+    "CO_MUNICIPIO": 2615706,
+    "NO_MUNICIPIO": "Triunfo",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2615805,
+    "NO_MUNICIPIO": "Tupanatinga",
+    "CO_MICRORREGIAO": 26007
+  },
+  {
+    "CO_MUNICIPIO": 2615904,
+    "NO_MUNICIPIO": "Tuparetama",
+    "CO_MICRORREGIAO": 26003
+  },
+  {
+    "CO_MUNICIPIO": 2616001,
+    "NO_MUNICIPIO": "Venturosa",
+    "CO_MICRORREGIAO": 26007
+  },
+  {
+    "CO_MUNICIPIO": 2616100,
+    "NO_MUNICIPIO": "Verdejante",
+    "CO_MICRORREGIAO": 26002
+  },
+  {
+    "CO_MUNICIPIO": 2616183,
+    "NO_MUNICIPIO": "Vertente do Lério",
+    "CO_MICRORREGIAO": 26009
+  },
+  {
+    "CO_MUNICIPIO": 2616209,
+    "NO_MUNICIPIO": "Vertentes",
+    "CO_MICRORREGIAO": 26009
+  },
+  {
+    "CO_MUNICIPIO": 2616308,
+    "NO_MUNICIPIO": "Vicência",
+    "CO_MICRORREGIAO": 26013
+  },
+  {
+    "CO_MUNICIPIO": 2616407,
+    "NO_MUNICIPIO": "Vitória de Santo Antão",
+    "CO_MICRORREGIAO": 26014
+  },
+  {
+    "CO_MUNICIPIO": 2616506,
+    "NO_MUNICIPIO": "Xexéu",
+    "CO_MICRORREGIAO": 26015
+  },
+  {
+    "CO_MUNICIPIO": 2700102,
+    "NO_MUNICIPIO": "Água Branca",
+    "CO_MICRORREGIAO": 27001
+  },
+  {
+    "CO_MUNICIPIO": 2700201,
+    "NO_MUNICIPIO": "Anadia",
+    "CO_MICRORREGIAO": 27012
+  },
+  {
+    "CO_MUNICIPIO": 2700300,
+    "NO_MUNICIPIO": "Arapiraca",
+    "CO_MICRORREGIAO": 27006
+  },
+  {
+    "CO_MUNICIPIO": 2700409,
+    "NO_MUNICIPIO": "Atalaia",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2700508,
+    "NO_MUNICIPIO": "Barra de Santo Antônio",
+    "CO_MICRORREGIAO": 27011
+  },
+  {
+    "CO_MUNICIPIO": 2700607,
+    "NO_MUNICIPIO": "Barra de São Miguel",
+    "CO_MICRORREGIAO": 27011
+  },
+  {
+    "CO_MUNICIPIO": 2700706,
+    "NO_MUNICIPIO": "Batalha",
+    "CO_MICRORREGIAO": 27004
+  },
+  {
+    "CO_MUNICIPIO": 2700805,
+    "NO_MUNICIPIO": "Belém",
+    "CO_MICRORREGIAO": 27005
+  },
+  {
+    "CO_MUNICIPIO": 2700904,
+    "NO_MUNICIPIO": "Belo Monte",
+    "CO_MICRORREGIAO": 27004
+  },
+  {
+    "CO_MUNICIPIO": 2701001,
+    "NO_MUNICIPIO": "Boca da Mata",
+    "CO_MICRORREGIAO": 27012
+  },
+  {
+    "CO_MUNICIPIO": 2701100,
+    "NO_MUNICIPIO": "Branquinha",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2701209,
+    "NO_MUNICIPIO": "Cacimbinhas",
+    "CO_MICRORREGIAO": 27005
+  },
+  {
+    "CO_MUNICIPIO": 2701308,
+    "NO_MUNICIPIO": "Cajueiro",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2701357,
+    "NO_MUNICIPIO": "Campestre",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2701407,
+    "NO_MUNICIPIO": "Campo Alegre",
+    "CO_MICRORREGIAO": 27012
+  },
+  {
+    "CO_MUNICIPIO": 2701506,
+    "NO_MUNICIPIO": "Campo Grande",
+    "CO_MICRORREGIAO": 27006
+  },
+  {
+    "CO_MUNICIPIO": 2701605,
+    "NO_MUNICIPIO": "Canapi",
+    "CO_MICRORREGIAO": 27001
+  },
+  {
+    "CO_MUNICIPIO": 2701704,
+    "NO_MUNICIPIO": "Capela",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2701803,
+    "NO_MUNICIPIO": "Carneiros",
+    "CO_MICRORREGIAO": 27003
+  },
+  {
+    "CO_MUNICIPIO": 2701902,
+    "NO_MUNICIPIO": "Chã Preta",
+    "CO_MICRORREGIAO": 27008
+  },
+  {
+    "CO_MUNICIPIO": 2702009,
+    "NO_MUNICIPIO": "Coité do Nóia",
+    "CO_MICRORREGIAO": 27006
+  },
+  {
+    "CO_MUNICIPIO": 2702108,
+    "NO_MUNICIPIO": "Colônia Leopoldina",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2702207,
+    "NO_MUNICIPIO": "Coqueiro Seco",
+    "CO_MICRORREGIAO": 27011
+  },
+  {
+    "CO_MUNICIPIO": 2702306,
+    "NO_MUNICIPIO": "Coruripe",
+    "CO_MICRORREGIAO": 27012
+  },
+  {
+    "CO_MUNICIPIO": 2702355,
+    "NO_MUNICIPIO": "Craíbas",
+    "CO_MICRORREGIAO": 27006
+  },
+  {
+    "CO_MUNICIPIO": 2702405,
+    "NO_MUNICIPIO": "Delmiro Gouveia",
+    "CO_MICRORREGIAO": 27002
+  },
+  {
+    "CO_MUNICIPIO": 2702504,
+    "NO_MUNICIPIO": "Dois Riachos",
+    "CO_MICRORREGIAO": 27003
+  },
+  {
+    "CO_MUNICIPIO": 2702553,
+    "NO_MUNICIPIO": "Estrela de Alagoas",
+    "CO_MICRORREGIAO": 27005
+  },
+  {
+    "CO_MUNICIPIO": 2702603,
+    "NO_MUNICIPIO": "Feira Grande",
+    "CO_MICRORREGIAO": 27006
+  },
+  {
+    "CO_MUNICIPIO": 2702702,
+    "NO_MUNICIPIO": "Feliz Deserto",
+    "CO_MICRORREGIAO": 27013
+  },
+  {
+    "CO_MUNICIPIO": 2702801,
+    "NO_MUNICIPIO": "Flexeiras",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2702900,
+    "NO_MUNICIPIO": "Girau do Ponciano",
+    "CO_MICRORREGIAO": 27006
+  },
+  {
+    "CO_MUNICIPIO": 2703007,
+    "NO_MUNICIPIO": "Ibateguara",
+    "CO_MICRORREGIAO": 27008
+  },
+  {
+    "CO_MUNICIPIO": 2703106,
+    "NO_MUNICIPIO": "Igaci",
+    "CO_MICRORREGIAO": 27005
+  },
+  {
+    "CO_MUNICIPIO": 2703205,
+    "NO_MUNICIPIO": "Igreja Nova",
+    "CO_MICRORREGIAO": 27013
+  },
+  {
+    "CO_MUNICIPIO": 2703304,
+    "NO_MUNICIPIO": "Inhapi",
+    "CO_MICRORREGIAO": 27001
+  },
+  {
+    "CO_MUNICIPIO": 2703403,
+    "NO_MUNICIPIO": "Jacaré dos Homens",
+    "CO_MICRORREGIAO": 27004
+  },
+  {
+    "CO_MUNICIPIO": 2703502,
+    "NO_MUNICIPIO": "Jacuípe",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2703601,
+    "NO_MUNICIPIO": "Japaratinga",
+    "CO_MICRORREGIAO": 27010
+  },
+  {
+    "CO_MUNICIPIO": 2703700,
+    "NO_MUNICIPIO": "Jaramataia",
+    "CO_MICRORREGIAO": 27004
+  },
+  {
+    "CO_MUNICIPIO": 2703759,
+    "NO_MUNICIPIO": "Jequiá da Praia",
+    "CO_MICRORREGIAO": 27012
+  },
+  {
+    "CO_MUNICIPIO": 2703809,
+    "NO_MUNICIPIO": "Joaquim Gomes",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2703908,
+    "NO_MUNICIPIO": "Jundiá",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2704005,
+    "NO_MUNICIPIO": "Junqueiro",
+    "CO_MICRORREGIAO": 27012
+  },
+  {
+    "CO_MUNICIPIO": 2704104,
+    "NO_MUNICIPIO": "Lagoa da Canoa",
+    "CO_MICRORREGIAO": 27006
+  },
+  {
+    "CO_MUNICIPIO": 2704203,
+    "NO_MUNICIPIO": "Limoeiro de Anadia",
+    "CO_MICRORREGIAO": 27006
+  },
+  {
+    "CO_MUNICIPIO": 2704302,
+    "NO_MUNICIPIO": "Maceió",
+    "CO_MICRORREGIAO": 27011
+  },
+  {
+    "CO_MUNICIPIO": 2704401,
+    "NO_MUNICIPIO": "Major Isidoro",
+    "CO_MICRORREGIAO": 27004
+  },
+  {
+    "CO_MUNICIPIO": 2704500,
+    "NO_MUNICIPIO": "Maragogi",
+    "CO_MICRORREGIAO": 27010
+  },
+  {
+    "CO_MUNICIPIO": 2704609,
+    "NO_MUNICIPIO": "Maravilha",
+    "CO_MICRORREGIAO": 27003
+  },
+  {
+    "CO_MUNICIPIO": 2704708,
+    "NO_MUNICIPIO": "Marechal Deodoro",
+    "CO_MICRORREGIAO": 27011
+  },
+  {
+    "CO_MUNICIPIO": 2704807,
+    "NO_MUNICIPIO": "Maribondo",
+    "CO_MICRORREGIAO": 27005
+  },
+  {
+    "CO_MUNICIPIO": 2704906,
+    "NO_MUNICIPIO": "Mar Vermelho",
+    "CO_MICRORREGIAO": 27005
+  },
+  {
+    "CO_MUNICIPIO": 2705002,
+    "NO_MUNICIPIO": "Mata Grande",
+    "CO_MICRORREGIAO": 27001
+  },
+  {
+    "CO_MUNICIPIO": 2705101,
+    "NO_MUNICIPIO": "Matriz de Camaragibe",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2705200,
+    "NO_MUNICIPIO": "Messias",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2705309,
+    "NO_MUNICIPIO": "Minador do Negrão",
+    "CO_MICRORREGIAO": 27005
+  },
+  {
+    "CO_MUNICIPIO": 2705408,
+    "NO_MUNICIPIO": "Monteirópolis",
+    "CO_MICRORREGIAO": 27004
+  },
+  {
+    "CO_MUNICIPIO": 2705507,
+    "NO_MUNICIPIO": "Murici",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2705606,
+    "NO_MUNICIPIO": "Novo Lino",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2705705,
+    "NO_MUNICIPIO": "Olho d'Água das Flores",
+    "CO_MICRORREGIAO": 27004
+  },
+  {
+    "CO_MUNICIPIO": 2705804,
+    "NO_MUNICIPIO": "Olho d'Água do Casado",
+    "CO_MICRORREGIAO": 27002
+  },
+  {
+    "CO_MUNICIPIO": 2705903,
+    "NO_MUNICIPIO": "Olho d'Água Grande",
+    "CO_MICRORREGIAO": 27007
+  },
+  {
+    "CO_MUNICIPIO": 2706000,
+    "NO_MUNICIPIO": "Olivença",
+    "CO_MICRORREGIAO": 27004
+  },
+  {
+    "CO_MUNICIPIO": 2706109,
+    "NO_MUNICIPIO": "Ouro Branco",
+    "CO_MICRORREGIAO": 27003
+  },
+  {
+    "CO_MUNICIPIO": 2706208,
+    "NO_MUNICIPIO": "Palestina",
+    "CO_MICRORREGIAO": 27003
+  },
+  {
+    "CO_MUNICIPIO": 2706307,
+    "NO_MUNICIPIO": "Palmeira dos Índios",
+    "CO_MICRORREGIAO": 27005
+  },
+  {
+    "CO_MUNICIPIO": 2706406,
+    "NO_MUNICIPIO": "Pão de Açúcar",
+    "CO_MICRORREGIAO": 27003
+  },
+  {
+    "CO_MUNICIPIO": 2706422,
+    "NO_MUNICIPIO": "Pariconha",
+    "CO_MICRORREGIAO": 27001
+  },
+  {
+    "CO_MUNICIPIO": 2706448,
+    "NO_MUNICIPIO": "Paripueira",
+    "CO_MICRORREGIAO": 27011
+  },
+  {
+    "CO_MUNICIPIO": 2706505,
+    "NO_MUNICIPIO": "Passo de Camaragibe",
+    "CO_MICRORREGIAO": 27010
+  },
+  {
+    "CO_MUNICIPIO": 2706604,
+    "NO_MUNICIPIO": "Paulo Jacinto",
+    "CO_MICRORREGIAO": 27005
+  },
+  {
+    "CO_MUNICIPIO": 2706703,
+    "NO_MUNICIPIO": "Penedo",
+    "CO_MICRORREGIAO": 27013
+  },
+  {
+    "CO_MUNICIPIO": 2706802,
+    "NO_MUNICIPIO": "Piaçabuçu",
+    "CO_MICRORREGIAO": 27013
+  },
+  {
+    "CO_MUNICIPIO": 2706901,
+    "NO_MUNICIPIO": "Pilar",
+    "CO_MICRORREGIAO": 27011
+  },
+  {
+    "CO_MUNICIPIO": 2707008,
+    "NO_MUNICIPIO": "Pindoba",
+    "CO_MICRORREGIAO": 27008
+  },
+  {
+    "CO_MUNICIPIO": 2707107,
+    "NO_MUNICIPIO": "Piranhas",
+    "CO_MICRORREGIAO": 27002
+  },
+  {
+    "CO_MUNICIPIO": 2707206,
+    "NO_MUNICIPIO": "Poço das Trincheiras",
+    "CO_MICRORREGIAO": 27003
+  },
+  {
+    "CO_MUNICIPIO": 2707305,
+    "NO_MUNICIPIO": "Porto Calvo",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2707404,
+    "NO_MUNICIPIO": "Porto de Pedras",
+    "CO_MICRORREGIAO": 27010
+  },
+  {
+    "CO_MUNICIPIO": 2707503,
+    "NO_MUNICIPIO": "Porto Real do Colégio",
+    "CO_MICRORREGIAO": 27013
+  },
+  {
+    "CO_MUNICIPIO": 2707602,
+    "NO_MUNICIPIO": "Quebrangulo",
+    "CO_MICRORREGIAO": 27005
+  },
+  {
+    "CO_MUNICIPIO": 2707701,
+    "NO_MUNICIPIO": "Rio Largo",
+    "CO_MICRORREGIAO": 27011
+  },
+  {
+    "CO_MUNICIPIO": 2707800,
+    "NO_MUNICIPIO": "Roteiro",
+    "CO_MICRORREGIAO": 27012
+  },
+  {
+    "CO_MUNICIPIO": 2707909,
+    "NO_MUNICIPIO": "Santa Luzia do Norte",
+    "CO_MICRORREGIAO": 27011
+  },
+  {
+    "CO_MUNICIPIO": 2708006,
+    "NO_MUNICIPIO": "Santana do Ipanema",
+    "CO_MICRORREGIAO": 27003
+  },
+  {
+    "CO_MUNICIPIO": 2708105,
+    "NO_MUNICIPIO": "Santana do Mundaú",
+    "CO_MICRORREGIAO": 27008
+  },
+  {
+    "CO_MUNICIPIO": 2708204,
+    "NO_MUNICIPIO": "São Brás",
+    "CO_MICRORREGIAO": 27007
+  },
+  {
+    "CO_MUNICIPIO": 2708303,
+    "NO_MUNICIPIO": "São José da Laje",
+    "CO_MICRORREGIAO": 27008
+  },
+  {
+    "CO_MUNICIPIO": 2708402,
+    "NO_MUNICIPIO": "São José da Tapera",
+    "CO_MICRORREGIAO": 27003
+  },
+  {
+    "CO_MUNICIPIO": 2708501,
+    "NO_MUNICIPIO": "São Luís do Quitunde",
+    "CO_MICRORREGIAO": 27009
+  },
+  {
+    "CO_MUNICIPIO": 2708600,
+    "NO_MUNICIPIO": "São Miguel dos Campos",
+    "CO_MICRORREGIAO": 27012
+  },
+  {
+    "CO_MUNICIPIO": 2708709,
+    "NO_MUNICIPIO": "São Miguel dos Milagres",
+    "CO_MICRORREGIAO": 27010
+  },
+  {
+    "CO_MUNICIPIO": 2708808,
+    "NO_MUNICIPIO": "São Sebastião",
+    "CO_MICRORREGIAO": 27006
+  },
+  {
+    "CO_MUNICIPIO": 2708907,
+    "NO_MUNICIPIO": "Satuba",
+    "CO_MICRORREGIAO": 27011
+  },
+  {
+    "CO_MUNICIPIO": 2708956,
+    "NO_MUNICIPIO": "Senador Rui Palmeira",
+    "CO_MICRORREGIAO": 27003
+  },
+  {
+    "CO_MUNICIPIO": 2709004,
+    "NO_MUNICIPIO": "Tanque d'Arca",
+    "CO_MICRORREGIAO": 27005
+  },
+  {
+    "CO_MUNICIPIO": 2709103,
+    "NO_MUNICIPIO": "Taquarana",
+    "CO_MICRORREGIAO": 27006
+  },
+  {
+    "CO_MUNICIPIO": 2709152,
+    "NO_MUNICIPIO": "Teotônio Vilela",
+    "CO_MICRORREGIAO": 27012
+  },
+  {
+    "CO_MUNICIPIO": 2709202,
+    "NO_MUNICIPIO": "Traipu",
+    "CO_MICRORREGIAO": 27007
+  },
+  {
+    "CO_MUNICIPIO": 2709301,
+    "NO_MUNICIPIO": "União dos Palmares",
+    "CO_MICRORREGIAO": 27008
+  },
+  {
+    "CO_MUNICIPIO": 2709400,
+    "NO_MUNICIPIO": "Viçosa",
+    "CO_MICRORREGIAO": 27008
+  },
+  {
+    "CO_MUNICIPIO": 2800100,
+    "NO_MUNICIPIO": "Amparo do São Francisco",
+    "CO_MICRORREGIAO": 28007
+  },
+  {
+    "CO_MUNICIPIO": 2800209,
+    "NO_MUNICIPIO": "Aquidabã",
+    "CO_MICRORREGIAO": 28003
+  },
+  {
+    "CO_MUNICIPIO": 2800308,
+    "NO_MUNICIPIO": "Aracaju",
+    "CO_MICRORREGIAO": 28011
+  },
+  {
+    "CO_MUNICIPIO": 2800407,
+    "NO_MUNICIPIO": "Arauá",
+    "CO_MICRORREGIAO": 28012
+  },
+  {
+    "CO_MUNICIPIO": 2800506,
+    "NO_MUNICIPIO": "Areia Branca",
+    "CO_MICRORREGIAO": 28004
+  },
+  {
+    "CO_MUNICIPIO": 2800605,
+    "NO_MUNICIPIO": "Barra dos Coqueiros",
+    "CO_MICRORREGIAO": 28011
+  },
+  {
+    "CO_MUNICIPIO": 2800670,
+    "NO_MUNICIPIO": "Boquim",
+    "CO_MICRORREGIAO": 28012
+  },
+  {
+    "CO_MUNICIPIO": 2800704,
+    "NO_MUNICIPIO": "Brejo Grande",
+    "CO_MICRORREGIAO": 28007
+  },
+  {
+    "CO_MUNICIPIO": 2801009,
+    "NO_MUNICIPIO": "Campo do Brito",
+    "CO_MICRORREGIAO": 28004
+  },
+  {
+    "CO_MUNICIPIO": 2801108,
+    "NO_MUNICIPIO": "Canhoba",
+    "CO_MICRORREGIAO": 28007
+  },
+  {
+    "CO_MUNICIPIO": 2801207,
+    "NO_MUNICIPIO": "Canindé de São Francisco",
+    "CO_MICRORREGIAO": 28001
+  },
+  {
+    "CO_MUNICIPIO": 2801306,
+    "NO_MUNICIPIO": "Capela",
+    "CO_MICRORREGIAO": 28008
+  },
+  {
+    "CO_MUNICIPIO": 2801405,
+    "NO_MUNICIPIO": "Carira",
+    "CO_MICRORREGIAO": 28002
+  },
+  {
+    "CO_MUNICIPIO": 2801504,
+    "NO_MUNICIPIO": "Carmópolis",
+    "CO_MICRORREGIAO": 28010
+  },
+  {
+    "CO_MUNICIPIO": 2801603,
+    "NO_MUNICIPIO": "Cedro de São João",
+    "CO_MICRORREGIAO": 28007
+  },
+  {
+    "CO_MUNICIPIO": 2801702,
+    "NO_MUNICIPIO": "Cristinápolis",
+    "CO_MICRORREGIAO": 28012
+  },
+  {
+    "CO_MUNICIPIO": 2801900,
+    "NO_MUNICIPIO": "Cumbe",
+    "CO_MICRORREGIAO": 28003
+  },
+  {
+    "CO_MUNICIPIO": 2802007,
+    "NO_MUNICIPIO": "Divina Pastora",
+    "CO_MICRORREGIAO": 28008
+  },
+  {
+    "CO_MUNICIPIO": 2802106,
+    "NO_MUNICIPIO": "Estância",
+    "CO_MICRORREGIAO": 28013
+  },
+  {
+    "CO_MUNICIPIO": 2802205,
+    "NO_MUNICIPIO": "Feira Nova",
+    "CO_MICRORREGIAO": 28001
+  },
+  {
+    "CO_MUNICIPIO": 2802304,
+    "NO_MUNICIPIO": "Frei Paulo",
+    "CO_MICRORREGIAO": 28002
+  },
+  {
+    "CO_MUNICIPIO": 2802403,
+    "NO_MUNICIPIO": "Gararu",
+    "CO_MICRORREGIAO": 28001
+  },
+  {
+    "CO_MUNICIPIO": 2802502,
+    "NO_MUNICIPIO": "General Maynard",
+    "CO_MICRORREGIAO": 28010
+  },
+  {
+    "CO_MUNICIPIO": 2802601,
+    "NO_MUNICIPIO": "Graccho Cardoso",
+    "CO_MICRORREGIAO": 28001
+  },
+  {
+    "CO_MUNICIPIO": 2802700,
+    "NO_MUNICIPIO": "Ilha das Flores",
+    "CO_MICRORREGIAO": 28007
+  },
+  {
+    "CO_MUNICIPIO": 2802809,
+    "NO_MUNICIPIO": "Indiaroba",
+    "CO_MICRORREGIAO": 28013
+  },
+  {
+    "CO_MUNICIPIO": 2802908,
+    "NO_MUNICIPIO": "Itabaiana",
+    "CO_MICRORREGIAO": 28004
+  },
+  {
+    "CO_MUNICIPIO": 2803005,
+    "NO_MUNICIPIO": "Itabaianinha",
+    "CO_MICRORREGIAO": 28012
+  },
+  {
+    "CO_MUNICIPIO": 2803104,
+    "NO_MUNICIPIO": "Itabi",
+    "CO_MICRORREGIAO": 28001
+  },
+  {
+    "CO_MUNICIPIO": 2803203,
+    "NO_MUNICIPIO": "Itaporanga d'Ajuda",
+    "CO_MICRORREGIAO": 28013
+  },
+  {
+    "CO_MUNICIPIO": 2803302,
+    "NO_MUNICIPIO": "Japaratuba",
+    "CO_MICRORREGIAO": 28009
+  },
+  {
+    "CO_MUNICIPIO": 2803401,
+    "NO_MUNICIPIO": "Japoatã",
+    "CO_MICRORREGIAO": 28009
+  },
+  {
+    "CO_MUNICIPIO": 2803500,
+    "NO_MUNICIPIO": "Lagarto",
+    "CO_MICRORREGIAO": 28006
+  },
+  {
+    "CO_MUNICIPIO": 2803609,
+    "NO_MUNICIPIO": "Laranjeiras",
+    "CO_MICRORREGIAO": 28010
+  },
+  {
+    "CO_MUNICIPIO": 2803708,
+    "NO_MUNICIPIO": "Macambira",
+    "CO_MICRORREGIAO": 28004
+  },
+  {
+    "CO_MUNICIPIO": 2803807,
+    "NO_MUNICIPIO": "Malhada dos Bois",
+    "CO_MICRORREGIAO": 28003
+  },
+  {
+    "CO_MUNICIPIO": 2803906,
+    "NO_MUNICIPIO": "Malhador",
+    "CO_MICRORREGIAO": 28004
+  },
+  {
+    "CO_MUNICIPIO": 2804003,
+    "NO_MUNICIPIO": "Maruim",
+    "CO_MICRORREGIAO": 28010
+  },
+  {
+    "CO_MUNICIPIO": 2804102,
+    "NO_MUNICIPIO": "Moita Bonita",
+    "CO_MICRORREGIAO": 28004
+  },
+  {
+    "CO_MUNICIPIO": 2804201,
+    "NO_MUNICIPIO": "Monte Alegre de Sergipe",
+    "CO_MICRORREGIAO": 28001
+  },
+  {
+    "CO_MUNICIPIO": 2804300,
+    "NO_MUNICIPIO": "Muribeca",
+    "CO_MICRORREGIAO": 28003
+  },
+  {
+    "CO_MUNICIPIO": 2804409,
+    "NO_MUNICIPIO": "Neópolis",
+    "CO_MICRORREGIAO": 28007
+  },
+  {
+    "CO_MUNICIPIO": 2804458,
+    "NO_MUNICIPIO": "Nossa Senhora Aparecida",
+    "CO_MICRORREGIAO": 28002
+  },
+  {
+    "CO_MUNICIPIO": 2804508,
+    "NO_MUNICIPIO": "Nossa Senhora da Glória",
+    "CO_MICRORREGIAO": 28001
+  },
+  {
+    "CO_MUNICIPIO": 2804607,
+    "NO_MUNICIPIO": "Nossa Senhora das Dores",
+    "CO_MICRORREGIAO": 28003
+  },
+  {
+    "CO_MUNICIPIO": 2804706,
+    "NO_MUNICIPIO": "Nossa Senhora de Lourdes",
+    "CO_MICRORREGIAO": 28007
+  },
+  {
+    "CO_MUNICIPIO": 2804805,
+    "NO_MUNICIPIO": "Nossa Senhora do Socorro",
+    "CO_MICRORREGIAO": 28011
+  },
+  {
+    "CO_MUNICIPIO": 2804904,
+    "NO_MUNICIPIO": "Pacatuba",
+    "CO_MICRORREGIAO": 28009
+  },
+  {
+    "CO_MUNICIPIO": 2805000,
+    "NO_MUNICIPIO": "Pedra Mole",
+    "CO_MICRORREGIAO": 28002
+  },
+  {
+    "CO_MUNICIPIO": 2805109,
+    "NO_MUNICIPIO": "Pedrinhas",
+    "CO_MICRORREGIAO": 28012
+  },
+  {
+    "CO_MUNICIPIO": 2805208,
+    "NO_MUNICIPIO": "Pinhão",
+    "CO_MICRORREGIAO": 28002
+  },
+  {
+    "CO_MUNICIPIO": 2805307,
+    "NO_MUNICIPIO": "Pirambu",
+    "CO_MICRORREGIAO": 28009
+  },
+  {
+    "CO_MUNICIPIO": 2805406,
+    "NO_MUNICIPIO": "Poço Redondo",
+    "CO_MICRORREGIAO": 28001
+  },
+  {
+    "CO_MUNICIPIO": 2805505,
+    "NO_MUNICIPIO": "Poço Verde",
+    "CO_MICRORREGIAO": 28005
+  },
+  {
+    "CO_MUNICIPIO": 2805604,
+    "NO_MUNICIPIO": "Porto da Folha",
+    "CO_MICRORREGIAO": 28001
+  },
+  {
+    "CO_MUNICIPIO": 2805703,
+    "NO_MUNICIPIO": "Propriá",
+    "CO_MICRORREGIAO": 28007
+  },
+  {
+    "CO_MUNICIPIO": 2805802,
+    "NO_MUNICIPIO": "Riachão do Dantas",
+    "CO_MICRORREGIAO": 28006
+  },
+  {
+    "CO_MUNICIPIO": 2805901,
+    "NO_MUNICIPIO": "Riachuelo",
+    "CO_MICRORREGIAO": 28010
+  },
+  {
+    "CO_MUNICIPIO": 2806008,
+    "NO_MUNICIPIO": "Ribeirópolis",
+    "CO_MICRORREGIAO": 28002
+  },
+  {
+    "CO_MUNICIPIO": 2806107,
+    "NO_MUNICIPIO": "Rosário do Catete",
+    "CO_MICRORREGIAO": 28010
+  },
+  {
+    "CO_MUNICIPIO": 2806206,
+    "NO_MUNICIPIO": "Salgado",
+    "CO_MICRORREGIAO": 28012
+  },
+  {
+    "CO_MUNICIPIO": 2806305,
+    "NO_MUNICIPIO": "Santa Luzia do Itanhy",
+    "CO_MICRORREGIAO": 28013
+  },
+  {
+    "CO_MUNICIPIO": 2806404,
+    "NO_MUNICIPIO": "Santana do São Francisco",
+    "CO_MICRORREGIAO": 28007
+  },
+  {
+    "CO_MUNICIPIO": 2806503,
+    "NO_MUNICIPIO": "Santa Rosa de Lima",
+    "CO_MICRORREGIAO": 28008
+  },
+  {
+    "CO_MUNICIPIO": 2806602,
+    "NO_MUNICIPIO": "Santo Amaro das Brotas",
+    "CO_MICRORREGIAO": 28010
+  },
+  {
+    "CO_MUNICIPIO": 2806701,
+    "NO_MUNICIPIO": "São Cristóvão",
+    "CO_MICRORREGIAO": 28011
+  },
+  {
+    "CO_MUNICIPIO": 2806800,
+    "NO_MUNICIPIO": "São Domingos",
+    "CO_MICRORREGIAO": 28004
+  },
+  {
+    "CO_MUNICIPIO": 2806909,
+    "NO_MUNICIPIO": "São Francisco",
+    "CO_MICRORREGIAO": 28009
+  },
+  {
+    "CO_MUNICIPIO": 2807006,
+    "NO_MUNICIPIO": "São Miguel do Aleixo",
+    "CO_MICRORREGIAO": 28003
+  },
+  {
+    "CO_MUNICIPIO": 2807105,
+    "NO_MUNICIPIO": "Simão Dias",
+    "CO_MICRORREGIAO": 28005
+  },
+  {
+    "CO_MUNICIPIO": 2807204,
+    "NO_MUNICIPIO": "Siriri",
+    "CO_MICRORREGIAO": 28008
+  },
+  {
+    "CO_MUNICIPIO": 2807303,
+    "NO_MUNICIPIO": "Telha",
+    "CO_MICRORREGIAO": 28007
+  },
+  {
+    "CO_MUNICIPIO": 2807402,
+    "NO_MUNICIPIO": "Tobias Barreto",
+    "CO_MICRORREGIAO": 28005
+  },
+  {
+    "CO_MUNICIPIO": 2807501,
+    "NO_MUNICIPIO": "Tomar do Geru",
+    "CO_MICRORREGIAO": 28012
+  },
+  {
+    "CO_MUNICIPIO": 2807600,
+    "NO_MUNICIPIO": "Umbaúba",
+    "CO_MICRORREGIAO": 28012
+  },
+  {
+    "CO_MUNICIPIO": 2900108,
+    "NO_MUNICIPIO": "Abaíra",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2900207,
+    "NO_MUNICIPIO": "Abaré",
+    "CO_MICRORREGIAO": 29005
+  },
+  {
+    "CO_MUNICIPIO": 2900306,
+    "NO_MUNICIPIO": "Acajutiba",
+    "CO_MICRORREGIAO": 29017
+  },
+  {
+    "CO_MUNICIPIO": 2900355,
+    "NO_MUNICIPIO": "Adustina",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2900405,
+    "NO_MUNICIPIO": "Água Fria",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2900504,
+    "NO_MUNICIPIO": "Érico Cardoso",
+    "CO_MICRORREGIAO": 29025
+  },
+  {
+    "CO_MUNICIPIO": 2900603,
+    "NO_MUNICIPIO": "Aiquara",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2900702,
+    "NO_MUNICIPIO": "Alagoinhas",
+    "CO_MICRORREGIAO": 29017
+  },
+  {
+    "CO_MUNICIPIO": 2900801,
+    "NO_MUNICIPIO": "Alcobaça",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2900900,
+    "NO_MUNICIPIO": "Almadina",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2901007,
+    "NO_MUNICIPIO": "Amargosa",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2901106,
+    "NO_MUNICIPIO": "Amélia Rodrigues",
+    "CO_MICRORREGIAO": 29019
+  },
+  {
+    "CO_MUNICIPIO": 2901155,
+    "NO_MUNICIPIO": "América Dourada",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2901205,
+    "NO_MUNICIPIO": "Anagé",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2901304,
+    "NO_MUNICIPIO": "Andaraí",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2901353,
+    "NO_MUNICIPIO": "Andorinha",
+    "CO_MICRORREGIAO": 29008
+  },
+  {
+    "CO_MUNICIPIO": 2901403,
+    "NO_MUNICIPIO": "Angical",
+    "CO_MICRORREGIAO": 29002
+  },
+  {
+    "CO_MUNICIPIO": 2901502,
+    "NO_MUNICIPIO": "Anguera",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2901601,
+    "NO_MUNICIPIO": "Antas",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2901700,
+    "NO_MUNICIPIO": "Antônio Cardoso",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2901809,
+    "NO_MUNICIPIO": "Antônio Gonçalves",
+    "CO_MICRORREGIAO": 29008
+  },
+  {
+    "CO_MUNICIPIO": 2901908,
+    "NO_MUNICIPIO": "Aporá",
+    "CO_MICRORREGIAO": 29017
+  },
+  {
+    "CO_MUNICIPIO": 2901957,
+    "NO_MUNICIPIO": "Apuarema",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2902005,
+    "NO_MUNICIPIO": "Aracatu",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2902054,
+    "NO_MUNICIPIO": "Araçás",
+    "CO_MICRORREGIAO": 29017
+  },
+  {
+    "CO_MUNICIPIO": 2902104,
+    "NO_MUNICIPIO": "Araci",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2902203,
+    "NO_MUNICIPIO": "Aramari",
+    "CO_MICRORREGIAO": 29017
+  },
+  {
+    "CO_MUNICIPIO": 2902252,
+    "NO_MUNICIPIO": "Arataca",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2902302,
+    "NO_MUNICIPIO": "Aratuípe",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2902401,
+    "NO_MUNICIPIO": "Aurelino Leal",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2902500,
+    "NO_MUNICIPIO": "Baianópolis",
+    "CO_MICRORREGIAO": 29001
+  },
+  {
+    "CO_MUNICIPIO": 2902609,
+    "NO_MUNICIPIO": "Baixa Grande",
+    "CO_MICRORREGIAO": 29011
+  },
+  {
+    "CO_MUNICIPIO": 2902658,
+    "NO_MUNICIPIO": "Banzaê",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2902708,
+    "NO_MUNICIPIO": "Barra",
+    "CO_MICRORREGIAO": 29006
+  },
+  {
+    "CO_MUNICIPIO": 2902807,
+    "NO_MUNICIPIO": "Barra da Estiva",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2902906,
+    "NO_MUNICIPIO": "Barra do Choça",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2903003,
+    "NO_MUNICIPIO": "Barra do Mendes",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2903102,
+    "NO_MUNICIPIO": "Barra do Rocha",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2903201,
+    "NO_MUNICIPIO": "Barreiras",
+    "CO_MICRORREGIAO": 29001
+  },
+  {
+    "CO_MUNICIPIO": 2903235,
+    "NO_MUNICIPIO": "Barro Alto",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2903276,
+    "NO_MUNICIPIO": "Barrocas",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2903300,
+    "NO_MUNICIPIO": "Barro Preto",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2903409,
+    "NO_MUNICIPIO": "Belmonte",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2903508,
+    "NO_MUNICIPIO": "Belo Campo",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2903607,
+    "NO_MUNICIPIO": "Biritinga",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2903706,
+    "NO_MUNICIPIO": "Boa Nova",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2903805,
+    "NO_MUNICIPIO": "Boa Vista do Tupim",
+    "CO_MICRORREGIAO": 29011
+  },
+  {
+    "CO_MUNICIPIO": 2903904,
+    "NO_MUNICIPIO": "Bom Jesus da Lapa",
+    "CO_MICRORREGIAO": 29007
+  },
+  {
+    "CO_MUNICIPIO": 2903953,
+    "NO_MUNICIPIO": "Bom Jesus da Serra",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2904001,
+    "NO_MUNICIPIO": "Boninal",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2904050,
+    "NO_MUNICIPIO": "Bonito",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2904100,
+    "NO_MUNICIPIO": "Boquira",
+    "CO_MICRORREGIAO": 29022
+  },
+  {
+    "CO_MUNICIPIO": 2904209,
+    "NO_MUNICIPIO": "Botuporã",
+    "CO_MICRORREGIAO": 29022
+  },
+  {
+    "CO_MUNICIPIO": 2904308,
+    "NO_MUNICIPIO": "Brejões",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2904407,
+    "NO_MUNICIPIO": "Brejolândia",
+    "CO_MICRORREGIAO": 29002
+  },
+  {
+    "CO_MUNICIPIO": 2904506,
+    "NO_MUNICIPIO": "Brotas de Macaúbas",
+    "CO_MICRORREGIAO": 29022
+  },
+  {
+    "CO_MUNICIPIO": 2904605,
+    "NO_MUNICIPIO": "Brumado",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2904704,
+    "NO_MUNICIPIO": "Buerarema",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2904753,
+    "NO_MUNICIPIO": "Buritirama",
+    "CO_MICRORREGIAO": 29006
+  },
+  {
+    "CO_MUNICIPIO": 2904803,
+    "NO_MUNICIPIO": "Caatiba",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2904852,
+    "NO_MUNICIPIO": "Cabaceiras do Paraguaçu",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2904902,
+    "NO_MUNICIPIO": "Cachoeira",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2905008,
+    "NO_MUNICIPIO": "Caculé",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2905107,
+    "NO_MUNICIPIO": "Caém",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2905156,
+    "NO_MUNICIPIO": "Caetanos",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2905206,
+    "NO_MUNICIPIO": "Caetité",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2905305,
+    "NO_MUNICIPIO": "Cafarnaum",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2905404,
+    "NO_MUNICIPIO": "Cairu",
+    "CO_MICRORREGIAO": 29030
+  },
+  {
+    "CO_MUNICIPIO": 2905503,
+    "NO_MUNICIPIO": "Caldeirão Grande",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2905602,
+    "NO_MUNICIPIO": "Camacan",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2905701,
+    "NO_MUNICIPIO": "Camaçari",
+    "CO_MICRORREGIAO": 29021
+  },
+  {
+    "CO_MUNICIPIO": 2905800,
+    "NO_MUNICIPIO": "Camamu",
+    "CO_MICRORREGIAO": 29030
+  },
+  {
+    "CO_MUNICIPIO": 2905909,
+    "NO_MUNICIPIO": "Campo Alegre de Lourdes",
+    "CO_MICRORREGIAO": 29004
+  },
+  {
+    "CO_MUNICIPIO": 2906006,
+    "NO_MUNICIPIO": "Campo Formoso",
+    "CO_MICRORREGIAO": 29008
+  },
+  {
+    "CO_MUNICIPIO": 2906105,
+    "NO_MUNICIPIO": "Canápolis",
+    "CO_MICRORREGIAO": 29003
+  },
+  {
+    "CO_MUNICIPIO": 2906204,
+    "NO_MUNICIPIO": "Canarana",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2906303,
+    "NO_MUNICIPIO": "Canavieiras",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2906402,
+    "NO_MUNICIPIO": "Candeal",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2906501,
+    "NO_MUNICIPIO": "Candeias",
+    "CO_MICRORREGIAO": 29021
+  },
+  {
+    "CO_MUNICIPIO": 2906600,
+    "NO_MUNICIPIO": "Candiba",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2906709,
+    "NO_MUNICIPIO": "Cândido Sales",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2906808,
+    "NO_MUNICIPIO": "Cansanção",
+    "CO_MICRORREGIAO": 29014
+  },
+  {
+    "CO_MUNICIPIO": 2906824,
+    "NO_MUNICIPIO": "Canudos",
+    "CO_MICRORREGIAO": 29014
+  },
+  {
+    "CO_MUNICIPIO": 2906857,
+    "NO_MUNICIPIO": "Capela do Alto Alegre",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2906873,
+    "NO_MUNICIPIO": "Capim Grosso",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2906899,
+    "NO_MUNICIPIO": "Caraíbas",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2906907,
+    "NO_MUNICIPIO": "Caravelas",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2907004,
+    "NO_MUNICIPIO": "Cardeal da Silva",
+    "CO_MICRORREGIAO": 29018
+  },
+  {
+    "CO_MUNICIPIO": 2907103,
+    "NO_MUNICIPIO": "Carinhanha",
+    "CO_MICRORREGIAO": 29007
+  },
+  {
+    "CO_MUNICIPIO": 2907202,
+    "NO_MUNICIPIO": "Casa Nova",
+    "CO_MICRORREGIAO": 29004
+  },
+  {
+    "CO_MUNICIPIO": 2907301,
+    "NO_MUNICIPIO": "Castro Alves",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2907400,
+    "NO_MUNICIPIO": "Catolândia",
+    "CO_MICRORREGIAO": 29001
+  },
+  {
+    "CO_MUNICIPIO": 2907509,
+    "NO_MUNICIPIO": "Catu",
+    "CO_MICRORREGIAO": 29019
+  },
+  {
+    "CO_MUNICIPIO": 2907558,
+    "NO_MUNICIPIO": "Caturama",
+    "CO_MICRORREGIAO": 29022
+  },
+  {
+    "CO_MUNICIPIO": 2907608,
+    "NO_MUNICIPIO": "Central",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2907707,
+    "NO_MUNICIPIO": "Chorrochó",
+    "CO_MICRORREGIAO": 29005
+  },
+  {
+    "CO_MUNICIPIO": 2907806,
+    "NO_MUNICIPIO": "Cícero Dantas",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2907905,
+    "NO_MUNICIPIO": "Cipó",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2908002,
+    "NO_MUNICIPIO": "Coaraci",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2908101,
+    "NO_MUNICIPIO": "Cocos",
+    "CO_MICRORREGIAO": 29003
+  },
+  {
+    "CO_MUNICIPIO": 2908200,
+    "NO_MUNICIPIO": "Conceição da Feira",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2908309,
+    "NO_MUNICIPIO": "Conceição do Almeida",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2908408,
+    "NO_MUNICIPIO": "Conceição do Coité",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2908507,
+    "NO_MUNICIPIO": "Conceição do Jacuípe",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2908606,
+    "NO_MUNICIPIO": "Conde",
+    "CO_MICRORREGIAO": 29018
+  },
+  {
+    "CO_MUNICIPIO": 2908705,
+    "NO_MUNICIPIO": "Condeúba",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2908804,
+    "NO_MUNICIPIO": "Contendas do Sincorá",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2908903,
+    "NO_MUNICIPIO": "Coração de Maria",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2909000,
+    "NO_MUNICIPIO": "Cordeiros",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2909109,
+    "NO_MUNICIPIO": "Coribe",
+    "CO_MICRORREGIAO": 29003
+  },
+  {
+    "CO_MUNICIPIO": 2909208,
+    "NO_MUNICIPIO": "Coronel João Sá",
+    "CO_MICRORREGIAO": 29013
+  },
+  {
+    "CO_MUNICIPIO": 2909307,
+    "NO_MUNICIPIO": "Correntina",
+    "CO_MICRORREGIAO": 29003
+  },
+  {
+    "CO_MUNICIPIO": 2909406,
+    "NO_MUNICIPIO": "Cotegipe",
+    "CO_MICRORREGIAO": 29002
+  },
+  {
+    "CO_MUNICIPIO": 2909505,
+    "NO_MUNICIPIO": "Cravolândia",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2909604,
+    "NO_MUNICIPIO": "Crisópolis",
+    "CO_MICRORREGIAO": 29017
+  },
+  {
+    "CO_MUNICIPIO": 2909703,
+    "NO_MUNICIPIO": "Cristópolis",
+    "CO_MICRORREGIAO": 29002
+  },
+  {
+    "CO_MUNICIPIO": 2909802,
+    "NO_MUNICIPIO": "Cruz das Almas",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2909901,
+    "NO_MUNICIPIO": "Curaçá",
+    "CO_MICRORREGIAO": 29004
+  },
+  {
+    "CO_MUNICIPIO": 2910008,
+    "NO_MUNICIPIO": "Dário Meira",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2910057,
+    "NO_MUNICIPIO": "Dias d'Ávila",
+    "CO_MICRORREGIAO": 29021
+  },
+  {
+    "CO_MUNICIPIO": 2910107,
+    "NO_MUNICIPIO": "Dom Basílio",
+    "CO_MICRORREGIAO": 29025
+  },
+  {
+    "CO_MUNICIPIO": 2910206,
+    "NO_MUNICIPIO": "Dom Macedo Costa",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2910305,
+    "NO_MUNICIPIO": "Elísio Medrado",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2910404,
+    "NO_MUNICIPIO": "Encruzilhada",
+    "CO_MICRORREGIAO": 29029
+  },
+  {
+    "CO_MUNICIPIO": 2910503,
+    "NO_MUNICIPIO": "Entre Rios",
+    "CO_MICRORREGIAO": 29018
+  },
+  {
+    "CO_MUNICIPIO": 2910602,
+    "NO_MUNICIPIO": "Esplanada",
+    "CO_MICRORREGIAO": 29018
+  },
+  {
+    "CO_MUNICIPIO": 2910701,
+    "NO_MUNICIPIO": "Euclides da Cunha",
+    "CO_MICRORREGIAO": 29014
+  },
+  {
+    "CO_MUNICIPIO": 2910727,
+    "NO_MUNICIPIO": "Eunápolis",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2910750,
+    "NO_MUNICIPIO": "Fátima",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2910776,
+    "NO_MUNICIPIO": "Feira da Mata",
+    "CO_MICRORREGIAO": 29007
+  },
+  {
+    "CO_MUNICIPIO": 2910800,
+    "NO_MUNICIPIO": "Feira de Santana",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2910859,
+    "NO_MUNICIPIO": "Filadélfia",
+    "CO_MICRORREGIAO": 29008
+  },
+  {
+    "CO_MUNICIPIO": 2910909,
+    "NO_MUNICIPIO": "Firmino Alves",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2911006,
+    "NO_MUNICIPIO": "Floresta Azul",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2911105,
+    "NO_MUNICIPIO": "Formosa do Rio Preto",
+    "CO_MICRORREGIAO": 29001
+  },
+  {
+    "CO_MUNICIPIO": 2911204,
+    "NO_MUNICIPIO": "Gandu",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2911253,
+    "NO_MUNICIPIO": "Gavião",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2911303,
+    "NO_MUNICIPIO": "Gentio do Ouro",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2911402,
+    "NO_MUNICIPIO": "Glória",
+    "CO_MICRORREGIAO": 29005
+  },
+  {
+    "CO_MUNICIPIO": 2911501,
+    "NO_MUNICIPIO": "Gongogi",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2911600,
+    "NO_MUNICIPIO": "Governador Mangabeira",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2911659,
+    "NO_MUNICIPIO": "Guajeru",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2911709,
+    "NO_MUNICIPIO": "Guanambi",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2911808,
+    "NO_MUNICIPIO": "Guaratinga",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2911857,
+    "NO_MUNICIPIO": "Heliópolis",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2911907,
+    "NO_MUNICIPIO": "Iaçu",
+    "CO_MICRORREGIAO": 29011
+  },
+  {
+    "CO_MUNICIPIO": 2912004,
+    "NO_MUNICIPIO": "Ibiassucê",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2912103,
+    "NO_MUNICIPIO": "Ibicaraí",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2912202,
+    "NO_MUNICIPIO": "Ibicoara",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2912301,
+    "NO_MUNICIPIO": "Ibicuí",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2912400,
+    "NO_MUNICIPIO": "Ibipeba",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2912509,
+    "NO_MUNICIPIO": "Ibipitanga",
+    "CO_MICRORREGIAO": 29022
+  },
+  {
+    "CO_MUNICIPIO": 2912608,
+    "NO_MUNICIPIO": "Ibiquera",
+    "CO_MICRORREGIAO": 29011
+  },
+  {
+    "CO_MUNICIPIO": 2912707,
+    "NO_MUNICIPIO": "Ibirapitanga",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2912806,
+    "NO_MUNICIPIO": "Ibirapuã",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2912905,
+    "NO_MUNICIPIO": "Ibirataia",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2913002,
+    "NO_MUNICIPIO": "Ibitiara",
+    "CO_MICRORREGIAO": 29022
+  },
+  {
+    "CO_MUNICIPIO": 2913101,
+    "NO_MUNICIPIO": "Ibititá",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2913200,
+    "NO_MUNICIPIO": "Ibotirama",
+    "CO_MICRORREGIAO": 29006
+  },
+  {
+    "CO_MUNICIPIO": 2913309,
+    "NO_MUNICIPIO": "Ichu",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2913408,
+    "NO_MUNICIPIO": "Igaporã",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2913457,
+    "NO_MUNICIPIO": "Igrapiúna",
+    "CO_MICRORREGIAO": 29030
+  },
+  {
+    "CO_MUNICIPIO": 2913507,
+    "NO_MUNICIPIO": "Iguaí",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2913606,
+    "NO_MUNICIPIO": "Ilhéus",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2913705,
+    "NO_MUNICIPIO": "Inhambupe",
+    "CO_MICRORREGIAO": 29017
+  },
+  {
+    "CO_MUNICIPIO": 2913804,
+    "NO_MUNICIPIO": "Ipecaetá",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2913903,
+    "NO_MUNICIPIO": "Ipiaú",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2914000,
+    "NO_MUNICIPIO": "Ipirá",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2914109,
+    "NO_MUNICIPIO": "Ipupiara",
+    "CO_MICRORREGIAO": 29022
+  },
+  {
+    "CO_MUNICIPIO": 2914208,
+    "NO_MUNICIPIO": "Irajuba",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2914307,
+    "NO_MUNICIPIO": "Iramaia",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2914406,
+    "NO_MUNICIPIO": "Iraquara",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2914505,
+    "NO_MUNICIPIO": "Irará",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2914604,
+    "NO_MUNICIPIO": "Irecê",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2914653,
+    "NO_MUNICIPIO": "Itabela",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2914703,
+    "NO_MUNICIPIO": "Itaberaba",
+    "CO_MICRORREGIAO": 29011
+  },
+  {
+    "CO_MUNICIPIO": 2914802,
+    "NO_MUNICIPIO": "Itabuna",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2914901,
+    "NO_MUNICIPIO": "Itacaré",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2915007,
+    "NO_MUNICIPIO": "Itaeté",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2915106,
+    "NO_MUNICIPIO": "Itagi",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2915205,
+    "NO_MUNICIPIO": "Itagibá",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2915304,
+    "NO_MUNICIPIO": "Itagimirim",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2915353,
+    "NO_MUNICIPIO": "Itaguaçu da Bahia",
+    "CO_MICRORREGIAO": 29006
+  },
+  {
+    "CO_MUNICIPIO": 2915403,
+    "NO_MUNICIPIO": "Itaju do Colônia",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2915502,
+    "NO_MUNICIPIO": "Itajuípe",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2915601,
+    "NO_MUNICIPIO": "Itamaraju",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2915700,
+    "NO_MUNICIPIO": "Itamari",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2915809,
+    "NO_MUNICIPIO": "Itambé",
+    "CO_MICRORREGIAO": 29029
+  },
+  {
+    "CO_MUNICIPIO": 2915908,
+    "NO_MUNICIPIO": "Itanagra",
+    "CO_MICRORREGIAO": 29019
+  },
+  {
+    "CO_MUNICIPIO": 2916005,
+    "NO_MUNICIPIO": "Itanhém",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2916104,
+    "NO_MUNICIPIO": "Itaparica",
+    "CO_MICRORREGIAO": 29021
+  },
+  {
+    "CO_MUNICIPIO": 2916203,
+    "NO_MUNICIPIO": "Itapé",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2916302,
+    "NO_MUNICIPIO": "Itapebi",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2916401,
+    "NO_MUNICIPIO": "Itapetinga",
+    "CO_MICRORREGIAO": 29029
+  },
+  {
+    "CO_MUNICIPIO": 2916500,
+    "NO_MUNICIPIO": "Itapicuru",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2916609,
+    "NO_MUNICIPIO": "Itapitanga",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2916708,
+    "NO_MUNICIPIO": "Itaquara",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2916807,
+    "NO_MUNICIPIO": "Itarantim",
+    "CO_MICRORREGIAO": 29029
+  },
+  {
+    "CO_MUNICIPIO": 2916856,
+    "NO_MUNICIPIO": "Itatim",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2916906,
+    "NO_MUNICIPIO": "Itiruçu",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2917003,
+    "NO_MUNICIPIO": "Itiúba",
+    "CO_MICRORREGIAO": 29008
+  },
+  {
+    "CO_MUNICIPIO": 2917102,
+    "NO_MUNICIPIO": "Itororó",
+    "CO_MICRORREGIAO": 29029
+  },
+  {
+    "CO_MUNICIPIO": 2917201,
+    "NO_MUNICIPIO": "Ituaçu",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2917300,
+    "NO_MUNICIPIO": "Ituberá",
+    "CO_MICRORREGIAO": 29030
+  },
+  {
+    "CO_MUNICIPIO": 2917334,
+    "NO_MUNICIPIO": "Iuiu",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2917359,
+    "NO_MUNICIPIO": "Jaborandi",
+    "CO_MICRORREGIAO": 29003
+  },
+  {
+    "CO_MUNICIPIO": 2917409,
+    "NO_MUNICIPIO": "Jacaraci",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2917508,
+    "NO_MUNICIPIO": "Jacobina",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2917607,
+    "NO_MUNICIPIO": "Jaguaquara",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2917706,
+    "NO_MUNICIPIO": "Jaguarari",
+    "CO_MICRORREGIAO": 29008
+  },
+  {
+    "CO_MUNICIPIO": 2917805,
+    "NO_MUNICIPIO": "Jaguaripe",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2917904,
+    "NO_MUNICIPIO": "Jandaíra",
+    "CO_MICRORREGIAO": 29018
+  },
+  {
+    "CO_MUNICIPIO": 2918001,
+    "NO_MUNICIPIO": "Jequié",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2918100,
+    "NO_MUNICIPIO": "Jeremoabo",
+    "CO_MICRORREGIAO": 29013
+  },
+  {
+    "CO_MUNICIPIO": 2918209,
+    "NO_MUNICIPIO": "Jiquiriçá",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2918308,
+    "NO_MUNICIPIO": "Jitaúna",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2918357,
+    "NO_MUNICIPIO": "João Dourado",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2918407,
+    "NO_MUNICIPIO": "Juazeiro",
+    "CO_MICRORREGIAO": 29004
+  },
+  {
+    "CO_MUNICIPIO": 2918456,
+    "NO_MUNICIPIO": "Jucuruçu",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2918506,
+    "NO_MUNICIPIO": "Jussara",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2918555,
+    "NO_MUNICIPIO": "Jussari",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2918605,
+    "NO_MUNICIPIO": "Jussiape",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2918704,
+    "NO_MUNICIPIO": "Lafaiete Coutinho",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2918753,
+    "NO_MUNICIPIO": "Lagoa Real",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2918803,
+    "NO_MUNICIPIO": "Laje",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2918902,
+    "NO_MUNICIPIO": "Lajedão",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2919009,
+    "NO_MUNICIPIO": "Lajedinho",
+    "CO_MICRORREGIAO": 29011
+  },
+  {
+    "CO_MUNICIPIO": 2919058,
+    "NO_MUNICIPIO": "Lajedo do Tabocal",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2919108,
+    "NO_MUNICIPIO": "Lamarão",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2919157,
+    "NO_MUNICIPIO": "Lapão",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2919207,
+    "NO_MUNICIPIO": "Lauro de Freitas",
+    "CO_MICRORREGIAO": 29021
+  },
+  {
+    "CO_MUNICIPIO": 2919306,
+    "NO_MUNICIPIO": "Lençóis",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2919405,
+    "NO_MUNICIPIO": "Licínio de Almeida",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2919504,
+    "NO_MUNICIPIO": "Livramento de Nossa Senhora",
+    "CO_MICRORREGIAO": 29025
+  },
+  {
+    "CO_MUNICIPIO": 2919553,
+    "NO_MUNICIPIO": "Luís Eduardo Magalhães",
+    "CO_MICRORREGIAO": 29001
+  },
+  {
+    "CO_MUNICIPIO": 2919603,
+    "NO_MUNICIPIO": "Macajuba",
+    "CO_MICRORREGIAO": 29011
+  },
+  {
+    "CO_MUNICIPIO": 2919702,
+    "NO_MUNICIPIO": "Macarani",
+    "CO_MICRORREGIAO": 29029
+  },
+  {
+    "CO_MUNICIPIO": 2919801,
+    "NO_MUNICIPIO": "Macaúbas",
+    "CO_MICRORREGIAO": 29022
+  },
+  {
+    "CO_MUNICIPIO": 2919900,
+    "NO_MUNICIPIO": "Macururé",
+    "CO_MICRORREGIAO": 29005
+  },
+  {
+    "CO_MUNICIPIO": 2919926,
+    "NO_MUNICIPIO": "Madre de Deus",
+    "CO_MICRORREGIAO": 29021
+  },
+  {
+    "CO_MUNICIPIO": 2919959,
+    "NO_MUNICIPIO": "Maetinga",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2920007,
+    "NO_MUNICIPIO": "Maiquinique",
+    "CO_MICRORREGIAO": 29029
+  },
+  {
+    "CO_MUNICIPIO": 2920106,
+    "NO_MUNICIPIO": "Mairi",
+    "CO_MICRORREGIAO": 29011
+  },
+  {
+    "CO_MUNICIPIO": 2920205,
+    "NO_MUNICIPIO": "Malhada",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2920304,
+    "NO_MUNICIPIO": "Malhada de Pedras",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2920403,
+    "NO_MUNICIPIO": "Manoel Vitorino",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2920452,
+    "NO_MUNICIPIO": "Mansidão",
+    "CO_MICRORREGIAO": 29002
+  },
+  {
+    "CO_MUNICIPIO": 2920502,
+    "NO_MUNICIPIO": "Maracás",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2920601,
+    "NO_MUNICIPIO": "Maragogipe",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2920700,
+    "NO_MUNICIPIO": "Maraú",
+    "CO_MICRORREGIAO": 29030
+  },
+  {
+    "CO_MUNICIPIO": 2920809,
+    "NO_MUNICIPIO": "Marcionílio Souza",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2920908,
+    "NO_MUNICIPIO": "Mascote",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2921005,
+    "NO_MUNICIPIO": "Mata de São João",
+    "CO_MICRORREGIAO": 29019
+  },
+  {
+    "CO_MUNICIPIO": 2921054,
+    "NO_MUNICIPIO": "Matina",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2921104,
+    "NO_MUNICIPIO": "Medeiros Neto",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2921203,
+    "NO_MUNICIPIO": "Miguel Calmon",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2921302,
+    "NO_MUNICIPIO": "Milagres",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2921401,
+    "NO_MUNICIPIO": "Mirangaba",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2921450,
+    "NO_MUNICIPIO": "Mirante",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2921500,
+    "NO_MUNICIPIO": "Monte Santo",
+    "CO_MICRORREGIAO": 29014
+  },
+  {
+    "CO_MUNICIPIO": 2921609,
+    "NO_MUNICIPIO": "Morpará",
+    "CO_MICRORREGIAO": 29006
+  },
+  {
+    "CO_MUNICIPIO": 2921708,
+    "NO_MUNICIPIO": "Morro do Chapéu",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2921807,
+    "NO_MUNICIPIO": "Mortugaba",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2921906,
+    "NO_MUNICIPIO": "Mucugê",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2922003,
+    "NO_MUNICIPIO": "Mucuri",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2922052,
+    "NO_MUNICIPIO": "Mulungu do Morro",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2922102,
+    "NO_MUNICIPIO": "Mundo Novo",
+    "CO_MICRORREGIAO": 29011
+  },
+  {
+    "CO_MUNICIPIO": 2922201,
+    "NO_MUNICIPIO": "Muniz Ferreira",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2922250,
+    "NO_MUNICIPIO": "Muquém do São Francisco",
+    "CO_MICRORREGIAO": 29006
+  },
+  {
+    "CO_MUNICIPIO": 2922300,
+    "NO_MUNICIPIO": "Muritiba",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2922409,
+    "NO_MUNICIPIO": "Mutuípe",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2922508,
+    "NO_MUNICIPIO": "Nazaré",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2922607,
+    "NO_MUNICIPIO": "Nilo Peçanha",
+    "CO_MICRORREGIAO": 29030
+  },
+  {
+    "CO_MUNICIPIO": 2922656,
+    "NO_MUNICIPIO": "Nordestina",
+    "CO_MICRORREGIAO": 29014
+  },
+  {
+    "CO_MUNICIPIO": 2922706,
+    "NO_MUNICIPIO": "Nova Canaã",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2922730,
+    "NO_MUNICIPIO": "Nova Fátima",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2922755,
+    "NO_MUNICIPIO": "Nova Ibiá",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2922805,
+    "NO_MUNICIPIO": "Nova Itarana",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2922854,
+    "NO_MUNICIPIO": "Nova Redenção",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2922904,
+    "NO_MUNICIPIO": "Nova Soure",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2923001,
+    "NO_MUNICIPIO": "Nova Viçosa",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2923035,
+    "NO_MUNICIPIO": "Novo Horizonte",
+    "CO_MICRORREGIAO": 29022
+  },
+  {
+    "CO_MUNICIPIO": 2923050,
+    "NO_MUNICIPIO": "Novo Triunfo",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2923100,
+    "NO_MUNICIPIO": "Olindina",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2923209,
+    "NO_MUNICIPIO": "Oliveira dos Brejinhos",
+    "CO_MICRORREGIAO": 29022
+  },
+  {
+    "CO_MUNICIPIO": 2923308,
+    "NO_MUNICIPIO": "Ouriçangas",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2923357,
+    "NO_MUNICIPIO": "Ourolândia",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2923407,
+    "NO_MUNICIPIO": "Palmas de Monte Alto",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2923506,
+    "NO_MUNICIPIO": "Palmeiras",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2923605,
+    "NO_MUNICIPIO": "Paramirim",
+    "CO_MICRORREGIAO": 29025
+  },
+  {
+    "CO_MUNICIPIO": 2923704,
+    "NO_MUNICIPIO": "Paratinga",
+    "CO_MICRORREGIAO": 29007
+  },
+  {
+    "CO_MUNICIPIO": 2923803,
+    "NO_MUNICIPIO": "Paripiranga",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2923902,
+    "NO_MUNICIPIO": "Pau Brasil",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2924009,
+    "NO_MUNICIPIO": "Paulo Afonso",
+    "CO_MICRORREGIAO": 29005
+  },
+  {
+    "CO_MUNICIPIO": 2924058,
+    "NO_MUNICIPIO": "Pé de Serra",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2924108,
+    "NO_MUNICIPIO": "Pedrão",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2924207,
+    "NO_MUNICIPIO": "Pedro Alexandre",
+    "CO_MICRORREGIAO": 29013
+  },
+  {
+    "CO_MUNICIPIO": 2924306,
+    "NO_MUNICIPIO": "Piatã",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2924405,
+    "NO_MUNICIPIO": "Pilão Arcado",
+    "CO_MICRORREGIAO": 29004
+  },
+  {
+    "CO_MUNICIPIO": 2924504,
+    "NO_MUNICIPIO": "Pindaí",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2924603,
+    "NO_MUNICIPIO": "Pindobaçu",
+    "CO_MICRORREGIAO": 29008
+  },
+  {
+    "CO_MUNICIPIO": 2924652,
+    "NO_MUNICIPIO": "Pintadas",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2924678,
+    "NO_MUNICIPIO": "Piraí do Norte",
+    "CO_MICRORREGIAO": 29030
+  },
+  {
+    "CO_MUNICIPIO": 2924702,
+    "NO_MUNICIPIO": "Piripá",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2924801,
+    "NO_MUNICIPIO": "Piritiba",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2924900,
+    "NO_MUNICIPIO": "Planaltino",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2925006,
+    "NO_MUNICIPIO": "Planalto",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2925105,
+    "NO_MUNICIPIO": "Poções",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2925204,
+    "NO_MUNICIPIO": "Pojuca",
+    "CO_MICRORREGIAO": 29019
+  },
+  {
+    "CO_MUNICIPIO": 2925253,
+    "NO_MUNICIPIO": "Ponto Novo",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2925303,
+    "NO_MUNICIPIO": "Porto Seguro",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2925402,
+    "NO_MUNICIPIO": "Potiraguá",
+    "CO_MICRORREGIAO": 29029
+  },
+  {
+    "CO_MUNICIPIO": 2925501,
+    "NO_MUNICIPIO": "Prado",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2925600,
+    "NO_MUNICIPIO": "Presidente Dutra",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2925709,
+    "NO_MUNICIPIO": "Presidente Jânio Quadros",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2925758,
+    "NO_MUNICIPIO": "Presidente Tancredo Neves",
+    "CO_MICRORREGIAO": 29030
+  },
+  {
+    "CO_MUNICIPIO": 2925808,
+    "NO_MUNICIPIO": "Queimadas",
+    "CO_MICRORREGIAO": 29014
+  },
+  {
+    "CO_MUNICIPIO": 2925907,
+    "NO_MUNICIPIO": "Quijingue",
+    "CO_MICRORREGIAO": 29014
+  },
+  {
+    "CO_MUNICIPIO": 2925931,
+    "NO_MUNICIPIO": "Quixabeira",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2925956,
+    "NO_MUNICIPIO": "Rafael Jambeiro",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2926004,
+    "NO_MUNICIPIO": "Remanso",
+    "CO_MICRORREGIAO": 29004
+  },
+  {
+    "CO_MUNICIPIO": 2926103,
+    "NO_MUNICIPIO": "Retirolândia",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2926202,
+    "NO_MUNICIPIO": "Riachão das Neves",
+    "CO_MICRORREGIAO": 29001
+  },
+  {
+    "CO_MUNICIPIO": 2926301,
+    "NO_MUNICIPIO": "Riachão do Jacuípe",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2926400,
+    "NO_MUNICIPIO": "Riacho de Santana",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2926509,
+    "NO_MUNICIPIO": "Ribeira do Amparo",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2926608,
+    "NO_MUNICIPIO": "Ribeira do Pombal",
+    "CO_MICRORREGIAO": 29015
+  },
+  {
+    "CO_MUNICIPIO": 2926657,
+    "NO_MUNICIPIO": "Ribeirão do Largo",
+    "CO_MICRORREGIAO": 29029
+  },
+  {
+    "CO_MUNICIPIO": 2926707,
+    "NO_MUNICIPIO": "Rio de Contas",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2926806,
+    "NO_MUNICIPIO": "Rio do Antônio",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2926905,
+    "NO_MUNICIPIO": "Rio do Pires",
+    "CO_MICRORREGIAO": 29025
+  },
+  {
+    "CO_MUNICIPIO": 2927002,
+    "NO_MUNICIPIO": "Rio Real",
+    "CO_MICRORREGIAO": 29017
+  },
+  {
+    "CO_MUNICIPIO": 2927101,
+    "NO_MUNICIPIO": "Rodelas",
+    "CO_MICRORREGIAO": 29005
+  },
+  {
+    "CO_MUNICIPIO": 2927200,
+    "NO_MUNICIPIO": "Ruy Barbosa",
+    "CO_MICRORREGIAO": 29011
+  },
+  {
+    "CO_MUNICIPIO": 2927309,
+    "NO_MUNICIPIO": "Salinas da Margarida",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2927408,
+    "NO_MUNICIPIO": "Salvador",
+    "CO_MICRORREGIAO": 29021
+  },
+  {
+    "CO_MUNICIPIO": 2927507,
+    "NO_MUNICIPIO": "Santa Bárbara",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2927606,
+    "NO_MUNICIPIO": "Santa Brígida",
+    "CO_MICRORREGIAO": 29013
+  },
+  {
+    "CO_MUNICIPIO": 2927705,
+    "NO_MUNICIPIO": "Santa Cruz Cabrália",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2927804,
+    "NO_MUNICIPIO": "Santa Cruz da Vitória",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2927903,
+    "NO_MUNICIPIO": "Santa Inês",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2928000,
+    "NO_MUNICIPIO": "Santaluz",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2928059,
+    "NO_MUNICIPIO": "Santa Luzia",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2928109,
+    "NO_MUNICIPIO": "Santa Maria da Vitória",
+    "CO_MICRORREGIAO": 29003
+  },
+  {
+    "CO_MUNICIPIO": 2928208,
+    "NO_MUNICIPIO": "Santana",
+    "CO_MICRORREGIAO": 29003
+  },
+  {
+    "CO_MUNICIPIO": 2928307,
+    "NO_MUNICIPIO": "Santanópolis",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2928406,
+    "NO_MUNICIPIO": "Santa Rita de Cássia",
+    "CO_MICRORREGIAO": 29002
+  },
+  {
+    "CO_MUNICIPIO": 2928505,
+    "NO_MUNICIPIO": "Santa Terezinha",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2928604,
+    "NO_MUNICIPIO": "Santo Amaro",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2928703,
+    "NO_MUNICIPIO": "Santo Antônio de Jesus",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2928802,
+    "NO_MUNICIPIO": "Santo Estêvão",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2928901,
+    "NO_MUNICIPIO": "São Desidério",
+    "CO_MICRORREGIAO": 29001
+  },
+  {
+    "CO_MUNICIPIO": 2928950,
+    "NO_MUNICIPIO": "São Domingos",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2929008,
+    "NO_MUNICIPIO": "São Félix",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2929057,
+    "NO_MUNICIPIO": "São Félix do Coribe",
+    "CO_MICRORREGIAO": 29003
+  },
+  {
+    "CO_MUNICIPIO": 2929107,
+    "NO_MUNICIPIO": "São Felipe",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2929206,
+    "NO_MUNICIPIO": "São Francisco do Conde",
+    "CO_MICRORREGIAO": 29021
+  },
+  {
+    "CO_MUNICIPIO": 2929255,
+    "NO_MUNICIPIO": "São Gabriel",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2929305,
+    "NO_MUNICIPIO": "São Gonçalo dos Campos",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2929354,
+    "NO_MUNICIPIO": "São José da Vitória",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2929370,
+    "NO_MUNICIPIO": "São José do Jacuípe",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2929404,
+    "NO_MUNICIPIO": "São Miguel das Matas",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2929503,
+    "NO_MUNICIPIO": "São Sebastião do Passé",
+    "CO_MICRORREGIAO": 29019
+  },
+  {
+    "CO_MUNICIPIO": 2929602,
+    "NO_MUNICIPIO": "Sapeaçu",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2929701,
+    "NO_MUNICIPIO": "Sátiro Dias",
+    "CO_MICRORREGIAO": 29017
+  },
+  {
+    "CO_MUNICIPIO": 2929750,
+    "NO_MUNICIPIO": "Saubara",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2929800,
+    "NO_MUNICIPIO": "Saúde",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2929909,
+    "NO_MUNICIPIO": "Seabra",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2930006,
+    "NO_MUNICIPIO": "Sebastião Laranjeiras",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2930105,
+    "NO_MUNICIPIO": "Senhor do Bonfim",
+    "CO_MICRORREGIAO": 29008
+  },
+  {
+    "CO_MUNICIPIO": 2930154,
+    "NO_MUNICIPIO": "Serra do Ramalho",
+    "CO_MICRORREGIAO": 29007
+  },
+  {
+    "CO_MUNICIPIO": 2930204,
+    "NO_MUNICIPIO": "Sento Sé",
+    "CO_MICRORREGIAO": 29004
+  },
+  {
+    "CO_MUNICIPIO": 2930303,
+    "NO_MUNICIPIO": "Serra Dourada",
+    "CO_MICRORREGIAO": 29003
+  },
+  {
+    "CO_MUNICIPIO": 2930402,
+    "NO_MUNICIPIO": "Serra Preta",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2930501,
+    "NO_MUNICIPIO": "Serrinha",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2930600,
+    "NO_MUNICIPIO": "Serrolândia",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2930709,
+    "NO_MUNICIPIO": "Simões Filho",
+    "CO_MICRORREGIAO": 29021
+  },
+  {
+    "CO_MUNICIPIO": 2930758,
+    "NO_MUNICIPIO": "Sítio do Mato",
+    "CO_MICRORREGIAO": 29007
+  },
+  {
+    "CO_MUNICIPIO": 2930766,
+    "NO_MUNICIPIO": "Sítio do Quinto",
+    "CO_MICRORREGIAO": 29013
+  },
+  {
+    "CO_MUNICIPIO": 2930774,
+    "NO_MUNICIPIO": "Sobradinho",
+    "CO_MICRORREGIAO": 29004
+  },
+  {
+    "CO_MUNICIPIO": 2930808,
+    "NO_MUNICIPIO": "Souto Soares",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2930907,
+    "NO_MUNICIPIO": "Tabocas do Brejo Velho",
+    "CO_MICRORREGIAO": 29002
+  },
+  {
+    "CO_MUNICIPIO": 2931004,
+    "NO_MUNICIPIO": "Tanhaçu",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2931053,
+    "NO_MUNICIPIO": "Tanque Novo",
+    "CO_MICRORREGIAO": 29022
+  },
+  {
+    "CO_MUNICIPIO": 2931103,
+    "NO_MUNICIPIO": "Tanquinho",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2931202,
+    "NO_MUNICIPIO": "Taperoá",
+    "CO_MICRORREGIAO": 29030
+  },
+  {
+    "CO_MUNICIPIO": 2931301,
+    "NO_MUNICIPIO": "Tapiramutá",
+    "CO_MICRORREGIAO": 29011
+  },
+  {
+    "CO_MUNICIPIO": 2931350,
+    "NO_MUNICIPIO": "Teixeira de Freitas",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2931400,
+    "NO_MUNICIPIO": "Teodoro Sampaio",
+    "CO_MICRORREGIAO": 29012
+  },
+  {
+    "CO_MUNICIPIO": 2931509,
+    "NO_MUNICIPIO": "Teofilândia",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2931608,
+    "NO_MUNICIPIO": "Teolândia",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2931707,
+    "NO_MUNICIPIO": "Terra Nova",
+    "CO_MICRORREGIAO": 29019
+  },
+  {
+    "CO_MUNICIPIO": 2931806,
+    "NO_MUNICIPIO": "Tremedal",
+    "CO_MICRORREGIAO": 29027
+  },
+  {
+    "CO_MUNICIPIO": 2931905,
+    "NO_MUNICIPIO": "Tucano",
+    "CO_MICRORREGIAO": 29014
+  },
+  {
+    "CO_MUNICIPIO": 2932002,
+    "NO_MUNICIPIO": "Uauá",
+    "CO_MICRORREGIAO": 29014
+  },
+  {
+    "CO_MUNICIPIO": 2932101,
+    "NO_MUNICIPIO": "Ubaíra",
+    "CO_MICRORREGIAO": 29024
+  },
+  {
+    "CO_MUNICIPIO": 2932200,
+    "NO_MUNICIPIO": "Ubaitaba",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2932309,
+    "NO_MUNICIPIO": "Ubatã",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2932408,
+    "NO_MUNICIPIO": "Uibaí",
+    "CO_MICRORREGIAO": 29009
+  },
+  {
+    "CO_MUNICIPIO": 2932457,
+    "NO_MUNICIPIO": "Umburanas",
+    "CO_MICRORREGIAO": 29008
+  },
+  {
+    "CO_MUNICIPIO": 2932507,
+    "NO_MUNICIPIO": "Una",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2932606,
+    "NO_MUNICIPIO": "Urandi",
+    "CO_MICRORREGIAO": 29026
+  },
+  {
+    "CO_MUNICIPIO": 2932705,
+    "NO_MUNICIPIO": "Uruçuca",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2932804,
+    "NO_MUNICIPIO": "Utinga",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2932903,
+    "NO_MUNICIPIO": "Valença",
+    "CO_MICRORREGIAO": 29030
+  },
+  {
+    "CO_MUNICIPIO": 2933000,
+    "NO_MUNICIPIO": "Valente",
+    "CO_MICRORREGIAO": 29016
+  },
+  {
+    "CO_MUNICIPIO": 2933059,
+    "NO_MUNICIPIO": "Várzea da Roça",
+    "CO_MICRORREGIAO": 29011
+  },
+  {
+    "CO_MUNICIPIO": 2933109,
+    "NO_MUNICIPIO": "Várzea do Poço",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2933158,
+    "NO_MUNICIPIO": "Várzea Nova",
+    "CO_MICRORREGIAO": 29010
+  },
+  {
+    "CO_MUNICIPIO": 2933174,
+    "NO_MUNICIPIO": "Varzedo",
+    "CO_MICRORREGIAO": 29020
+  },
+  {
+    "CO_MUNICIPIO": 2933208,
+    "NO_MUNICIPIO": "Vera Cruz",
+    "CO_MICRORREGIAO": 29021
+  },
+  {
+    "CO_MUNICIPIO": 2933257,
+    "NO_MUNICIPIO": "Vereda",
+    "CO_MICRORREGIAO": 29032
+  },
+  {
+    "CO_MUNICIPIO": 2933307,
+    "NO_MUNICIPIO": "Vitória da Conquista",
+    "CO_MICRORREGIAO": 29028
+  },
+  {
+    "CO_MUNICIPIO": 2933406,
+    "NO_MUNICIPIO": "Wagner",
+    "CO_MICRORREGIAO": 29023
+  },
+  {
+    "CO_MUNICIPIO": 2933455,
+    "NO_MUNICIPIO": "Wanderley",
+    "CO_MICRORREGIAO": 29002
+  },
+  {
+    "CO_MUNICIPIO": 2933505,
+    "NO_MUNICIPIO": "Wenceslau Guimarães",
+    "CO_MICRORREGIAO": 29031
+  },
+  {
+    "CO_MUNICIPIO": 2933604,
+    "NO_MUNICIPIO": "Xique-Xique",
+    "CO_MICRORREGIAO": 29006
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "CO_UF": 21,
+    "SG_UF": "MA",
+    "NO_UF": "Maranhão"
+  },
+  {
+    "CO_UF": 22,
+    "SG_UF": "PI",
+    "NO_UF": "Piauí"
+  },
+  {
+    "CO_UF": 23,
+    "SG_UF": "CE",
+    "NO_UF": "Ceará"
+  },
+  {
+    "CO_UF": 24,
+    "SG_UF": "RN",
+    "NO_UF": "Rio Grande do Norte"
+  },
+  {
+    "CO_UF": 25,
+    "SG_UF": "PB",
+    "NO_UF": "Paraíba"
+  },
+  {
+    "CO_UF": 26,
+    "SG_UF": "PE",
+    "NO_UF": "Pernambuco"
+  },
+  {
+    "CO_UF": 27,
+    "SG_UF": "AL",
+    "NO_UF": "Alagoas"
+  },
+  {
+    "CO_UF": 28,
+    "SG_UF": "SE",
+    "NO_UF": "Sergipe"
+  },
+  {
+    "CO_UF": 29,
+    "SG_UF": "BA",
+    "NO_UF": "Bahia"
+  }
+]
