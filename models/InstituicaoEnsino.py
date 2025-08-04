@@ -3,6 +3,7 @@ from flask_restful import fields as flaskFields
 
 
 instiuicao_fields = {
+    'NU_ANO_CENSO': flaskFields.Integer,
     'NO_REGIAO': flaskFields.String,
     'CO_REGIAO': flaskFields.Integer,
     'NO_UF': flaskFields.String,
@@ -24,11 +25,17 @@ instiuicao_fields = {
 }
 
 
+def validate_positive(value):
+    if value < 0:
+        raise ValidationError("O valor deve ser um número inteiro não negativo.")
+
+
 class InstituicaoEnsino:
-    def __init__(self, NO_REGIAO, CO_REGIAO, NO_UF, SG_UF, CO_UF,
-                 NO_MUNICIPIO, CO_MUNICIPIO, CO_MESORREGIAO,
-                 CO_MICRORREGIAO, NO_ENTIDADE, CO_ENTIDADE, QT_MAT_BAS, QT_MAT_EJA, QT_MAT_ESP,
+    def __init__(self, NU_ANO_CENSO, NO_REGIAO, CO_REGIAO, NO_UF, SG_UF, CO_UF,
+                 NO_MUNICIPIO, CO_MUNICIPIO, CO_MESORREGIAO, CO_MICRORREGIAO,
+                 NO_ENTIDADE, CO_ENTIDADE, QT_MAT_BAS, QT_MAT_EJA, QT_MAT_ESP,
                  QT_MAT_FUND, QT_MAT_INF, QT_MAT_MED, QT_MAT_PROF):
+        self.NU_ANO_CENSO = NU_ANO_CENSO
         self.NO_REGIAO = NO_REGIAO
         self.CO_REGIAO = CO_REGIAO
         self.NO_UF = NO_UF
@@ -50,16 +57,21 @@ class InstituicaoEnsino:
 
 
 class InstituicaoEnsinoSchema(Schema):
-    def validate_positive(value):
-        if value <= 0:
-            raise ValidationError("O valor deve ser um número inteiro positivo.")
+    NU_ANO_CENSO = fields.Int(
+        required=True,
+        validate=validate_positive,
+        error_messages={
+            "required": "O campo NU_ANO_CENSO é obrigatório.",
+            "null": "O campo NU_ANO_CENSO não pode ser nulo."
+        }
+    )
     NO_REGIAO = fields.Str(
         required=True, 
         validate=validate.Length(min=3, max=20), 
         error_messages={
             "required": "O campo NO_REGIAO é obrigatório.",
             "null": "O campo NO_REGIAO não pode ser nulo.",
-            "validator_failed": "O campo NO_REGIAO deve ter entre 3 (três) e 20 (vinte) caracteres."
+            "validator_failed": "O campo NO_REGIAO deve ter entre 3 e 20 caracteres."
         }
     )
     CO_REGIAO = fields.Int(
@@ -76,7 +88,7 @@ class InstituicaoEnsinoSchema(Schema):
         error_messages={
             "required": "O campo NO_UF é obrigatório.",
             "null": "O campo NO_UF não pode ser nulo.",
-            "validator_failed": "O campo NO_UF deve ter entre 2 (dois) e 50 (cinquenta) caracteres."
+            "validator_failed": "O campo NO_UF deve ter entre 2 e 50 caracteres."
         }
     )
     SG_UF = fields.Str(
@@ -85,7 +97,7 @@ class InstituicaoEnsinoSchema(Schema):
         error_messages={
             "required": "O campo SG_UF é obrigatório.",
             "null": "O campo SG_UF não pode ser nulo.",
-            "validator_failed": "O campo SG_UF deve ter exatamente 2 (dois) caracteres."
+            "validator_failed": "O campo SG_UF deve ter exatamente 2 caracteres."
         }
     )
     CO_UF = fields.Int(
@@ -102,7 +114,7 @@ class InstituicaoEnsinoSchema(Schema):
         error_messages={
             "required": "O campo NO_MUNICIPIO é obrigatório.",
             "null": "O campo NO_MUNICIPIO não pode ser nulo.",
-            "validator_failed": "O campo NO_MUNICIPIO deve ter entre 3 (três) e 150 (cento e cinquenta) caracteres."
+            "validator_failed": "O campo NO_MUNICIPIO deve ter entre 3 e 150 caracteres."
         }
     )
     CO_MUNICIPIO = fields.Int(
@@ -110,7 +122,7 @@ class InstituicaoEnsinoSchema(Schema):
         validate=validate_positive,
         error_messages={
             "required": "O campo CO_MUNICIPIO é obrigatório.",
-            "null": "O campo CO_MUNICIPIO do Município não pode ser nulo."
+            "null": "O campo CO_MUNICIPIO não pode ser nulo."
         }
     )
     CO_MESORREGIAO = fields.Int(
@@ -146,59 +158,10 @@ class InstituicaoEnsinoSchema(Schema):
             "null": "O campo CO_ENTIDADE não pode ser nulo."
         }
     )
-    QT_MAT_BAS = fields.Int(
-        required=True,
-        validate=validate_positive,
-        error_messages={
-            "required": "O campo QT_MAT_BAS é obrigatório.",
-            "null": "O campo QT_MAT_BAS não pode ser nulo."
-        }
-    )
-    QT_MAT_EJA = fields.Int(
-        required=True,
-        validate=validate_positive,
-        error_messages={
-            "required": "O campo QT_MAT_EJA é obrigatório.",
-            "null": "O campo QT_MAT_EJA não pode ser nulo."
-        }
-    )
-    QT_MAT_ESP = fields.Int(
-        required=True,
-        validate=validate_positive,
-        error_messages={
-            "required": "O campo QT_MAT_ESP é obrigatório.",
-            "null": "O campo QT_MAT_ESP não pode ser nulo."
-        }
-    )
-    QT_MAT_FUND = fields.Int(
-        required=True,
-        validate=validate_positive,
-        error_messages={
-            "required": "O campo QT_MAT_FUND é obrigatório.",
-            "null": "O campo QT_MAT_FUND não pode ser nulo."
-        }
-    )
-    QT_MAT_INF = fields.Int(
-        required=True,
-        validate=validate_positive,
-        error_messages={
-            "required": "O campo QT_MAT_INF é obrigatório.",
-            "null": "O campo QT_MAT_INF não pode ser nulo."
-        }
-    )    
-    QT_MAT_MED = fields.Int(
-        required=True,
-        validate=validate_positive,
-        error_messages={
-            "required": "O campo QT_MAT_MED é obrigatório.",
-            "null": "O campo QT_MAT_MED não pode ser nulo."
-        }
-    )
-    QT_MAT_PROF = fields.Int(
-        required=True,
-        validate=validate_positive,
-        error_messages={
-            "required": "O campo QT_MAT_PROF é obrigatório.",
-            "null": "O campo QT_MAT_PROF não pode ser nulo."
-        }
-    )        
+    QT_MAT_BAS = fields.Int(required=True, validate=validate_positive)
+    QT_MAT_EJA = fields.Int(required=True, validate=validate_positive)
+    QT_MAT_ESP = fields.Int(required=True, validate=validate_positive)
+    QT_MAT_FUND = fields.Int(required=True, validate=validate_positive)
+    QT_MAT_INF = fields.Int(required=True, validate=validate_positive)
+    QT_MAT_MED = fields.Int(required=True, validate=validate_positive)
+    QT_MAT_PROF = fields.Int(required=True, validate=validate_positive)

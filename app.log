@@ -1,24 +1,18 @@
-2025-07-24 20:08:49,770 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEF MARIA DA CRUZ MACENA', 11001534, None, None, None, None, None, None, None)
-2025-07-24 20:08:49,774 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EEEFM MARIANA', 11001550, 809, 118, 28, 335, 0, 356, 0)
-2025-07-24 20:08:49,775 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEF MORVAN FREIRE BRASIL', 11001607, 16, 0, 0, 16, 0, 0, 0)
-2025-07-24 20:08:49,775 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEF JOSE BEDONI', 11001615, None, None, None, None, None, None, None)
-2025-07-24 20:08:49,775 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEF JOSE DE ANCHIETA', 11001623, None, None, None, None, None, None, None)
-2025-07-24 20:08:49,775 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EEEFM MURILO BRAGA', 11001640, 1140, 0, 13, 563, 0, 577, 0)
-2025-07-24 20:08:49,775 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEIEF NACIONAL', 11001658, 484, 0, 19, 397, 87, 0, 0)
-2025-07-24 20:08:49,775 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEF NACOES UNIDAS', 11001666, 237, 0, 12, 237, 0, 0, 0)
-2025-07-24 20:08:49,775 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EEEF NOSSA SENHORA DAS GRACAS', 11001712, 251, 0, 10, 251, 0, 0, 0)
-2025-07-24 20:08:49,775 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEF PADRE JOSE DE ANCHIETA', 11001798, 40, 0, 1, 40, 0, 0, 0)
-2025-07-24 20:08:49,775 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EEEF GOVERNADOR PAULO NUNES LEAL', 11001810, 198, 0, 27, 179, 0, 19, 0)
-2025-07-24 20:08:49,775 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEF PADRE CHIQUINHO', 11001828, 492, 0, 40, 492, 0, 0, 0)
-2025-07-24 20:08:49,776 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EEEF PE MARIO CASTAGNA', 11001844, 499, 0, 42, 499, 0, 0, 0)
-2025-07-24 20:08:49,776 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EEEFM PRES TANCREDO DE ALMEIDA NEVES', 11001887, 685, 251, 38, 434, 0, 0, 0)
-2025-07-24 20:08:49,776 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEF PRESIDENTE MEDICI', 11001895, None, None, None, None, None, None, None)
-2025-07-24 20:08:49,776 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EEEF PRINCESA IZABEL', 11001909, 128, 0, 5, 128, 0, 0, 0)
-2025-07-24 20:08:49,776 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEF PROF ANTONIO DOS SANTOS', 11001917, None, None, None, None, None, None, None)
-2025-07-24 20:08:49,779 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEF PROFª MARIA DO CARMO RIBEIRO', 11001950, None, None, None, None, None, None, None)
-2025-07-24 20:08:49,780 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEIEF MARIA IZAURA DA COSTA CRUZ', 11001968, 350, 74, 22, 276, 0, 0, 0)
-2025-07-24 20:08:49,780 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EEEF PROF ROBERTO DUARTE PIRES', 11001992, 614, 117, 35, 497, 0, 0, 0)
-2025-07-24 20:08:49,786 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EEEF PROF ELOISA BENTES RAMOS', 11002000, 253, 0, 15, 253, 0, 0, 0)
-2025-07-24 20:08:49,786 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EEEFM PROF FLORA CALHEIROS COTRIN', 11002018, 2140, 347, 87, 1098, 0, 695, 0)
-2025-07-24 20:08:49,788 - INFO - ('Norte', 1, 'Rondônia', 'RO', 11, 'Porto Velho', 1100205, 1101, 11001, 'EMEF PROF ALZIRA FALCAO', 11002026, None, None, None, None, None, None, None)
-2025-07-24 20:08:49,788 - INFO - Instituições retornadas com sucesso!
+2025-08-04 12:35:25,759 - INFO - Instituições retornadas com sucesso!
+2025-08-04 12:35:25,950 - INFO - GET ALL - page=1 | per_page=1 | offset=0
+2025-08-04 12:35:25,968 - INFO - Instituições retornadas com sucesso!
+2025-08-04 12:35:26,133 - INFO - GET ALL - page=1 | per_page=1 | offset=0
+2025-08-04 12:35:26,145 - INFO - Instituições retornadas com sucesso!
+2025-08-04 12:35:26,330 - INFO - GET ALL - page=1 | per_page=1 | offset=0
+2025-08-04 12:35:26,345 - INFO - Instituições retornadas com sucesso!
+2025-08-04 12:35:26,525 - INFO - GET ALL - page=1 | per_page=1 | offset=0
+2025-08-04 12:35:26,540 - INFO - Instituições retornadas com sucesso!
+2025-08-04 12:35:26,704 - INFO - GET ALL - page=1 | per_page=1 | offset=0
+2025-08-04 12:35:26,740 - INFO - Instituições retornadas com sucesso!
+2025-08-04 12:36:43,288 - INFO - POST - Instituição
+2025-08-04 12:36:43,308 - INFO - Instituição (CO_ENTIDADE=11111111, ANO=2023) criada com sucesso!
+2025-08-04 12:36:56,142 - INFO - GET ALL - page=1 | per_page=1 | offset=0
+2025-08-04 12:36:56,151 - INFO - Instituições retornadas com sucesso!
+2025-08-04 12:37:23,867 - INFO - GET BY CO_ENTIDADE & ANO- Instituição (2023, 11111111)
+2025-08-04 12:37:35,369 - INFO - GET BY CO_ENTIDADE & ANO- Instituição (11111111, 2023)
+2025-08-04 13:17:47,982 - INFO - DELETE - Instituição (11111111, 2023)

@@ -1,109 +1,143 @@
-import sqlite3
 import json
+import subprocess
+import sys
+from psycopg2.extras import execute_values
+from helpers.database import connect_raw
+from helpers.logging import logger
 
-# Conectar/criar o banco de dados SQLite
-conn = sqlite3.connect("CensoEscolarExtrator.db")
-cursor = conn.cursor()
+EXTRATORS = [
+    "UFExtrator.py",
+    "MesorregiaoExtrator.py",
+    "MicrorregiaoExtrator.py",
+    "MunicipioExtrator.py",
+]
 
-# 1. Criar as tabelas conforme schemas.sql
-with open("schemas.sql", "r", encoding="utf-8") as sql_file:
-    sql_script = sql_file.read()
-    cursor.executescript(sql_script)
+def run_script(script_name):
+    print(f"Executando {script_name}...")
+    result = subprocess.run([sys.executable, script_name], capture_output=True, text=True)
+    if result.returncode != 0:
+        print(f"Erro ao executar {script_name}:\n{result.stderr}")
+        sys.exit(1)
+    print(result.stdout)
 
-# 3. Inserir UFs
-with open("UFsBrasil.json", "r", encoding="utf-8") as f:
-    ufs = json.load(f)
-for uf in ufs:
-    cursor.execute(
-        "INSERT OR IGNORE INTO UFs (CO_UF, SG_UF, NO_UF) VALUES (?, ?, ?)",
-        (
-            uf['CO_UF'],
-            uf['SG_UF'],
-            uf['NO_UF'],
-        )
+
+def run_schemas():
+    conn = connect_raw()
+    try:
+        with conn.cursor() as cur:
+            with open("schemas.sql", "r", encoding="utf-8") as sql_file:
+                sql_script = sql_file.read()
+                cur.execute(sql_script) 
+        conn.commit()
+        print("Tabela criadas conforme schemas.sql.")
+    except Exception:
+        conn.rollback()
+        logger.exception("Erro ao executar schemas.sql")
+        sys.exit(1)
+    finally:
+        conn.close()
+
+
+for script in EXTRATORS:
+    run_script(script)
+
+run_schemas()
+
+
+CREATE_TABLE_SQL = """
+CREATE TABLE IF NOT EXISTS Instituicoes (
+    NU_ANO_CENSO    INTEGER,
+    CO_ENTIDADE     BIGINT NOT NULL,
+    NO_ENTIDADE     TEXT NOT NULL,
+    NO_REGIAO       TEXT,
+    CO_REGIAO       INTEGER,
+    NO_UF           TEXT,
+    SG_UF           TEXT,
+    CO_UF           INTEGER,
+    NO_MUNICIPIO    TEXT,
+    CO_MUNICIPIO    INTEGER,
+    CO_MESORREGIAO  INTEGER,
+    CO_MICRORREGIAO INTEGER,
+    QT_MAT_BAS      INTEGER,
+    QT_MAT_EJA      INTEGER,
+    QT_MAT_ESP      INTEGER,
+    QT_MAT_FUND      INTEGER,
+    QT_MAT_INF      INTEGER,
+    QT_MAT_MED      INTEGER,
+    QT_MAT_PROF     INTEGER,
+    PRIMARY KEY (NU_ANO_CENSO, CO_ENTIDADE),
+    FOREIGN KEY (CO_UF) REFERENCES UFs(CO_UF),
+    FOREIGN KEY (CO_MUNICIPIO) REFERENCES Municipios(CO_MUNICIPIO),
+    FOREIGN KEY (CO_MESORREGIAO) REFERENCES Mesorregioes(CO_MESORREGIAO),
+    FOREIGN KEY (CO_MICRORREGIAO) REFERENCES Microrregioes(CO_MICRORREGIAO)
+);
+"""
+
+UPSERT_SQL = """
+INSERT INTO Instituicoes (
+    NU_ANO_CENSO, CO_ENTIDADE, NO_ENTIDADE,NO_REGIAO, CO_REGIAO,
+    NO_UF, SG_UF, CO_UF,
+    NO_MUNICIPIO, CO_MUNICIPIO, CO_MESORREGIAO, CO_MICRORREGIAO,
+    QT_MAT_BAS, QT_MAT_EJA, QT_MAT_ESP, QT_MAT_FUND,
+    QT_MAT_INF, QT_MAT_MED, QT_MAT_PROF
+) VALUES %s
+ON CONFLICT (NU_ANO_CENSO,CO_ENTIDADE) DO UPDATE
+SET NO_ENTIDADE    = EXCLUDED.NO_ENTIDADE,
+    NO_REGIAO      = EXCLUDED.NO_REGIAO,
+    CO_REGIAO      = EXCLUDED.CO_REGIAO,
+    NO_UF          = EXCLUDED.NO_UF,
+    SG_UF          = EXCLUDED.SG_UF,
+    CO_UF          = EXCLUDED.CO_UF,
+    NO_MUNICIPIO   = EXCLUDED.NO_MUNICIPIO,
+    CO_MUNICIPIO   = EXCLUDED.CO_MUNICIPIO,
+    CO_MESORREGIAO = EXCLUDED.CO_MESORREGIAO,
+    CO_MICRORREGIAO= EXCLUDED.CO_MICRORREGIAO,
+    QT_MAT_BAS     = EXCLUDED.QT_MAT_BAS,
+    QT_MAT_EJA     = EXCLUDED.QT_MAT_EJA,
+    QT_MAT_ESP     = EXCLUDED.QT_MAT_ESP,
+    QT_MAT_FUND    = EXCLUDED.QT_MAT_FUND,
+    QT_MAT_INF     = EXCLUDED.QT_MAT_INF,
+    QT_MAT_MED     = EXCLUDED.QT_MAT_MED,
+    QT_MAT_PROF    = EXCLUDED.QT_MAT_PROF;
+"""
+
+def chunked(data, size=5000):
+    for i in range(0, len(data), size):
+        yield data[i:i+size]
+
+try:
+    with open("instituicoes2023.json", "r", encoding="utf-8") as f:
+        instituicoes = json.load(f)
+except FileNotFoundError:
+    logger.error("Arquivo instituicoes2024.json não encontrado.")
+    exit(1)
+
+rows = [
+    (
+        instituicoes['NU_ANO_CENSO'], instituicoes['CO_ENTIDADE'],
+        instituicoes['NO_ENTIDADE'], instituicoes['NO_REGIAO'], instituicoes['CO_REGIAO'], instituicoes['NO_UF'], instituicoes['SG_UF'], instituicoes['CO_UF'],
+        instituicoes['NO_MUNICIPIO'], instituicoes['CO_MUNICIPIO'], instituicoes['CO_MESORREGIAO'], 
+        instituicoes['CO_MICRORREGIAO'],
+        instituicoes.get('QT_MAT_BAS'), instituicoes.get('QT_MAT_EJA'), instituicoes.get('QT_MAT_ESP'),
+        instituicoes.get('QT_MAT_FUND'), instituicoes.get('QT_MAT_INF'), instituicoes.get('QT_MAT_MED'),
+        instituicoes.get('QT_MAT_PROF')
     )
+    for instituicoes in instituicoes
+]
 
+if not rows:
+    logger.warning("Nenhuma instituição encontrada.")
 
-# 5. Inserir Mesorregiões
-with open("Mesorregioes2024.json", "r", encoding="utf-8") as f:
-    mesorregioes = json.load(f)
-for mesorregiao in mesorregioes:
-    cursor.execute(
-        "INSERT OR IGNORE INTO Mesorregioes (CO_MESORREGIAO, NO_MESORREGIAO, CO_UF) VALUES (?, ?, ?)",
-        (
-            mesorregiao['CO_MESORREGIAO'],
-            mesorregiao['NO_MESORREGIAO'],
-            mesorregiao['CO_UF']
-        )
-    )
-
-
-# 6. Inserir Microrregiões
-with open("Microrregioes2024.json", "r", encoding="utf-8") as f:
-    microrregioes = json.load(f)
-for microrregiao in microrregioes:
-    cursor.execute(
-        "INSERT OR IGNORE INTO Microrregioes (CO_MICRORREGIAO, NO_MICRORREGIAO, CO_MESORREGIAO) VALUES (?, ?, ?)",
-        (
-            microrregiao['CO_MICRORREGIAO'],
-            microrregiao['NO_MICRORREGIAO'],
-            microrregiao['CO_MESORREGIAO'],
-        )
-    )
-
-
-# 4. Inserir Municípios
-with open("MunicipiosBrasil.json", "r", encoding="utf-8") as f:
-    municipios = json.load(f)
-for municipio in municipios:
-    cursor.execute(
-        "INSERT OR IGNORE INTO Municipios (CO_MUNICIPIO, NO_MUNICIPIO, CO_MICRORREGIAO) VALUES (?, ?, ?)",
-        (
-            municipio['CO_MUNICIPIO'],
-            municipio['NO_MUNICIPIO'],
-            municipio['CO_MICRORREGIAO']
-        )
-    )
-
-
-
-# 2. Inserir Instituições
-with open("instituicoes2024_corrigido.json", "r", encoding="utf-8") as f:
-    instituicoes = json.load(f)
-for instituicao in instituicoes:
-    cursor.execute(
-        "INSERT INTO Instituicoes (\
-            NO_REGIAO, CO_REGIAO, NO_UF, SG_UF, CO_UF,\
-            NO_MUNICIPIO, CO_MUNICIPIO, CO_MESORREGIAO, \
-            CO_MICRORREGIAO, NO_ENTIDADE, CO_ENTIDADE, QT_MAT_BAS, \
-            QT_MAT_EJA, QT_MAT_ESP, QT_MAT_FUND, QT_MAT_INF, QT_MAT_MED, QT_MAT_PROF \
-        ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
-        (
-            instituicao['NO_REGIAO'],
-            instituicao['CO_REGIAO'],
-            instituicao['NO_UF'],
-            instituicao['SG_UF'],
-            instituicao['CO_UF'],
-            instituicao['NO_MUNICIPIO'],
-            instituicao['CO_MUNICIPIO'],
-            instituicao['CO_MESORREGIAO'],
-            instituicao['CO_MICRORREGIAO'],
-            instituicao['NO_ENTIDADE'],
-            instituicao['CO_ENTIDADE'],
-            instituicao.get('QT_MAT_BAS'),
-            instituicao.get('QT_MAT_EJA'),
-            instituicao.get('QT_MAT_ESP'),
-            instituicao.get('QT_MAT_FUND'),
-            instituicao.get('QT_MAT_INF'),
-            instituicao.get('QT_MAT_MED'),
-            instituicao.get('QT_MAT_PROF'),
-        )
-    )
-
-
-
-
-# Commit e fechar conexão
-conn.commit()
-conn.close()
-print("Banco 'CensoEscolarExtrator.db' inicializado com sucesso.")
+conn = connect_raw()
+try:
+    with conn.cursor() as cur:
+        cur.execute(CREATE_TABLE_SQL)
+        for batch in chunked(rows, 5000):
+            execute_values(cur, UPSERT_SQL, batch, page_size=5000)
+    conn.commit()
+    print("Tabela instituicoes inserida/atualizada com sucesso.")
+except Exception:
+    conn.rollback()
+    logger.exception("Erro ao persistir a tabela instituicoes no banco")
+finally:
+    conn.close()
